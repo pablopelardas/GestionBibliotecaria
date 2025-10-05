@@ -3,6 +3,7 @@ Utilidad para mostrar resultados paginados de manera genérica.
 """
 
 from utils.consola import limpiar_consola, pausar
+from utils.input import input_numero
 
 
 def mostrar_resultados_paginados(resultados, funcion_mostrar_item, titulo="Resultados", por_pagina=15):
@@ -59,6 +60,9 @@ def mostrar_resultados_paginados(resultados, funcion_mostrar_item, titulo="Resul
         if pagina_actual < total_paginas - 1:
             print("  [S] Página siguiente")
 
+        if total_paginas > 1:
+            print(f"  [1-{total_paginas}] Ir a página específica")
+
         print("  [0] Volver")
 
         # Obtener opción del usuario
@@ -70,6 +74,14 @@ def mostrar_resultados_paginados(resultados, funcion_mostrar_item, titulo="Resul
             pagina_actual += 1
         elif opcion == '0':
             break
+        elif opcion.isdigit():
+            # Ir a página específica
+            numero_pagina = int(opcion)
+            if 1 <= numero_pagina <= total_paginas:
+                pagina_actual = numero_pagina - 1
+            else:
+                print(f"❌ Número de página inválido. Debe estar entre 1 y {total_paginas}")
+                pausar()
         else:
             print("❌ Opción inválida")
             pausar()

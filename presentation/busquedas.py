@@ -5,13 +5,13 @@ Maneja la interacción con el usuario para las diferentes búsquedas.
 
 from utils.consola import limpiar_consola, pausar
 from utils.paginacion import mostrar_resultados_paginados, mostrar_item_libro
-from business.buscador_service import (
+from negocio.buscador_service import (
     busqueda_binaria_isbn,
     busqueda_recursiva_texto,
     buscar_por_genero,
     listar_generos
 )
-from business.usuario_service import obtener_nombre_usuario
+from negocio.usuario_service import obtener_nombre_usuario
 from utils.input import input_numero
 
 

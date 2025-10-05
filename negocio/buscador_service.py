@@ -57,7 +57,7 @@ def busqueda_binaria_isbn(isbn_buscado):
 
 def _busqueda_binaria_recursiva(indice, isbn_buscado, izquierda, derecha):
     """
-    Implementación RECURSIVA de búsqueda binaria.
+    Implementación de búsqueda binaria.
 
     Args:
         indice (list): Lista ordenada de libros por ISBN

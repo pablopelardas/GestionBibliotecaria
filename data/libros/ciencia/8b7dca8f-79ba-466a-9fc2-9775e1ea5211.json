@@ -1,0 +1,16 @@
+{
+    "libro_id": "8b7dca8f-79ba-466a-9fc2-9775e1ea5211",
+    "isbn": "978-0-1942-1223-7",
+    "title": "Federal design view",
+    "autor": "Joseph Williams",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "32326E571C2F47B591C821C1FD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 151,
+            "user_id": "32326E571C2F47B591C821C1FD",
+            "regresado": false
+        }
+    ]
+}

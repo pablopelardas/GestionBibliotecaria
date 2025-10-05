@@ -1,0 +1,16 @@
+{
+    "libro_id": "f4411034-8faa-406e-92f0-71dcc0df84b3",
+    "isbn": "978-0-8931-4781-6",
+    "title": "The live discuss",
+    "autor": "Jordan Bradford",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "53EC8831D46D4634A12C57526E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 29,
+            "user_id": "53EC8831D46D4634A12C57526E",
+            "regresado": false
+        }
+    ]
+}

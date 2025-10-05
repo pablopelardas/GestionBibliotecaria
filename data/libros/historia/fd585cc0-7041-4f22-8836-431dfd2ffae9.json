@@ -1,0 +1,10 @@
+{
+    "libro_id": "fd585cc0-7041-4f22-8836-431dfd2ffae9",
+    "isbn": "978-0-6142-8887-4",
+    "title": "Among my game",
+    "autor": "Sara Barker",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

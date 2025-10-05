@@ -1,0 +1,16 @@
+{
+    "libro_id": "63456cb7-0944-4e8b-a3c5-731287108dda",
+    "isbn": "978-7-1798-3200-0",
+    "title": "Get house standard",
+    "autor": "Amber Bush",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "50E4171D39654B9DB596C79A45",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 319,
+            "user_id": "50E4171D39654B9DB596C79A45",
+            "regresado": false
+        }
+    ]
+}

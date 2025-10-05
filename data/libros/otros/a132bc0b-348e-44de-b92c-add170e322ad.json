@@ -1,0 +1,16 @@
+{
+    "libro_id": "a132bc0b-348e-44de-b92c-add170e322ad",
+    "isbn": "978-0-1982-3697-8",
+    "title": "Dark travel itself",
+    "autor": "Brittany Phillips",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "0DF841FF51F0423EB96728CDFB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 318,
+            "user_id": "0DF841FF51F0423EB96728CDFB",
+            "regresado": false
+        }
+    ]
+}

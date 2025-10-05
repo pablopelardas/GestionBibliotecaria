@@ -1,0 +1,10 @@
+{
+    "libro_id": "22b6ee86-ba6d-4c45-bcea-1b507a23b0f3",
+    "isbn": "978-4-6914-1535-9",
+    "title": "Popular pull",
+    "autor": "Ernest Lopez",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

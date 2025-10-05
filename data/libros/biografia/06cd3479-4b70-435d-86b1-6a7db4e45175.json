@@ -1,0 +1,10 @@
+{
+    "libro_id": "06cd3479-4b70-435d-86b1-6a7db4e45175",
+    "isbn": "978-1-2086-2223-5",
+    "title": "Senior financial",
+    "autor": "Nicolas Sutton",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

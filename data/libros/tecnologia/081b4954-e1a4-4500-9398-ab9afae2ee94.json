@@ -1,0 +1,10 @@
+{
+    "libro_id": "081b4954-e1a4-4500-9398-ab9afae2ee94",
+    "isbn": "978-3-3871-3229-8",
+    "title": "Amount moment possible",
+    "autor": "Monique Lopez",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

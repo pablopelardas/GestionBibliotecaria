@@ -1,0 +1,16 @@
+{
+    "libro_id": "12249857-1c85-448f-a452-0c572d75020e",
+    "isbn": "978-4-9093-6879-5",
+    "title": "Friend able herself likely",
+    "autor": "David Lopez MD",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "65FA680451804E09AEB5B7B8FA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 388,
+            "user_id": "65FA680451804E09AEB5B7B8FA",
+            "regresado": false
+        }
+    ]
+}

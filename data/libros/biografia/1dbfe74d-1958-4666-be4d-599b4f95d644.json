@@ -1,0 +1,16 @@
+{
+    "libro_id": "1dbfe74d-1958-4666-be4d-599b4f95d644",
+    "isbn": "978-8-5585-3685-4",
+    "title": "Animal field",
+    "autor": "Brooke Herrera",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "F95A91C6A39F44B9A407E3CA04",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 436,
+            "user_id": "F95A91C6A39F44B9A407E3CA04",
+            "regresado": false
+        }
+    ]
+}

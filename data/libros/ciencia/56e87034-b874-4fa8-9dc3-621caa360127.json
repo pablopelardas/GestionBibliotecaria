@@ -1,0 +1,16 @@
+{
+    "libro_id": "56e87034-b874-4fa8-9dc3-621caa360127",
+    "isbn": "978-7-7314-5799-4",
+    "title": "Help key",
+    "autor": "Sara Russell",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "3FD312DA7E3440D39355867DCF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 96,
+            "user_id": "3FD312DA7E3440D39355867DCF",
+            "regresado": false
+        }
+    ]
+}

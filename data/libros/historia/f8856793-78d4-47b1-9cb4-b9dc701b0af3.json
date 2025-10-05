@@ -1,0 +1,16 @@
+{
+    "libro_id": "f8856793-78d4-47b1-9cb4-b9dc701b0af3",
+    "isbn": "978-5-3541-1641-7",
+    "title": "Since performance help",
+    "autor": "Annette Austin",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "C3208025555C436F9F89A7BE3D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 512,
+            "user_id": "C3208025555C436F9F89A7BE3D",
+            "regresado": false
+        }
+    ]
+}

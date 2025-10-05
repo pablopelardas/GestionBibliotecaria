@@ -1,0 +1,16 @@
+{
+    "libro_id": "db89ad67-3e50-48d8-bbbc-32d79a55958e",
+    "isbn": "978-7-6721-2662-2",
+    "title": "Different one",
+    "autor": "Ashley Vazquez",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "61581C8DA34740FC9F3EDF6ACC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 160,
+            "user_id": "61581C8DA34740FC9F3EDF6ACC",
+            "regresado": false
+        }
+    ]
+}

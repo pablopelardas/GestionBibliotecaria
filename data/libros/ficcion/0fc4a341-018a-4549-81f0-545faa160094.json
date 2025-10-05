@@ -1,0 +1,16 @@
+{
+    "libro_id": "0fc4a341-018a-4549-81f0-545faa160094",
+    "isbn": "978-5-3575-4361-2",
+    "title": "Manage it",
+    "autor": "Christina Davis",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "EBC4BC0DAA684D538B2FEFFB90",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 109,
+            "user_id": "EBC4BC0DAA684D538B2FEFFB90",
+            "regresado": false
+        }
+    ]
+}

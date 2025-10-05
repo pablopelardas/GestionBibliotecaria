@@ -1,0 +1,16 @@
+{
+    "libro_id": "7fafe7bc-2acc-44e0-b361-d928003cb34c",
+    "isbn": "978-0-9631-4082-1",
+    "title": "Southern book",
+    "autor": "Robert Booth",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "2B083BB77C2F4F47A964ED1317",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 241,
+            "user_id": "2B083BB77C2F4F47A964ED1317",
+            "regresado": false
+        }
+    ]
+}

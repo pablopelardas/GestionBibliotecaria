@@ -1,0 +1,16 @@
+{
+    "libro_id": "e4c204d2-c66f-49f5-acc4-62748a81425f",
+    "isbn": "978-0-9189-6042-1",
+    "title": "Either respond during",
+    "autor": "Edward Waters DDS",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "2616776BD72E4387A3873B16EF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 378,
+            "user_id": "2616776BD72E4387A3873B16EF",
+            "regresado": false
+        }
+    ]
+}

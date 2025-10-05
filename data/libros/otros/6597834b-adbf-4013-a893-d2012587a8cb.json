@@ -1,0 +1,16 @@
+{
+    "libro_id": "6597834b-adbf-4013-a893-d2012587a8cb",
+    "isbn": "978-8-9493-9025-6",
+    "title": "Together",
+    "autor": "Jennifer Tran",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "BE37AC034F5648ADA026BBE199",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 390,
+            "user_id": "BE37AC034F5648ADA026BBE199",
+            "regresado": false
+        }
+    ]
+}

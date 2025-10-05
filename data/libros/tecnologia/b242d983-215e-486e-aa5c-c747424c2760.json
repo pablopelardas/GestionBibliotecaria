@@ -1,0 +1,10 @@
+{
+    "libro_id": "b242d983-215e-486e-aa5c-c747424c2760",
+    "isbn": "978-3-4882-5409-4",
+    "title": "Research house",
+    "autor": "Kristen Zimmerman",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

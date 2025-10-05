@@ -1,0 +1,16 @@
+{
+    "libro_id": "fbb09646-1229-468e-a14f-1e288dad9220",
+    "isbn": "978-9-8654-7189-9",
+    "title": "Center give body nearly",
+    "autor": "Dalton Richardson",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "0242BCA1DB194B0E851B0DAC5F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 317,
+            "user_id": "0242BCA1DB194B0E851B0DAC5F",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "501a83e0-470d-4fb4-b39b-e2aa22a76d41",
+    "isbn": "978-8-2099-2694-5",
+    "title": "Idea speak office",
+    "autor": "Susan Shaffer",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "6868CE1ABC5B4B1E85FB211789",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 320,
+            "user_id": "6868CE1ABC5B4B1E85FB211789",
+            "regresado": false
+        }
+    ]
+}

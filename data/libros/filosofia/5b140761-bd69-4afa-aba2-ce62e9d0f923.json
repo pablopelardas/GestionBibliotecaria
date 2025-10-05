@@ -1,0 +1,16 @@
+{
+    "libro_id": "5b140761-bd69-4afa-aba2-ce62e9d0f923",
+    "isbn": "978-9-5546-3707-6",
+    "title": "Kitchen increase together",
+    "autor": "Patrick Robles",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 550,
+            "user_id": "F8E6F6FAAF4C4FEAB8D37C02DD",
+            "regresado": true
+        }
+    ]
+}

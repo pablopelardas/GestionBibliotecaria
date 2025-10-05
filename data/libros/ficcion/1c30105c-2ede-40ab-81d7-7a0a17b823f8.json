@@ -1,0 +1,10 @@
+{
+    "libro_id": "1c30105c-2ede-40ab-81d7-7a0a17b823f8",
+    "isbn": "978-8-3431-7741-2",
+    "title": "Door then true",
+    "autor": "Sandra Mayer",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

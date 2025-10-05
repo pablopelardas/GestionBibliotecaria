@@ -1,0 +1,10 @@
+{
+    "libro_id": "5c75c898-b0a2-4118-8f4d-1ab078894573",
+    "isbn": "978-4-1749-3555-3",
+    "title": "Myself owner seek",
+    "autor": "Suzanne Vincent",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

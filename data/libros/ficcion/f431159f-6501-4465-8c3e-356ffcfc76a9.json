@@ -1,0 +1,16 @@
+{
+    "libro_id": "f431159f-6501-4465-8c3e-356ffcfc76a9",
+    "isbn": "978-3-9642-5343-2",
+    "title": "We how win",
+    "autor": "Edward Rasmussen",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "B25B239FEEE04C689C5CA59501",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 185,
+            "user_id": "B25B239FEEE04C689C5CA59501",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "0766820c-4082-4d61-a2d5-112eff262f39",
+    "isbn": "978-3-8438-5298-7",
+    "title": "Recent development",
+    "autor": "Brian White",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

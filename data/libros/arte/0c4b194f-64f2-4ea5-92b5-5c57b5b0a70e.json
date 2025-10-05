@@ -1,0 +1,16 @@
+{
+    "libro_id": "0c4b194f-64f2-4ea5-92b5-5c57b5b0a70e",
+    "isbn": "978-2-4044-2651-7",
+    "title": "Society true compare dream",
+    "autor": "Albert Roberts",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "6868CE1ABC5B4B1E85FB211789",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 214,
+            "user_id": "6868CE1ABC5B4B1E85FB211789",
+            "regresado": false
+        }
+    ]
+}

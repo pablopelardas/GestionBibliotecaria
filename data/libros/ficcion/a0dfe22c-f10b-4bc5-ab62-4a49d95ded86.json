@@ -1,0 +1,10 @@
+{
+    "libro_id": "a0dfe22c-f10b-4bc5-ab62-4a49d95ded86",
+    "isbn": "978-0-2134-1513-9",
+    "title": "Product head into hot",
+    "autor": "Dr. Beverly Parker",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "d0b372cd-2276-44aa-a16f-fa5be3e22062",
+    "isbn": "978-5-5220-1804-4",
+    "title": "In tell town",
+    "autor": "Maria Davis",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 296,
+            "user_id": "390B6900BE72460187CD16144D",
+            "regresado": true
+        }
+    ]
+}

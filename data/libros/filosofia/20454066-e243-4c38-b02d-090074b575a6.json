@@ -1,0 +1,10 @@
+{
+    "libro_id": "20454066-e243-4c38-b02d-090074b575a6",
+    "isbn": "978-0-8404-7704-5",
+    "title": "Likely media",
+    "autor": "Hannah House",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

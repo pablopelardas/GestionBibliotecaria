@@ -1,0 +1,16 @@
+{
+    "libro_id": "add5ccde-01fc-4ee0-8acc-d4e45b702477",
+    "isbn": "978-8-5264-8147-0",
+    "title": "Together father",
+    "autor": "Oscar Miller",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "F2E6B07D4DFD4D0DAF10E17650",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 434,
+            "user_id": "F2E6B07D4DFD4D0DAF10E17650",
+            "regresado": false
+        }
+    ]
+}

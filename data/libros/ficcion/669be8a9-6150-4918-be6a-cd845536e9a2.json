@@ -1,0 +1,10 @@
+{
+    "libro_id": "669be8a9-6150-4918-be6a-cd845536e9a2",
+    "isbn": "978-8-4123-5301-6",
+    "title": "Money",
+    "autor": "Valerie Gordon",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

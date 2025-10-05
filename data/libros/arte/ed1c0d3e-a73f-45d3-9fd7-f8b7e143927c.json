@@ -1,0 +1,16 @@
+{
+    "libro_id": "ed1c0d3e-a73f-45d3-9fd7-f8b7e143927c",
+    "isbn": "978-2-6295-3276-6",
+    "title": "Decision lawyer",
+    "autor": "Kenneth Brown",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 183,
+            "user_id": "7C433482271A49D3BBAB3BF52B",
+            "regresado": true
+        }
+    ]
+}

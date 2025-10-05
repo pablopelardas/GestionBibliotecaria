@@ -1,0 +1,16 @@
+{
+    "libro_id": "0ddaacab-2e6c-4f45-a789-38b1fc667725",
+    "isbn": "978-5-8311-3801-7",
+    "title": "Change determine",
+    "autor": "Zachary Roberts",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "83727FFD3F4449BC88CD7C0FDB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 245,
+            "user_id": "83727FFD3F4449BC88CD7C0FDB",
+            "regresado": false
+        }
+    ]
+}

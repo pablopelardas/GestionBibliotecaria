@@ -1,0 +1,10 @@
+{
+    "libro_id": "a6d3785a-6435-43e1-9f91-909a8bbb1583",
+    "isbn": "978-9-7745-6233-4",
+    "title": "Lot quickly animal",
+    "autor": "Thomas Warren",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "2f2e4e55-544a-436b-8f25-2006569d1ec5",
+    "isbn": "978-4-6941-4040-5",
+    "title": "Bit it perhaps",
+    "autor": "Mr. Christopher Hendricks",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "1A11C25A506D4998A5B864FDF9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 502,
+            "user_id": "1A11C25A506D4998A5B864FDF9",
+            "regresado": false
+        }
+    ]
+}

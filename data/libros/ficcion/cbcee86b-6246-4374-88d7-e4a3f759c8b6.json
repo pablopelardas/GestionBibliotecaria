@@ -1,0 +1,16 @@
+{
+    "libro_id": "cbcee86b-6246-4374-88d7-e4a3f759c8b6",
+    "isbn": "978-3-4881-9425-9",
+    "title": "Note spend cup",
+    "autor": "Michael Boyd",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "5E9CA1C5DB224140BA9D2B428A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 170,
+            "user_id": "5E9CA1C5DB224140BA9D2B428A",
+            "regresado": false
+        }
+    ]
+}

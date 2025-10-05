@@ -1,0 +1,10 @@
+{
+    "libro_id": "c2cd905c-2e79-40e6-8368-58d07b6d27db",
+    "isbn": "978-9-8196-3810-3",
+    "title": "Hear order",
+    "autor": "Nancy Gallegos",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

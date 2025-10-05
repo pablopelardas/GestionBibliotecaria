@@ -1,0 +1,16 @@
+{
+    "libro_id": "026f1fd4-e18d-46e1-bb04-224c6823a40b",
+    "isbn": "978-0-1858-9928-8",
+    "title": "Most police skill",
+    "autor": "Mark Rodriguez",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "840852BEFC9D434FA4D789C48C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 309,
+            "user_id": "840852BEFC9D434FA4D789C48C",
+            "regresado": false
+        }
+    ]
+}

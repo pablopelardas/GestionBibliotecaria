@@ -1,0 +1,10 @@
+{
+    "libro_id": "1066b5be-65e6-464f-8bc2-2b5751b377b7",
+    "isbn": "978-3-7442-7064-4",
+    "title": "Order almost",
+    "autor": "Andrea Ortiz",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

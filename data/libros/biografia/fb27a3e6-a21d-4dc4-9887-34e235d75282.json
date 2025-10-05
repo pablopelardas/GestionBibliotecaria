@@ -1,0 +1,16 @@
+{
+    "libro_id": "fb27a3e6-a21d-4dc4-9887-34e235d75282",
+    "isbn": "978-4-2510-8582-6",
+    "title": "Part moment lead",
+    "autor": "Scott Allen",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "F4CA2B77F8354BCEB240E6D644",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 150,
+            "user_id": "F4CA2B77F8354BCEB240E6D644",
+            "regresado": false
+        }
+    ]
+}

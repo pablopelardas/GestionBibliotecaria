@@ -1,0 +1,16 @@
+{
+    "libro_id": "98a80ed4-07e3-4ce6-8a63-e4b9eb0f83cc",
+    "isbn": "978-1-5986-8725-0",
+    "title": "Term national",
+    "autor": "Jennifer Zuniga",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "E9B8629CD5424FA98624D49DEF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 364,
+            "user_id": "E9B8629CD5424FA98624D49DEF",
+            "regresado": false
+        }
+    ]
+}

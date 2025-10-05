@@ -1,0 +1,16 @@
+{
+    "libro_id": "deb1a508-f995-407c-8991-dd1f8aca37d9",
+    "isbn": "978-3-1990-7811-7",
+    "title": "Inside name process tend",
+    "autor": "Amy Curtis",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "ACD2B2CE2FBE443E90F6C31595",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 419,
+            "user_id": "ACD2B2CE2FBE443E90F6C31595",
+            "regresado": false
+        }
+    ]
+}

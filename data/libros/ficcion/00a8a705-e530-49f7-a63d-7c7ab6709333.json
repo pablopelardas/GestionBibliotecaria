@@ -1,0 +1,10 @@
+{
+    "libro_id": "00a8a705-e530-49f7-a63d-7c7ab6709333",
+    "isbn": "978-7-2090-3418-9",
+    "title": "Kitchen model rock go",
+    "autor": "John Dennis",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

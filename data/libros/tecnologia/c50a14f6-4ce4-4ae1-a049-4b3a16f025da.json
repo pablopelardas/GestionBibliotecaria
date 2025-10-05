@@ -1,0 +1,16 @@
+{
+    "libro_id": "c50a14f6-4ce4-4ae1-a049-4b3a16f025da",
+    "isbn": "978-9-8729-3229-7",
+    "title": "Choose team some",
+    "autor": "Daniel Lambert",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "C0B4545102E34317B26F8915A1",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 46,
+            "user_id": "C0B4545102E34317B26F8915A1",
+            "regresado": false
+        }
+    ]
+}

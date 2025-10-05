@@ -1,0 +1,10 @@
+{
+    "libro_id": "cf0bcb2d-a131-4481-90a3-ce8fb65e9724",
+    "isbn": "978-2-1269-9050-8",
+    "title": "Poor fund phone",
+    "autor": "Melissa Brady",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "004ea699-ea79-460f-a479-c3a80d8967dc",
+    "isbn": "978-6-9499-1995-1",
+    "title": "Price along just",
+    "autor": "Shannon Morgan",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

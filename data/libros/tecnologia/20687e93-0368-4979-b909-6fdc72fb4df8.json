@@ -1,0 +1,10 @@
+{
+    "libro_id": "20687e93-0368-4979-b909-6fdc72fb4df8",
+    "isbn": "978-0-4797-6389-5",
+    "title": "Generation public",
+    "autor": "Ana Fields",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

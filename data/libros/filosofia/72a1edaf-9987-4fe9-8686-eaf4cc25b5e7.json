@@ -1,0 +1,10 @@
+{
+    "libro_id": "72a1edaf-9987-4fe9-8686-eaf4cc25b5e7",
+    "isbn": "978-6-5260-5860-7",
+    "title": "East growth technology three",
+    "autor": "Kelly Wong",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

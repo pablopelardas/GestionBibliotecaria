@@ -1,0 +1,16 @@
+{
+    "libro_id": "0e59ae56-e93d-4258-bef5-ef996be25682",
+    "isbn": "978-1-7952-8426-6",
+    "title": "Who garden",
+    "autor": "Aaron Johnson",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "A8AB63589F074448A7BAD8D435",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 387,
+            "user_id": "A8AB63589F074448A7BAD8D435",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b196627c-d7a8-49b3-84cf-ebba7914f9aa",
+    "isbn": "978-6-7192-5708-9",
+    "title": "Various set",
+    "autor": "Ralph Bond",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 313,
+            "user_id": "A2278B11DADA40BE836EFE5FD0",
+            "regresado": true
+        }
+    ]
+}

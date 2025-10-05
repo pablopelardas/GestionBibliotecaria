@@ -1,0 +1,16 @@
+{
+    "libro_id": "588f2040-53b4-4310-acb0-17e1296adb36",
+    "isbn": "978-8-2794-3586-2",
+    "title": "Hour personal wait situation",
+    "autor": "Mark White",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "AE18A863D5E84C179840249EE4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 308,
+            "user_id": "AE18A863D5E84C179840249EE4",
+            "regresado": false
+        }
+    ]
+}

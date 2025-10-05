@@ -1,0 +1,10 @@
+{
+    "libro_id": "c799cae4-bcca-4ee4-9405-73753915e0eb",
+    "isbn": "978-2-2111-1029-9",
+    "title": "Culture probably nature",
+    "autor": "Javier Colon",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

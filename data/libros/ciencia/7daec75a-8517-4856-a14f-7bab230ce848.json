@@ -1,0 +1,10 @@
+{
+    "libro_id": "7daec75a-8517-4856-a14f-7bab230ce848",
+    "isbn": "978-9-2529-9435-5",
+    "title": "Perform finish",
+    "autor": "Mark Atkins",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

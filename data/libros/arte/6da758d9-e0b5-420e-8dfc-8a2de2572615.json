@@ -1,0 +1,10 @@
+{
+    "libro_id": "6da758d9-e0b5-420e-8dfc-8a2de2572615",
+    "isbn": "978-0-6608-4826-7",
+    "title": "Provide prepare short",
+    "autor": "Tina Williams",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

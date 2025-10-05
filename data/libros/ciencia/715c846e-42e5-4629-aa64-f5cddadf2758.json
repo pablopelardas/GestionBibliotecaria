@@ -1,0 +1,10 @@
+{
+    "libro_id": "715c846e-42e5-4629-aa64-f5cddadf2758",
+    "isbn": "978-8-6565-8463-6",
+    "title": "Table rest join",
+    "autor": "Luis Miller",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

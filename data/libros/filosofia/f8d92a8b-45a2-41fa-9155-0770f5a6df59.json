@@ -1,0 +1,16 @@
+{
+    "libro_id": "f8d92a8b-45a2-41fa-9155-0770f5a6df59",
+    "isbn": "978-2-6644-1844-8",
+    "title": "Light reduce",
+    "autor": "Matthew Vega",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 408,
+            "user_id": "CA6790D28A3E4FF0B04F6DEB0D",
+            "regresado": true
+        }
+    ]
+}

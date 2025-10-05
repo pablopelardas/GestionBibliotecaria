@@ -1,0 +1,10 @@
+{
+    "libro_id": "1901fa44-027b-4967-8418-d87c918ec3a6",
+    "isbn": "978-0-6817-1725-3",
+    "title": "Possible capital role",
+    "autor": "Tammy Fischer",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

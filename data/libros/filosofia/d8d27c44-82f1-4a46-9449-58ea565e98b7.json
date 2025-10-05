@@ -1,0 +1,16 @@
+{
+    "libro_id": "d8d27c44-82f1-4a46-9449-58ea565e98b7",
+    "isbn": "978-1-7086-8343-4",
+    "title": "Around",
+    "autor": "Lauren Barnes",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "5A6B35B7BE074985BB5ADACFA4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 272,
+            "user_id": "5A6B35B7BE074985BB5ADACFA4",
+            "regresado": false
+        }
+    ]
+}

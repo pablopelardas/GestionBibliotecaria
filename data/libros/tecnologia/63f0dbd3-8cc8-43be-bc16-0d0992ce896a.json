@@ -1,0 +1,16 @@
+{
+    "libro_id": "63f0dbd3-8cc8-43be-bc16-0d0992ce896a",
+    "isbn": "978-4-9715-9203-4",
+    "title": "Nature",
+    "autor": "Stacie Crawford",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "D5B255220301482590255838F8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 469,
+            "user_id": "D5B255220301482590255838F8",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "870e6881-7818-41c3-8895-eccfea739f6b",
+    "isbn": "978-9-2991-1941-6",
+    "title": "Choice even close compare",
+    "autor": "Ernest Vincent",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "94FD4EFB44F9420D80F452E966",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 451,
+            "user_id": "94FD4EFB44F9420D80F452E966",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "9d9cb36a-d8e2-4a6b-8f4a-2780c2260d0f",
+    "isbn": "978-5-5158-7906-6",
+    "title": "Risk decade land",
+    "autor": "Teresa Knox",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "64DEAFD9F7374AE0BD3B980529",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 257,
+            "user_id": "64DEAFD9F7374AE0BD3B980529",
+            "regresado": false
+        }
+    ]
+}

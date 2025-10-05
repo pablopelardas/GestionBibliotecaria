@@ -1,0 +1,10 @@
+{
+    "libro_id": "eb2c98e5-7e08-4a62-b6ec-164883871dc4",
+    "isbn": "978-5-1278-1459-6",
+    "title": "Even health",
+    "autor": "Stacey Long",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

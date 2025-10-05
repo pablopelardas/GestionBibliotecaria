@@ -1,0 +1,10 @@
+{
+    "libro_id": "8e38e27b-2467-4d2f-bc8c-1306b35c8b1f",
+    "isbn": "978-4-2210-3088-8",
+    "title": "Skill even",
+    "autor": "Alexandra Mitchell",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

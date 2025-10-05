@@ -1,0 +1,16 @@
+{
+    "libro_id": "0707476e-b26f-4ffd-96d4-586441f4d8d4",
+    "isbn": "978-8-5285-6655-1",
+    "title": "They ago",
+    "autor": "Daniel Jones",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 544,
+            "user_id": "C7D6D512073C4DFE95D71BE715",
+            "regresado": true
+        }
+    ]
+}

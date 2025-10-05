@@ -1,0 +1,16 @@
+{
+    "libro_id": "e40eeb08-d762-40bf-ae40-b0eac84db8d8",
+    "isbn": "978-8-1324-8656-3",
+    "title": "Everyone certainly soldier",
+    "autor": "Dr. Christopher Fletcher",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "6E1D464C493646DB8D03E4983D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 65,
+            "user_id": "6E1D464C493646DB8D03E4983D",
+            "regresado": false
+        }
+    ]
+}

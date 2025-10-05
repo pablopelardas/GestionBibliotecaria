@@ -1,0 +1,16 @@
+{
+    "libro_id": "63919ed3-8777-4f0c-a82a-b4203e655454",
+    "isbn": "978-3-6211-9468-9",
+    "title": "Item actually democratic",
+    "autor": "Adam Brown",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 246,
+            "user_id": "DDFCE2B3B9624B22BBA11D72C9",
+            "regresado": true
+        }
+    ]
+}

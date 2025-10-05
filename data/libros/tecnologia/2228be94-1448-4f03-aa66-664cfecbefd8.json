@@ -1,0 +1,16 @@
+{
+    "libro_id": "2228be94-1448-4f03-aa66-664cfecbefd8",
+    "isbn": "978-8-7770-1759-3",
+    "title": "Several each",
+    "autor": "David Strong",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "5960CD4DE33F45F6B182E12A84",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 269,
+            "user_id": "5960CD4DE33F45F6B182E12A84",
+            "regresado": false
+        }
+    ]
+}

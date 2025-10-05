@@ -1,0 +1,10 @@
+{
+    "libro_id": "4bfe0ad5-2a2d-48a2-b1b4-0f1fdcaf958c",
+    "isbn": "978-4-6073-1644-4",
+    "title": "Perhaps use back",
+    "autor": "Brenda Nichols",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

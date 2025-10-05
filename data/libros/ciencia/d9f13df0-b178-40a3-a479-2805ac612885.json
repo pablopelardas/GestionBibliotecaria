@@ -1,0 +1,16 @@
+{
+    "libro_id": "d9f13df0-b178-40a3-a479-2805ac612885",
+    "isbn": "978-9-6641-8140-0",
+    "title": "One edge",
+    "autor": "Norma Gonzalez",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "2D0F19EDBBAB4545B9DC035F1F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 400,
+            "user_id": "2D0F19EDBBAB4545B9DC035F1F",
+            "regresado": false
+        }
+    ]
+}

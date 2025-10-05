@@ -1,0 +1,10 @@
+{
+    "libro_id": "678580de-f816-4a82-b4a9-d2b278dc4307",
+    "isbn": "978-3-2627-8057-5",
+    "title": "Gun town author",
+    "autor": "Justin Robinson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

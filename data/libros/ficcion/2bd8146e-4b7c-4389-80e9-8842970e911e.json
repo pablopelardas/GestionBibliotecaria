@@ -1,0 +1,10 @@
+{
+    "libro_id": "2bd8146e-4b7c-4389-80e9-8842970e911e",
+    "isbn": "978-0-5748-6904-1",
+    "title": "Second occur bit",
+    "autor": "Brandon Phillips",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

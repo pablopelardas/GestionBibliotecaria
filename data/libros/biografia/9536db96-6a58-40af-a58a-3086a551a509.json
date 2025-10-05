@@ -1,0 +1,10 @@
+{
+    "libro_id": "9536db96-6a58-40af-a58a-3086a551a509",
+    "isbn": "978-4-5698-1544-6",
+    "title": "Phone west",
+    "autor": "Christopher Ray",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

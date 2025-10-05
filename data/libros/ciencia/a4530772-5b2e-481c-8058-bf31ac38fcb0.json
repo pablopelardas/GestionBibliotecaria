@@ -1,0 +1,10 @@
+{
+    "libro_id": "a4530772-5b2e-481c-8058-bf31ac38fcb0",
+    "isbn": "978-7-8722-9993-8",
+    "title": "Fund beautiful Mrs",
+    "autor": "Amy Taylor",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

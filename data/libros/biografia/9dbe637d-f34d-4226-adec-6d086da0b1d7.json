@@ -1,0 +1,10 @@
+{
+    "libro_id": "9dbe637d-f34d-4226-adec-6d086da0b1d7",
+    "isbn": "978-5-4969-2245-3",
+    "title": "Range American rather",
+    "autor": "Patricia Evans",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "bed1b48e-6b14-4a44-bba3-3e7b871f6cab",
+    "isbn": "978-3-8960-7888-9",
+    "title": "Big first director",
+    "autor": "Angela Glenn",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "2A4CD1A957A14772AED8699751",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 323,
+            "user_id": "2A4CD1A957A14772AED8699751",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "d1bd5f72-9ce4-46d5-b9bd-36b1afb9baa4",
+    "isbn": "978-2-6561-2761-3",
+    "title": "Stop watch center",
+    "autor": "Amanda Barrera",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 223,
+            "user_id": "B7563129953344C883E06A6985",
+            "regresado": true
+        }
+    ]
+}

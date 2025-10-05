@@ -1,0 +1,16 @@
+{
+    "libro_id": "60a211e1-39ad-4f63-b947-32d12b954409",
+    "isbn": "978-8-6781-9844-6",
+    "title": "Chance half the",
+    "autor": "Travis Garcia",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "8B56DDEFEE8D49CABFE68135C1",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 448,
+            "user_id": "8B56DDEFEE8D49CABFE68135C1",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "32bc79fd-bb59-416b-8a95-ac2efc528d48",
+    "isbn": "978-0-6667-7418-0",
+    "title": "Sport figure",
+    "autor": "Stacey Nichols",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

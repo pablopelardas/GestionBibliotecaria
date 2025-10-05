@@ -1,0 +1,10 @@
+{
+    "libro_id": "8ec216ca-2216-4a58-ba1b-0e5e6274cec9",
+    "isbn": "978-7-2384-9199-3",
+    "title": "Town join end",
+    "autor": "Matthew Gutierrez",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

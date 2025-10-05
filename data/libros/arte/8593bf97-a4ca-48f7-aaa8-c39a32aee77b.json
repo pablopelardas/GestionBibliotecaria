@@ -1,0 +1,16 @@
+{
+    "libro_id": "8593bf97-a4ca-48f7-aaa8-c39a32aee77b",
+    "isbn": "978-0-3660-7091-2",
+    "title": "Stop coach",
+    "autor": "Jamie Reeves",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "CB737D4F30B14C6F8BC7165613",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 330,
+            "user_id": "CB737D4F30B14C6F8BC7165613",
+            "regresado": false
+        }
+    ]
+}

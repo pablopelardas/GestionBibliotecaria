@@ -1,0 +1,16 @@
+{
+    "libro_id": "f5530902-b5d5-429f-b23f-e30bb33aba4c",
+    "isbn": "978-2-3663-9704-1",
+    "title": "Least page",
+    "autor": "Kathryn Thomas",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "C9521263DB99407B986774D810",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 204,
+            "user_id": "C9521263DB99407B986774D810",
+            "regresado": false
+        }
+    ]
+}

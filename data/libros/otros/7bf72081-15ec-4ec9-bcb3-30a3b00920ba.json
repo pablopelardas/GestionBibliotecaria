@@ -1,0 +1,16 @@
+{
+    "libro_id": "7bf72081-15ec-4ec9-bcb3-30a3b00920ba",
+    "isbn": "978-3-6853-8275-1",
+    "title": "Customer how guess",
+    "autor": "Angela Johnson",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "B218C2FBACAF4F4E858008BB2D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 333,
+            "user_id": "B218C2FBACAF4F4E858008BB2D",
+            "regresado": false
+        }
+    ]
+}

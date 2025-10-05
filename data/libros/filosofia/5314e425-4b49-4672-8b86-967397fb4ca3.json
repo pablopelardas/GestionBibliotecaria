@@ -1,0 +1,16 @@
+{
+    "libro_id": "5314e425-4b49-4672-8b86-967397fb4ca3",
+    "isbn": "978-5-3216-8466-2",
+    "title": "Service study end tell",
+    "autor": "Douglas Macias",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "84C45653F63A41BEAD0D19537D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 232,
+            "user_id": "84C45653F63A41BEAD0D19537D",
+            "regresado": false
+        }
+    ]
+}

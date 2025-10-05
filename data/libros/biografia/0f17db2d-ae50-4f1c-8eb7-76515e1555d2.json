@@ -1,0 +1,10 @@
+{
+    "libro_id": "0f17db2d-ae50-4f1c-8eb7-76515e1555d2",
+    "isbn": "978-8-2877-5134-5",
+    "title": "Accept growth",
+    "autor": "James Cochran",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

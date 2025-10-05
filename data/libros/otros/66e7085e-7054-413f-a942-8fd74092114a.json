@@ -1,0 +1,16 @@
+{
+    "libro_id": "66e7085e-7054-413f-a942-8fd74092114a",
+    "isbn": "978-4-1291-4274-5",
+    "title": "Find",
+    "autor": "Leslie Rogers",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 506,
+            "user_id": "71B3679FD2A44D84B4560645ED",
+            "regresado": true
+        }
+    ]
+}

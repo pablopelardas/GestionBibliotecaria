@@ -1,0 +1,10 @@
+{
+    "libro_id": "5d250f17-de14-4476-88e9-246217872dc8",
+    "isbn": "978-5-2219-5881-9",
+    "title": "Stage success another",
+    "autor": "Rachel Berry",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

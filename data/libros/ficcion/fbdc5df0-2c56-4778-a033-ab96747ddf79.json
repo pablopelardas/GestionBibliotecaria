@@ -1,0 +1,16 @@
+{
+    "libro_id": "fbdc5df0-2c56-4778-a033-ab96747ddf79",
+    "isbn": "978-0-1135-8454-4",
+    "title": "Wonder well college",
+    "autor": "Marissa Reyes",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 460,
+            "user_id": "C5E5D237FB4740AAA248A20E2D",
+            "regresado": true
+        }
+    ]
+}

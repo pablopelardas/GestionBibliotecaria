@@ -1,0 +1,16 @@
+{
+    "libro_id": "e23f3cf8-1c5a-43d3-b56c-3a22459bd70a",
+    "isbn": "978-6-1336-5980-5",
+    "title": "Ten",
+    "autor": "Robert Saunders",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "B6BDEDF7AC21435992E27C96CE",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 405,
+            "user_id": "B6BDEDF7AC21435992E27C96CE",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "9004e947-562f-4a9c-b41c-0cff2133c4ce",
+    "isbn": "978-9-2902-4421-5",
+    "title": "Case mind share",
+    "autor": "Alexander Shah",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

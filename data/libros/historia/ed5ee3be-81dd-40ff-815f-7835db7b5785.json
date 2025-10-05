@@ -1,0 +1,10 @@
+{
+    "libro_id": "ed5ee3be-81dd-40ff-815f-7835db7b5785",
+    "isbn": "978-7-5283-7488-1",
+    "title": "Picture arrive",
+    "autor": "Kathleen West",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

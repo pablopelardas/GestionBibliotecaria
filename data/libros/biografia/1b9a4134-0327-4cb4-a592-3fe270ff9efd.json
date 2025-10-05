@@ -1,0 +1,10 @@
+{
+    "libro_id": "1b9a4134-0327-4cb4-a592-3fe270ff9efd",
+    "isbn": "978-3-8725-8541-6",
+    "title": "Why grow",
+    "autor": "Rebecca Bennett",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "9e80aaad-0488-48ad-ace3-a3a410ef3eaa",
+    "isbn": "978-4-9247-1422-5",
+    "title": "Pull tree",
+    "autor": "Joel Curtis",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "E9F242D70BE340B9A8F9478C04",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 485,
+            "user_id": "E9F242D70BE340B9A8F9478C04",
+            "regresado": false
+        }
+    ]
+}

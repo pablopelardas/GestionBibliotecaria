@@ -1,0 +1,16 @@
+{
+    "libro_id": "97b1c7d0-e087-482b-bb4e-9225aee8d659",
+    "isbn": "978-7-6289-4471-3",
+    "title": "Item body majority",
+    "autor": "Jonathan Werner",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "A31ACCD3BF72403EBCEC21AF2C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 439,
+            "user_id": "A31ACCD3BF72403EBCEC21AF2C",
+            "regresado": false
+        }
+    ]
+}

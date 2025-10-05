@@ -1,0 +1,16 @@
+{
+    "libro_id": "c728ad5b-b77e-4c90-9fe2-04d56aaf6b0a",
+    "isbn": "978-2-7640-5252-5",
+    "title": "Position change",
+    "autor": "Lisa White",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "CAB21DE216084743B38D6A980C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 507,
+            "user_id": "CAB21DE216084743B38D6A980C",
+            "regresado": false
+        }
+    ]
+}

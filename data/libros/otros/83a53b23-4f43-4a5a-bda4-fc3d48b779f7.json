@@ -1,0 +1,16 @@
+{
+    "libro_id": "83a53b23-4f43-4a5a-bda4-fc3d48b779f7",
+    "isbn": "978-4-2169-9632-5",
+    "title": "Lead prepare",
+    "autor": "Clinton Williams",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "FB24B3E739694195B3A6C2F825",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 402,
+            "user_id": "FB24B3E739694195B3A6C2F825",
+            "regresado": false
+        }
+    ]
+}

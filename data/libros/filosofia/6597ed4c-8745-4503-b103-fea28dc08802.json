@@ -1,0 +1,10 @@
+{
+    "libro_id": "6597ed4c-8745-4503-b103-fea28dc08802",
+    "isbn": "978-6-6157-5946-0",
+    "title": "Strong",
+    "autor": "Mrs. Jennifer Martin",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

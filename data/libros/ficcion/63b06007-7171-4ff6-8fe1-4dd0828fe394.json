@@ -1,0 +1,16 @@
+{
+    "libro_id": "63b06007-7171-4ff6-8fe1-4dd0828fe394",
+    "isbn": "978-7-8619-7443-2",
+    "title": "Cell",
+    "autor": "Hannah Smith",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "65FA680451804E09AEB5B7B8FA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 18,
+            "user_id": "65FA680451804E09AEB5B7B8FA",
+            "regresado": false
+        }
+    ]
+}

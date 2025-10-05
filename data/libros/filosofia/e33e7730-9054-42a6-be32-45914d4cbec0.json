@@ -1,0 +1,16 @@
+{
+    "libro_id": "e33e7730-9054-42a6-be32-45914d4cbec0",
+    "isbn": "978-5-5926-2925-1",
+    "title": "Sport high",
+    "autor": "Dr. Stefanie Morgan",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "DCF6324C369440E0B0A08C402F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 301,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": false
+        }
+    ]
+}

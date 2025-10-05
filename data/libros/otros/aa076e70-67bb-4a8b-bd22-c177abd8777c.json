@@ -1,0 +1,10 @@
+{
+    "libro_id": "aa076e70-67bb-4a8b-bd22-c177abd8777c",
+    "isbn": "978-0-3115-9250-3",
+    "title": "Mother in",
+    "autor": "Sandra Ramsey",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

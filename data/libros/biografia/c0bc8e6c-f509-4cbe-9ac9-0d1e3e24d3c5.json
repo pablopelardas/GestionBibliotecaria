@@ -1,0 +1,16 @@
+{
+    "libro_id": "c0bc8e6c-f509-4cbe-9ac9-0d1e3e24d3c5",
+    "isbn": "978-4-6512-3819-5",
+    "title": "Represent since here",
+    "autor": "Eric Kelly",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 532,
+            "user_id": "321D92B53BD0403EA4DDF3975C",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "4ac2a6d0-d879-4f70-9f6c-56bec7a67cc4",
+    "isbn": "978-6-8228-1987-9",
+    "title": "Discover benefit list",
+    "autor": "Marissa Patel",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

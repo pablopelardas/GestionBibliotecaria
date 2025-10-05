@@ -1,0 +1,10 @@
+{
+    "libro_id": "1b0da921-ce5d-4862-8a97-e666abede97a",
+    "isbn": "978-4-5733-6819-1",
+    "title": "Trip again",
+    "autor": "Lynn George",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

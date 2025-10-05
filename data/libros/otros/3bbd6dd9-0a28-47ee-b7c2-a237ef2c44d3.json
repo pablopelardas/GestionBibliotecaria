@@ -1,0 +1,16 @@
+{
+    "libro_id": "3bbd6dd9-0a28-47ee-b7c2-a237ef2c44d3",
+    "isbn": "978-2-9131-8498-0",
+    "title": "And person really",
+    "autor": "Richard Bishop",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 449,
+            "user_id": "55653B829F1249F5BB960EA4CA",
+            "regresado": true
+        }
+    ]
+}

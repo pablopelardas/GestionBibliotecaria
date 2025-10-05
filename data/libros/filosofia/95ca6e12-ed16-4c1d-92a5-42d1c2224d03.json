@@ -1,0 +1,10 @@
+{
+    "libro_id": "95ca6e12-ed16-4c1d-92a5-42d1c2224d03",
+    "isbn": "978-3-1539-7867-7",
+    "title": "Product easy",
+    "autor": "Brittany White",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

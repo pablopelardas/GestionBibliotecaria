@@ -1,0 +1,16 @@
+{
+    "libro_id": "6f3cc2d4-1232-438f-8160-f075ba8ee051",
+    "isbn": "978-4-2121-4847-9",
+    "title": "Inside",
+    "autor": "Regina Larson",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 33,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": true
+        }
+    ]
+}

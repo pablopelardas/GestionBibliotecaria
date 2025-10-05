@@ -1,0 +1,10 @@
+{
+    "libro_id": "8298a772-77ff-402f-b2e6-dff1b02fb458",
+    "isbn": "978-2-3420-2234-8",
+    "title": "Cause",
+    "autor": "Katie Wilson",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

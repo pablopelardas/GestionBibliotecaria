@@ -1,0 +1,10 @@
+{
+    "libro_id": "384c432b-0f77-49bf-beeb-cbbe8d68e757",
+    "isbn": "978-9-5666-6199-3",
+    "title": "Memory term of up",
+    "autor": "Manuel Miller",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e396fe9a-d1b7-48c4-8f89-c06cbe240170",
+    "isbn": "978-5-1590-8508-9",
+    "title": "Give bill",
+    "autor": "Michael Andrade",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "5A4D4182721E46379374BD7836",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 103,
+            "user_id": "5A4D4182721E46379374BD7836",
+            "regresado": false
+        }
+    ]
+}

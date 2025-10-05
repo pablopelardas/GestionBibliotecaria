@@ -1,0 +1,16 @@
+{
+    "libro_id": "557a05c6-f348-4663-b84b-0ee804555ff2",
+    "isbn": "978-6-4059-8945-3",
+    "title": "Watch charge side",
+    "autor": "Elizabeth Sanchez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "2616776BD72E4387A3873B16EF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 92,
+            "user_id": "2616776BD72E4387A3873B16EF",
+            "regresado": false
+        }
+    ]
+}

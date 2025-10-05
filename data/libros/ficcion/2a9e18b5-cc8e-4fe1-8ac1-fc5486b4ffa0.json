@@ -1,0 +1,16 @@
+{
+    "libro_id": "2a9e18b5-cc8e-4fe1-8ac1-fc5486b4ffa0",
+    "isbn": "978-3-4338-7075-2",
+    "title": "Usually program",
+    "autor": "Joshua Lozano",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "183EC31683D144D6B57423CFF6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 270,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": false
+        }
+    ]
+}

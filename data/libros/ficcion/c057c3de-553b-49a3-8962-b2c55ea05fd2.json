@@ -1,0 +1,10 @@
+{
+    "libro_id": "c057c3de-553b-49a3-8962-b2c55ea05fd2",
+    "isbn": "978-6-3526-9042-2",
+    "title": "Author science",
+    "autor": "Lucas Kim",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

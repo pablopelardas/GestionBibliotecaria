@@ -1,0 +1,10 @@
+{
+    "libro_id": "1ad9ccc0-7005-4150-84b2-88b46a7bccde",
+    "isbn": "978-5-4133-1142-0",
+    "title": "Appear gun order",
+    "autor": "Scott Thomas",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

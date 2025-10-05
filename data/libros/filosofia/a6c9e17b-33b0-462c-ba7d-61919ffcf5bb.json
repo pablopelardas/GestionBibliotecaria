@@ -1,0 +1,16 @@
+{
+    "libro_id": "a6c9e17b-33b0-462c-ba7d-61919ffcf5bb",
+    "isbn": "978-5-6933-8455-4",
+    "title": "Window market board",
+    "autor": "David Mcclure",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 487,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

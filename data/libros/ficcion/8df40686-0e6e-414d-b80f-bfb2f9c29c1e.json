@@ -1,0 +1,10 @@
+{
+    "libro_id": "8df40686-0e6e-414d-b80f-bfb2f9c29c1e",
+    "isbn": "978-1-3343-7510-0",
+    "title": "Store third community",
+    "autor": "Mark Ruiz",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

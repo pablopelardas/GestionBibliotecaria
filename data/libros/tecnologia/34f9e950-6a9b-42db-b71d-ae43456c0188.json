@@ -1,0 +1,16 @@
+{
+    "libro_id": "34f9e950-6a9b-42db-b71d-ae43456c0188",
+    "isbn": "978-3-3362-3336-3",
+    "title": "Media million pull",
+    "autor": "David Weaver",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 197,
+            "user_id": "D48764B39ED64EC5BA33ABE086",
+            "regresado": true
+        }
+    ]
+}

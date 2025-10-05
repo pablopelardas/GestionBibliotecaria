@@ -1,0 +1,16 @@
+{
+    "libro_id": "08b57687-a5f8-47e6-ac89-addf5ff2a25b",
+    "isbn": "978-7-8997-4172-2",
+    "title": "Play owner",
+    "autor": "Elizabeth Carr",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "09CFD8519BB94A9B8AF30EF179",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 262,
+            "user_id": "09CFD8519BB94A9B8AF30EF179",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "8acf86d5-63db-4f5c-991c-188ac98e3c39",
+    "isbn": "978-0-2822-5118-9",
+    "title": "Theory benefit serve",
+    "autor": "Luke Garcia",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

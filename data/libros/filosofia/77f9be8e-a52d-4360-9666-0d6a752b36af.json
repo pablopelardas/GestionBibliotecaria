@@ -1,0 +1,10 @@
+{
+    "libro_id": "77f9be8e-a52d-4360-9666-0d6a752b36af",
+    "isbn": "978-3-7998-6584-2",
+    "title": "Memory buy",
+    "autor": "Terri Butler",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

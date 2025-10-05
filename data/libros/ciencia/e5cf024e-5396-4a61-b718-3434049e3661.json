@@ -1,0 +1,16 @@
+{
+    "libro_id": "e5cf024e-5396-4a61-b718-3434049e3661",
+    "isbn": "978-4-7498-6237-9",
+    "title": "Their why",
+    "autor": "Madison Clark",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "AD894D53D0074D63B302C59C5C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 174,
+            "user_id": "AD894D53D0074D63B302C59C5C",
+            "regresado": false
+        }
+    ]
+}

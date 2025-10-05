@@ -1,0 +1,16 @@
+{
+    "libro_id": "3f687425-8f70-47c3-9df9-5d1882cd3f1e",
+    "isbn": "978-1-6585-8124-3",
+    "title": "Direction there",
+    "autor": "Cynthia Hernandez",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "9279E8467BF44EBB86518DD610",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 244,
+            "user_id": "9279E8467BF44EBB86518DD610",
+            "regresado": false
+        }
+    ]
+}

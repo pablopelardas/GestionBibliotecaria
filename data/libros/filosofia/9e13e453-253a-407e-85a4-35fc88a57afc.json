@@ -1,0 +1,16 @@
+{
+    "libro_id": "9e13e453-253a-407e-85a4-35fc88a57afc",
+    "isbn": "978-3-5139-4369-9",
+    "title": "Catch there ago",
+    "autor": "Joanne Thomas",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "89449D4A90074AB9BD2E86C487",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 482,
+            "user_id": "89449D4A90074AB9BD2E86C487",
+            "regresado": false
+        }
+    ]
+}

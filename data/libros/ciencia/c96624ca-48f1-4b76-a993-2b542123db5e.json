@@ -1,0 +1,10 @@
+{
+    "libro_id": "c96624ca-48f1-4b76-a993-2b542123db5e",
+    "isbn": "978-6-7181-8145-0",
+    "title": "Day bed",
+    "autor": "Mike Jackson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

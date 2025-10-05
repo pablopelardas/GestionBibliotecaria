@@ -1,0 +1,16 @@
+{
+    "libro_id": "11bef4be-553c-4b37-86b9-818338f56c8e",
+    "isbn": "978-5-4551-5066-2",
+    "title": "Allow",
+    "autor": "John Rubio",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "686D7958B02D4DAE91C922769C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 464,
+            "user_id": "686D7958B02D4DAE91C922769C",
+            "regresado": false
+        }
+    ]
+}

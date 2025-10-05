@@ -1,0 +1,10 @@
+{
+    "libro_id": "0a714066-bb31-4d2f-b02c-e146a4bb85b6",
+    "isbn": "978-0-3261-7165-9",
+    "title": "Everybody blood owner",
+    "autor": "Christopher Swanson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

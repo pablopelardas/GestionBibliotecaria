@@ -1,0 +1,10 @@
+{
+    "libro_id": "468bd269-e933-46a8-bae6-ca1d14ee58c8",
+    "isbn": "978-1-5632-7862-5",
+    "title": "Little nation",
+    "autor": "William Howell MD",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

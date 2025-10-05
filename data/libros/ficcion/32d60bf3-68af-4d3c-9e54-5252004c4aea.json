@@ -1,0 +1,16 @@
+{
+    "libro_id": "32d60bf3-68af-4d3c-9e54-5252004c4aea",
+    "isbn": "978-4-7084-5094-3",
+    "title": "Public end former",
+    "autor": "David Russell",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 164,
+            "user_id": "53D6288C01A14C2E8783181ADA",
+            "regresado": true
+        }
+    ]
+}

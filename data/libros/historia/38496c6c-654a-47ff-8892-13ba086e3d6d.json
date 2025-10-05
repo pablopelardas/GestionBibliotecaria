@@ -1,0 +1,10 @@
+{
+    "libro_id": "38496c6c-654a-47ff-8892-13ba086e3d6d",
+    "isbn": "978-7-5689-2932-4",
+    "title": "And next lose",
+    "autor": "Samuel Johnson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

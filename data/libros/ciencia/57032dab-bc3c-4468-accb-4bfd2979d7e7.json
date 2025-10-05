@@ -1,0 +1,16 @@
+{
+    "libro_id": "57032dab-bc3c-4468-accb-4bfd2979d7e7",
+    "isbn": "978-1-9561-1120-3",
+    "title": "Under tax describe",
+    "autor": "Cheryl Green",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 48,
+            "user_id": "FB24B3E739694195B3A6C2F825",
+            "regresado": true
+        }
+    ]
+}

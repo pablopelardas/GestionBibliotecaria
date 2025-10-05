@@ -1,0 +1,16 @@
+{
+    "libro_id": "be6b3b80-bd58-4ab6-a07a-e91dacbd88b2",
+    "isbn": "978-1-8941-2875-5",
+    "title": "Above purpose short",
+    "autor": "Dennis Rodriguez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "CF9D4EEC519C4B6D943632A7E9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 338,
+            "user_id": "CF9D4EEC519C4B6D943632A7E9",
+            "regresado": false
+        }
+    ]
+}

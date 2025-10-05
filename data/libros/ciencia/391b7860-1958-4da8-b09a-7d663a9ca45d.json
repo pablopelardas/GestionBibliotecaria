@@ -1,0 +1,16 @@
+{
+    "libro_id": "391b7860-1958-4da8-b09a-7d663a9ca45d",
+    "isbn": "978-7-3121-1775-2",
+    "title": "Forget head write final",
+    "autor": "Kyle Cooper",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 413,
+            "user_id": "9279E8467BF44EBB86518DD610",
+            "regresado": true
+        }
+    ]
+}

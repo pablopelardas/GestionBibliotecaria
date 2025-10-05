@@ -1,0 +1,10 @@
+{
+    "libro_id": "c0dc2250-ac31-430a-94a0-b1ffb670518c",
+    "isbn": "978-7-2022-5002-9",
+    "title": "Including kitchen",
+    "autor": "Emily Williams",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

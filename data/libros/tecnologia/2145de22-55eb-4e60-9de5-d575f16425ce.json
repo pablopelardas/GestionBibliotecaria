@@ -1,0 +1,16 @@
+{
+    "libro_id": "2145de22-55eb-4e60-9de5-d575f16425ce",
+    "isbn": "978-5-4392-5323-0",
+    "title": "Can",
+    "autor": "Jennifer Gonzalez",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 343,
+            "user_id": "CA6790D28A3E4FF0B04F6DEB0D",
+            "regresado": true
+        }
+    ]
+}

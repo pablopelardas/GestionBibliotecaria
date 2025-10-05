@@ -1,0 +1,16 @@
+{
+    "libro_id": "5e5edda8-115a-465c-8087-f9590b6623c8",
+    "isbn": "978-0-7711-7036-4",
+    "title": "White",
+    "autor": "Jason Sandoval",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 191,
+            "user_id": "99A8EE7ABC4C46C0826AEF5B4E",
+            "regresado": true
+        }
+    ]
+}

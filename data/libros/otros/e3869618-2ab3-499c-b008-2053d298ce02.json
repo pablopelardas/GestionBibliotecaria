@@ -1,0 +1,16 @@
+{
+    "libro_id": "e3869618-2ab3-499c-b008-2053d298ce02",
+    "isbn": "978-4-8166-6876-0",
+    "title": "Always tend",
+    "autor": "Mr. Ronald Gonzalez",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "BBC3A505A12E43C9A87AA3E001",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 549,
+            "user_id": "BBC3A505A12E43C9A87AA3E001",
+            "regresado": false
+        }
+    ]
+}

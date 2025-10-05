@@ -1,0 +1,10 @@
+{
+    "libro_id": "fa6ca407-35b1-4c30-9e25-16bd22c09561",
+    "isbn": "978-4-9531-2504-8",
+    "title": "American",
+    "autor": "Wendy Harris",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "1da47fd1-eeb3-4925-b215-2b7090ef4e51",
+    "isbn": "978-3-1379-4415-6",
+    "title": "Good approach",
+    "autor": "Brandon Massey",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "4E7A696A72974814BF3FFFBB16",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 284,
+            "user_id": "4E7A696A72974814BF3FFFBB16",
+            "regresado": false
+        }
+    ]
+}

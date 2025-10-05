@@ -1,0 +1,10 @@
+{
+    "libro_id": "816d15e7-1f06-4ce5-9909-34cdb7b27b5a",
+    "isbn": "978-6-3926-8358-7",
+    "title": "Full try",
+    "autor": "Paul Crawford",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

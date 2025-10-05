@@ -1,0 +1,10 @@
+{
+    "libro_id": "472c5066-aa8c-4b7c-9aeb-c0ff4374e855",
+    "isbn": "978-6-7362-4569-7",
+    "title": "Animal business",
+    "autor": "Cathy Hunt",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

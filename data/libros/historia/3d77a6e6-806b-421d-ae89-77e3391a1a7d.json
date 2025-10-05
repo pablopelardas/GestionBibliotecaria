@@ -1,0 +1,16 @@
+{
+    "libro_id": "3d77a6e6-806b-421d-ae89-77e3391a1a7d",
+    "isbn": "978-6-7815-1052-6",
+    "title": "Six chair suffer",
+    "autor": "Melissa Gonzalez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "E776F8F556B548AFA0680DC162",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 74,
+            "user_id": "E776F8F556B548AFA0680DC162",
+            "regresado": false
+        }
+    ]
+}

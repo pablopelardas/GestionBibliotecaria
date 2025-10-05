@@ -1,0 +1,10 @@
+{
+    "libro_id": "13ec09e1-7744-45c7-9fbf-25d9de1dfd20",
+    "isbn": "978-8-6485-6790-5",
+    "title": "Build by war enjoy",
+    "autor": "Joyce Ray",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

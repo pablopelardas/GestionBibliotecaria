@@ -1,0 +1,16 @@
+{
+    "libro_id": "e4f3f91d-8069-4402-b057-ed70d6972376",
+    "isbn": "978-0-3957-7645-1",
+    "title": "Nature",
+    "autor": "Bryan Williams",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "4E7A696A72974814BF3FFFBB16",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 452,
+            "user_id": "4E7A696A72974814BF3FFFBB16",
+            "regresado": false
+        }
+    ]
+}

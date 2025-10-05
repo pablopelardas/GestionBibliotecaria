@@ -1,0 +1,10 @@
+{
+    "libro_id": "35113cbc-0f23-49a5-a53b-423d3d31e34d",
+    "isbn": "978-5-1277-5386-9",
+    "title": "Throughout production",
+    "autor": "James Thompson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

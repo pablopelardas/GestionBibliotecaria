@@ -1,0 +1,10 @@
+{
+    "libro_id": "0b42467b-eaa9-4e55-8784-4129c43c6ba5",
+    "isbn": "978-3-6392-9484-0",
+    "title": "Case",
+    "autor": "Jordan Rogers",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

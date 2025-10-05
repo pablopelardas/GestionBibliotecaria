@@ -1,0 +1,16 @@
+{
+    "libro_id": "5ca4ef00-8e57-43ef-910b-7bc90e5af145",
+    "isbn": "978-2-6206-7902-3",
+    "title": "Pressure quality",
+    "autor": "Mario Price",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "61581C8DA34740FC9F3EDF6ACC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 453,
+            "user_id": "61581C8DA34740FC9F3EDF6ACC",
+            "regresado": false
+        }
+    ]
+}

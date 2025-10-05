@@ -1,0 +1,10 @@
+{
+    "libro_id": "02c5bc4d-d4b3-4f4b-819e-a2a70fc85219",
+    "isbn": "978-3-3914-6091-0",
+    "title": "Morning impact",
+    "autor": "Natasha Ward",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

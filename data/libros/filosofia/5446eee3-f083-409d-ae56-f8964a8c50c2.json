@@ -1,0 +1,10 @@
+{
+    "libro_id": "5446eee3-f083-409d-ae56-f8964a8c50c2",
+    "isbn": "978-0-6147-7535-4",
+    "title": "Wall during",
+    "autor": "Christopher Munoz",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

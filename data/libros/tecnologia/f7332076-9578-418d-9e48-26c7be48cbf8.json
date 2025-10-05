@@ -1,0 +1,10 @@
+{
+    "libro_id": "f7332076-9578-418d-9e48-26c7be48cbf8",
+    "isbn": "978-7-3826-1254-3",
+    "title": "Girl care",
+    "autor": "Rachel Case",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

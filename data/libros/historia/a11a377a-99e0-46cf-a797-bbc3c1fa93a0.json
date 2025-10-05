@@ -1,0 +1,16 @@
+{
+    "libro_id": "a11a377a-99e0-46cf-a797-bbc3c1fa93a0",
+    "isbn": "978-3-1368-9542-1",
+    "title": "Win argue voice",
+    "autor": "Michael Bush",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "958B471A0278479FB92D30E77E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 414,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": false
+        }
+    ]
+}

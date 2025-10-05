@@ -1,0 +1,16 @@
+{
+    "libro_id": "266a2b33-13ec-4617-be64-21f1a05c6218",
+    "isbn": "978-9-3123-1120-2",
+    "title": "Rather laugh try",
+    "autor": "Jose Porter",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "B3AFD3ACAA744F6D88AE9288F4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 398,
+            "user_id": "B3AFD3ACAA744F6D88AE9288F4",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "61a99147-677d-433a-9f9f-bc193eadfb95",
+    "isbn": "978-4-6941-8340-4",
+    "title": "Grow",
+    "autor": "Jennifer Cross",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

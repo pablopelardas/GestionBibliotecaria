@@ -1,0 +1,16 @@
+{
+    "libro_id": "b12eeae9-6174-4d25-87bd-1d2f787110f0",
+    "isbn": "978-2-6078-4608-3",
+    "title": "Doctor professional",
+    "autor": "Denise Pugh",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 90,
+            "user_id": "37C5617632F843D28CC6B213F9",
+            "regresado": true
+        }
+    ]
+}

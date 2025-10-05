@@ -1,0 +1,16 @@
+{
+    "libro_id": "d4ad02aa-2dd2-4eac-9737-e0f85fb097c1",
+    "isbn": "978-4-3670-6580-7",
+    "title": "Mind skin",
+    "autor": "Sally Adams",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "2523DF00273046E98E6853981F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 206,
+            "user_id": "2523DF00273046E98E6853981F",
+            "regresado": false
+        }
+    ]
+}

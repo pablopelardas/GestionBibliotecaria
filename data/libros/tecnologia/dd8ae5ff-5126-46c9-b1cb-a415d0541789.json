@@ -1,0 +1,16 @@
+{
+    "libro_id": "dd8ae5ff-5126-46c9-b1cb-a415d0541789",
+    "isbn": "978-5-5092-5196-1",
+    "title": "Play could market risk",
+    "autor": "Paula Berry",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 331,
+            "user_id": "33BEDA5E0E1047AFB0A460E807",
+            "regresado": true
+        }
+    ]
+}

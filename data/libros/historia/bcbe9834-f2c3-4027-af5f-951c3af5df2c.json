@@ -1,0 +1,10 @@
+{
+    "libro_id": "bcbe9834-f2c3-4027-af5f-951c3af5df2c",
+    "isbn": "978-1-6317-9099-3",
+    "title": "Television onto experience",
+    "autor": "Emily Williamson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "17be812a-442e-4d4c-aa4d-cb8660e80bb3",
+    "isbn": "978-4-6483-8475-2",
+    "title": "Financial his",
+    "autor": "Valerie Garza",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

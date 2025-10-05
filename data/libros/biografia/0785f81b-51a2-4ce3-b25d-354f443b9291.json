@@ -1,0 +1,10 @@
+{
+    "libro_id": "0785f81b-51a2-4ce3-b25d-354f443b9291",
+    "isbn": "978-1-5254-1604-6",
+    "title": "Simply book oil",
+    "autor": "Madison Christian",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

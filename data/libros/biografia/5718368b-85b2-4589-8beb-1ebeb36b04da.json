@@ -1,0 +1,16 @@
+{
+    "libro_id": "5718368b-85b2-4589-8beb-1ebeb36b04da",
+    "isbn": "978-7-2723-3984-6",
+    "title": "Term ok task",
+    "autor": "Kevin Small",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "7ABB18411C8D4CE9A7BFE21814",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 536,
+            "user_id": "7ABB18411C8D4CE9A7BFE21814",
+            "regresado": false
+        }
+    ]
+}

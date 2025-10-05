@@ -1,0 +1,16 @@
+{
+    "libro_id": "701a6a52-62c8-4c76-8375-4571fbd16ee7",
+    "isbn": "978-1-7289-2657-3",
+    "title": "Return carry party",
+    "autor": "Shannon Perez",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "44584EFE00364346B2B6931026",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 355,
+            "user_id": "44584EFE00364346B2B6931026",
+            "regresado": false
+        }
+    ]
+}

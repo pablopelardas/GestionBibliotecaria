@@ -1,0 +1,10 @@
+{
+    "libro_id": "eca70a8b-1a10-42c1-98b2-25751ef83bc5",
+    "isbn": "978-3-7883-5887-4",
+    "title": "Computer",
+    "autor": "Brenda Espinoza",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

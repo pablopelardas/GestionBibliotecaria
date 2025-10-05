@@ -1,0 +1,10 @@
+{
+    "libro_id": "1163d6e9-3c94-493d-bc26-24625009dcc4",
+    "isbn": "978-5-6243-4010-1",
+    "title": "Plan government that material",
+    "autor": "Dwayne Soto",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "d4d18145-e1d7-4ef0-a3c6-6ef26836e9f2",
+    "isbn": "978-4-7558-4770-0",
+    "title": "Lay stock",
+    "autor": "Heather Nichols",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "53D6288C01A14C2E8783181ADA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 530,
+            "user_id": "53D6288C01A14C2E8783181ADA",
+            "regresado": false
+        }
+    ]
+}

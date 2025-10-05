@@ -1,0 +1,16 @@
+{
+    "libro_id": "59b5ffbf-3602-4546-94c2-a514f7071444",
+    "isbn": "978-1-2983-8274-2",
+    "title": "Particularly",
+    "autor": "Ronnie Torres",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "72D796946F1E480E819BC86267",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 225,
+            "user_id": "72D796946F1E480E819BC86267",
+            "regresado": false
+        }
+    ]
+}

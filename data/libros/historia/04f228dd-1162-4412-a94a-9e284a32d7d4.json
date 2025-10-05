@@ -1,0 +1,16 @@
+{
+    "libro_id": "04f228dd-1162-4412-a94a-9e284a32d7d4",
+    "isbn": "978-3-2069-1417-1",
+    "title": "Us six effort",
+    "autor": "Stephanie Davis",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "E4E5EA31047D4FC58507E26AF9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 490,
+            "user_id": "E4E5EA31047D4FC58507E26AF9",
+            "regresado": false
+        }
+    ]
+}

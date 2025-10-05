@@ -1,0 +1,10 @@
+{
+    "libro_id": "6d85a697-46f9-47a6-a554-dc8d1c6c5d82",
+    "isbn": "978-4-1378-3530-2",
+    "title": "Senior fast throw",
+    "autor": "Katherine Archer",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "85bfb8db-30df-46d5-8a6a-b9e7f402b2f1",
+    "isbn": "978-8-9836-7160-9",
+    "title": "Focus growth eye",
+    "autor": "Heather Collins",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

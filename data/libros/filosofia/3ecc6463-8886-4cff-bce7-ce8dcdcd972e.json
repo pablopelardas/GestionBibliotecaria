@@ -1,0 +1,16 @@
+{
+    "libro_id": "3ecc6463-8886-4cff-bce7-ce8dcdcd972e",
+    "isbn": "978-4-3403-6466-1",
+    "title": "Than because",
+    "autor": "Dawn Hicks",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "44398BF222654E5A8894571362",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 181,
+            "user_id": "44398BF222654E5A8894571362",
+            "regresado": false
+        }
+    ]
+}

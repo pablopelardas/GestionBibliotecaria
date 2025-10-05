@@ -1,0 +1,10 @@
+{
+    "libro_id": "3dbce736-453c-4885-b6e3-5d3e0906bd1c",
+    "isbn": "978-5-4444-5019-0",
+    "title": "For last",
+    "autor": "Kelly Harris",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

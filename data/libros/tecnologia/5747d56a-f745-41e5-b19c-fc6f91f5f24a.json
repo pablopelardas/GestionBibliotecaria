@@ -1,0 +1,16 @@
+{
+    "libro_id": "5747d56a-f745-41e5-b19c-fc6f91f5f24a",
+    "isbn": "978-2-3779-2261-5",
+    "title": "Off matter",
+    "autor": "Robert Baker",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "6E1D464C493646DB8D03E4983D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 373,
+            "user_id": "6E1D464C493646DB8D03E4983D",
+            "regresado": false
+        }
+    ]
+}

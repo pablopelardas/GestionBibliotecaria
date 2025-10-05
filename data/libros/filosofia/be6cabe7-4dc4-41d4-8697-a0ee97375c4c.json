@@ -1,0 +1,10 @@
+{
+    "libro_id": "be6cabe7-4dc4-41d4-8697-a0ee97375c4c",
+    "isbn": "978-5-3053-3569-1",
+    "title": "Teach",
+    "autor": "Nathaniel Hodge",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

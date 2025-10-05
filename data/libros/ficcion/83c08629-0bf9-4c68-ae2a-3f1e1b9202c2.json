@@ -1,0 +1,10 @@
+{
+    "libro_id": "83c08629-0bf9-4c68-ae2a-3f1e1b9202c2",
+    "isbn": "978-7-6001-1231-2",
+    "title": "Special",
+    "autor": "Gregory Olsen",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

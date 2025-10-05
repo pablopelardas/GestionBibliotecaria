@@ -1,0 +1,16 @@
+{
+    "libro_id": "d6a3b383-974b-4fd5-be00-4b66e1614dc8",
+    "isbn": "978-2-3199-3624-6",
+    "title": "Happy successful weight",
+    "autor": "Rebecca Davenport",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "3B11AD87C01E4F299F74C182BF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 210,
+            "user_id": "3B11AD87C01E4F299F74C182BF",
+            "regresado": false
+        }
+    ]
+}

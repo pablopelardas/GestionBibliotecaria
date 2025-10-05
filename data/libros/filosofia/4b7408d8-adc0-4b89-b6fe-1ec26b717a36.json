@@ -1,0 +1,16 @@
+{
+    "libro_id": "4b7408d8-adc0-4b89-b6fe-1ec26b717a36",
+    "isbn": "978-3-2600-4124-9",
+    "title": "Suggest they",
+    "autor": "Patricia Cooke",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "B3E4917D62E748D380A38A5B86",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 69,
+            "user_id": "B3E4917D62E748D380A38A5B86",
+            "regresado": false
+        }
+    ]
+}

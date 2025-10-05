@@ -1,0 +1,10 @@
+{
+    "libro_id": "bd57445f-20a2-4430-9d07-ac5faaf6066d",
+    "isbn": "978-8-8137-1357-0",
+    "title": "Whole avoid",
+    "autor": "Nicholas Mcgee",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

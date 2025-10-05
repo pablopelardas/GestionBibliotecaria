@@ -1,0 +1,10 @@
+{
+    "libro_id": "3108bbb8-4619-4439-9e9c-acabf69ed047",
+    "isbn": "978-4-1613-5767-7",
+    "title": "Report perform",
+    "autor": "Billy Gilbert",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

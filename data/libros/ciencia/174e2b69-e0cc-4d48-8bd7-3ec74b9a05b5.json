@@ -1,0 +1,16 @@
+{
+    "libro_id": "174e2b69-e0cc-4d48-8bd7-3ec74b9a05b5",
+    "isbn": "978-1-3729-8995-7",
+    "title": "Voice together able coach",
+    "autor": "Melissa Kirby",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "3B8E51C86508430994FA91F6B6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 20,
+            "user_id": "3B8E51C86508430994FA91F6B6",
+            "regresado": false
+        }
+    ]
+}

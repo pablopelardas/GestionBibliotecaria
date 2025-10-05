@@ -1,0 +1,16 @@
+{
+    "libro_id": "0db0969a-3fa5-4a2c-b066-492853660337",
+    "isbn": "978-9-6757-1320-1",
+    "title": "Could sit order",
+    "autor": "Veronica Livingston",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "B7563129953344C883E06A6985",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 473,
+            "user_id": "B7563129953344C883E06A6985",
+            "regresado": false
+        }
+    ]
+}

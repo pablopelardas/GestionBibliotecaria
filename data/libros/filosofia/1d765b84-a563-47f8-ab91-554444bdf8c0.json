@@ -1,0 +1,10 @@
+{
+    "libro_id": "1d765b84-a563-47f8-ab91-554444bdf8c0",
+    "isbn": "978-7-9226-6998-8",
+    "title": "Head pressure opportunity",
+    "autor": "Laura Watts",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

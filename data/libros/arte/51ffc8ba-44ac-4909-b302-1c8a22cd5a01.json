@@ -1,0 +1,10 @@
+{
+    "libro_id": "51ffc8ba-44ac-4909-b302-1c8a22cd5a01",
+    "isbn": "978-1-9591-7890-1",
+    "title": "Field realize new",
+    "autor": "Ms. Jennifer Cabrera",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

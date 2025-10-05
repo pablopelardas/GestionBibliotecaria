@@ -1,0 +1,10 @@
+{
+    "libro_id": "569118a5-247e-410c-8ab0-619804d7df55",
+    "isbn": "978-6-5874-1929-4",
+    "title": "Situation down offer",
+    "autor": "Jennifer Hill",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

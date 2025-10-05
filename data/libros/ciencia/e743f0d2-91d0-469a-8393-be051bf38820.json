@@ -1,0 +1,16 @@
+{
+    "libro_id": "e743f0d2-91d0-469a-8393-be051bf38820",
+    "isbn": "978-9-3122-9098-4",
+    "title": "Tax significant",
+    "autor": "Joshua Long",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "DD4D036D1DBC43E4B5AC087A71",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 73,
+            "user_id": "DD4D036D1DBC43E4B5AC087A71",
+            "regresado": false
+        }
+    ]
+}

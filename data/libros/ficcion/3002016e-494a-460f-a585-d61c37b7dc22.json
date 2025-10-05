@@ -1,0 +1,10 @@
+{
+    "libro_id": "3002016e-494a-460f-a585-d61c37b7dc22",
+    "isbn": "978-1-5103-3417-8",
+    "title": "According seven result",
+    "autor": "Lauren Beck",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

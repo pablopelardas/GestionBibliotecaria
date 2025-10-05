@@ -1,0 +1,10 @@
+{
+    "libro_id": "ef00b659-d930-4f69-a672-dba03f728734",
+    "isbn": "978-5-1607-5182-0",
+    "title": "School include",
+    "autor": "Brett Williams",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

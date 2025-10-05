@@ -1,0 +1,10 @@
+{
+    "libro_id": "75476a51-33d7-41f2-bb98-f15b4aead681",
+    "isbn": "978-2-2583-6118-3",
+    "title": "Letter business audience",
+    "autor": "Beverly Jones",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

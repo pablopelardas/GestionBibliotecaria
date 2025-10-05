@@ -1,0 +1,16 @@
+{
+    "libro_id": "379c318d-3f17-45d3-9841-9e60d095e27e",
+    "isbn": "978-3-7551-9272-1",
+    "title": "Stay majority",
+    "autor": "Daniel Williams",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "12DDDC17F33D43CEBCAA2CCBC2",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 97,
+            "user_id": "12DDDC17F33D43CEBCAA2CCBC2",
+            "regresado": false
+        }
+    ]
+}

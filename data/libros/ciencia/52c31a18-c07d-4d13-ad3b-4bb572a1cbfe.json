@@ -1,0 +1,16 @@
+{
+    "libro_id": "52c31a18-c07d-4d13-ad3b-4bb572a1cbfe",
+    "isbn": "978-9-7202-5025-0",
+    "title": "Population paper",
+    "autor": "David Salazar",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "4D5FBEABAD5D45A5889A2B1F91",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 141,
+            "user_id": "4D5FBEABAD5D45A5889A2B1F91",
+            "regresado": false
+        }
+    ]
+}

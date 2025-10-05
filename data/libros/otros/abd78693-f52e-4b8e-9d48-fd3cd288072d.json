@@ -1,0 +1,16 @@
+{
+    "libro_id": "abd78693-f52e-4b8e-9d48-fd3cd288072d",
+    "isbn": "978-4-9650-7078-4",
+    "title": "Gun boy",
+    "autor": "Leslie Allen",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "958B471A0278479FB92D30E77E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 336,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": false
+        }
+    ]
+}

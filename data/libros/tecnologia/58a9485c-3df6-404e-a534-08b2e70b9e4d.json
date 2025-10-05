@@ -1,0 +1,10 @@
+{
+    "libro_id": "58a9485c-3df6-404e-a534-08b2e70b9e4d",
+    "isbn": "978-5-3362-5801-7",
+    "title": "Add true",
+    "autor": "Valerie Browning",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

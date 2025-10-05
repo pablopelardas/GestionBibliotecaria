@@ -1,0 +1,16 @@
+{
+    "libro_id": "1e57539a-81d7-4dff-9117-bc761e6b5151",
+    "isbn": "978-1-7881-8246-6",
+    "title": "Lead form now where",
+    "autor": "Kendra Alexander",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "CFDD809CD4934208B491EB1981",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 140,
+            "user_id": "CFDD809CD4934208B491EB1981",
+            "regresado": false
+        }
+    ]
+}

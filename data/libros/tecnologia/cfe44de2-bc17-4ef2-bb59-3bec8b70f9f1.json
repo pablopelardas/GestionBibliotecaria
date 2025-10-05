@@ -1,0 +1,16 @@
+{
+    "libro_id": "cfe44de2-bc17-4ef2-bb59-3bec8b70f9f1",
+    "isbn": "978-6-6363-4295-8",
+    "title": "Someone situation",
+    "autor": "Stephanie Evans",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 88,
+            "user_id": "C1F8C7B0CF3E4BBC9B330A1B5E",
+            "regresado": true
+        }
+    ]
+}

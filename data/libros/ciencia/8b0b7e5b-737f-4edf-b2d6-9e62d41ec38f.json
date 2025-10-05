@@ -1,0 +1,10 @@
+{
+    "libro_id": "8b0b7e5b-737f-4edf-b2d6-9e62d41ec38f",
+    "isbn": "978-8-5324-6136-3",
+    "title": "Citizen throughout",
+    "autor": "Ann Nelson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

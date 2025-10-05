@@ -1,0 +1,10 @@
+{
+    "libro_id": "c6730c2c-7312-4948-ba78-af8c24c8f21a",
+    "isbn": "978-3-2391-7050-0",
+    "title": "Culture either",
+    "autor": "Jennifer Holland",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

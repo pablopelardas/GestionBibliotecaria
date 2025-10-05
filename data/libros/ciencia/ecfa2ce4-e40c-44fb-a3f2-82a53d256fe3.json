@@ -1,0 +1,16 @@
+{
+    "libro_id": "ecfa2ce4-e40c-44fb-a3f2-82a53d256fe3",
+    "isbn": "978-4-7223-3002-3",
+    "title": "International finally exactly",
+    "autor": "Andrew Page",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "3FD312DA7E3440D39355867DCF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 123,
+            "user_id": "3FD312DA7E3440D39355867DCF",
+            "regresado": false
+        }
+    ]
+}

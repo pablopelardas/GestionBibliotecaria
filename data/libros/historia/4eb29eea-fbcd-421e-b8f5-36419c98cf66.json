@@ -1,0 +1,16 @@
+{
+    "libro_id": "4eb29eea-fbcd-421e-b8f5-36419c98cf66",
+    "isbn": "978-0-1142-7924-0",
+    "title": "Admit",
+    "autor": "Ryan Quinn",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 280,
+            "user_id": "E9F242D70BE340B9A8F9478C04",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "aedcc264-6915-4edd-83f1-ec1aa6c36a8a",
+    "isbn": "978-4-6440-4839-9",
+    "title": "Kitchen step",
+    "autor": "Lisa Duran",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 440,
+            "user_id": "BF481F33188442F59129403E4F",
+            "regresado": true
+        }
+    ]
+}

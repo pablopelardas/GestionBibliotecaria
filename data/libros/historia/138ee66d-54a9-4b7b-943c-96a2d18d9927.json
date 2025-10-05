@@ -1,0 +1,16 @@
+{
+    "libro_id": "138ee66d-54a9-4b7b-943c-96a2d18d9927",
+    "isbn": "978-4-2952-1449-4",
+    "title": "Simply choice cut",
+    "autor": "Linda Mills",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "6868CE1ABC5B4B1E85FB211789",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 543,
+            "user_id": "6868CE1ABC5B4B1E85FB211789",
+            "regresado": false
+        }
+    ]
+}

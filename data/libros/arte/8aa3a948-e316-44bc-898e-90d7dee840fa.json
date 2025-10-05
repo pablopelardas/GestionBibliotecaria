@@ -1,0 +1,10 @@
+{
+    "libro_id": "8aa3a948-e316-44bc-898e-90d7dee840fa",
+    "isbn": "978-7-1043-4829-5",
+    "title": "Always even raise",
+    "autor": "Shawna Lynn",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

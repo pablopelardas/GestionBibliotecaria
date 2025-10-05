@@ -1,0 +1,16 @@
+{
+    "libro_id": "ae1fbc95-8dc7-4594-9f44-2ddac88d5eff",
+    "isbn": "978-7-1727-9865-0",
+    "title": "Police people suffer",
+    "autor": "Lisa Bullock",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "5BAA173F112F4620975D894230",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 72,
+            "user_id": "5BAA173F112F4620975D894230",
+            "regresado": false
+        }
+    ]
+}

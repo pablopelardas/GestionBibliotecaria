@@ -1,0 +1,10 @@
+{
+    "libro_id": "e4d3e60e-26bc-4922-886b-6c639b8e9d5b",
+    "isbn": "978-8-3477-7859-5",
+    "title": "Consumer economy benefit",
+    "autor": "Matthew Pennington MD",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

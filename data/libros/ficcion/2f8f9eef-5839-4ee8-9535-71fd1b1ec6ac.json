@@ -1,0 +1,10 @@
+{
+    "libro_id": "2f8f9eef-5839-4ee8-9535-71fd1b1ec6ac",
+    "isbn": "978-7-8623-6322-7",
+    "title": "List film sing",
+    "autor": "Greg Lane",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

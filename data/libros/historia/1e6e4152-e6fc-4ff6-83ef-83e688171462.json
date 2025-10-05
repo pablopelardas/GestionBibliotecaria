@@ -1,0 +1,16 @@
+{
+    "libro_id": "1e6e4152-e6fc-4ff6-83ef-83e688171462",
+    "isbn": "978-7-7842-6266-1",
+    "title": "Fall station",
+    "autor": "Matthew Krause",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "B25B239FEEE04C689C5CA59501",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 348,
+            "user_id": "B25B239FEEE04C689C5CA59501",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "335a67eb-c282-4c5d-a09d-3a2b0bab6e5a",
+    "isbn": "978-4-2299-3892-2",
+    "title": "Catch current board",
+    "autor": "Ashley Martinez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "C05B3753068D454DB1C59FAE9F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 418,
+            "user_id": "C05B3753068D454DB1C59FAE9F",
+            "regresado": false
+        }
+    ]
+}

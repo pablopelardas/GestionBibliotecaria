@@ -1,0 +1,16 @@
+{
+    "libro_id": "8e49ef7a-0526-4679-a34b-0c15102591b2",
+    "isbn": "978-8-2935-2389-5",
+    "title": "Left itself baby",
+    "autor": "Jeffrey Taylor",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "2AE0B28648194D61B4E88FB29D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 79,
+            "user_id": "2AE0B28648194D61B4E88FB29D",
+            "regresado": false
+        }
+    ]
+}

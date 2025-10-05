@@ -1,0 +1,16 @@
+{
+    "libro_id": "b7cc5e1b-b92d-4822-bc28-0695d04cb6ec",
+    "isbn": "978-2-4778-9455-2",
+    "title": "Bring eight capital",
+    "autor": "John Combs",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "A31ACCD3BF72403EBCEC21AF2C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 248,
+            "user_id": "A31ACCD3BF72403EBCEC21AF2C",
+            "regresado": false
+        }
+    ]
+}

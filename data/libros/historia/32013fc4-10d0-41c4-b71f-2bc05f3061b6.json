@@ -1,0 +1,10 @@
+{
+    "libro_id": "32013fc4-10d0-41c4-b71f-2bc05f3061b6",
+    "isbn": "978-3-7506-1234-5",
+    "title": "Read",
+    "autor": "Stephanie Morris MD",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

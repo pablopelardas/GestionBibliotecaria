@@ -1,0 +1,16 @@
+{
+    "libro_id": "8a710ac1-9259-4bc4-b168-dde60bcb1ae7",
+    "isbn": "978-6-6033-1565-6",
+    "title": "Affect stand remain",
+    "autor": "Tracey Herman",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 100,
+            "user_id": "3DBAB656A8E144B298C49BD232",
+            "regresado": true
+        }
+    ]
+}

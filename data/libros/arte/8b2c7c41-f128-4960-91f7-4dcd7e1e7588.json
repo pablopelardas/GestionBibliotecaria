@@ -1,0 +1,16 @@
+{
+    "libro_id": "8b2c7c41-f128-4960-91f7-4dcd7e1e7588",
+    "isbn": "978-6-8405-4940-1",
+    "title": "Finish capital",
+    "autor": "Philip Lewis",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 56,
+            "user_id": "BA4BA51D7CA641BC80DB50791C",
+            "regresado": true
+        }
+    ]
+}

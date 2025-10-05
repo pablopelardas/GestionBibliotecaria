@@ -1,0 +1,16 @@
+{
+    "libro_id": "d82def54-14b4-4322-8bec-64352a5c6724",
+    "isbn": "978-3-4639-5562-5",
+    "title": "Experience often they",
+    "autor": "Angelica Payne",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "D27929E5D516493CBC5435C506",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 474,
+            "user_id": "D27929E5D516493CBC5435C506",
+            "regresado": false
+        }
+    ]
+}

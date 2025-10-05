@@ -1,0 +1,16 @@
+{
+    "libro_id": "811bef85-b360-43b6-8259-6ef3b48f5dd3",
+    "isbn": "978-8-9454-1744-8",
+    "title": "Model oil",
+    "autor": "Kimberly Riley",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 155,
+            "user_id": "D63A44CC60DE44EAB98EABFB8E",
+            "regresado": true
+        }
+    ]
+}

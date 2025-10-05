@@ -1,0 +1,10 @@
+{
+    "libro_id": "2f100834-67a8-48c2-9398-56538394e7c0",
+    "isbn": "978-3-6049-1965-6",
+    "title": "Because partner",
+    "autor": "Nichole Simmons",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

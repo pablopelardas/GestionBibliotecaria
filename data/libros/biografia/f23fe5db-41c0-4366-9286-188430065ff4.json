@@ -1,0 +1,16 @@
+{
+    "libro_id": "f23fe5db-41c0-4366-9286-188430065ff4",
+    "isbn": "978-2-2787-7476-0",
+    "title": "Feeling nothing listen",
+    "autor": "Amy Brown",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 526,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": true
+        }
+    ]
+}

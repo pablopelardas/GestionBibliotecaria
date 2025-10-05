@@ -1,0 +1,10 @@
+{
+    "libro_id": "5cd4f399-32d6-4a86-92e4-f34932adfc10",
+    "isbn": "978-0-2661-2222-8",
+    "title": "Experience",
+    "autor": "James Larson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

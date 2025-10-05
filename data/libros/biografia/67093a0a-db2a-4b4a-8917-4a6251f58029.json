@@ -1,0 +1,16 @@
+{
+    "libro_id": "67093a0a-db2a-4b4a-8917-4a6251f58029",
+    "isbn": "978-7-2679-3523-0",
+    "title": "Organization little lawyer",
+    "autor": "Courtney Mendoza",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "183EC31683D144D6B57423CFF6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 188,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": false
+        }
+    ]
+}

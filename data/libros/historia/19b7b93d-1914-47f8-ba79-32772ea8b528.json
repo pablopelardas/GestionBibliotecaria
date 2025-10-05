@@ -1,0 +1,16 @@
+{
+    "libro_id": "19b7b93d-1914-47f8-ba79-32772ea8b528",
+    "isbn": "978-3-7141-7428-9",
+    "title": "Clearly set important board",
+    "autor": "Christian Hardy",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 511,
+            "user_id": "7E9F65E08361468AB82B325108",
+            "regresado": true
+        }
+    ]
+}

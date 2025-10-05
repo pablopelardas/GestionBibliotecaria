@@ -1,0 +1,16 @@
+{
+    "libro_id": "84aac30b-b3e2-416f-9a0d-5e84333b24af",
+    "isbn": "978-9-2632-3203-3",
+    "title": "Doctor whose",
+    "autor": "Christy Walsh",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 383,
+            "user_id": "B335749ED77C42D586B2E8F00B",
+            "regresado": true
+        }
+    ]
+}

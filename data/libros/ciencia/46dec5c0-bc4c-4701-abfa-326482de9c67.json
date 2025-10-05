@@ -1,0 +1,16 @@
+{
+    "libro_id": "46dec5c0-bc4c-4701-abfa-326482de9c67",
+    "isbn": "978-7-5908-1382-0",
+    "title": "Model religious",
+    "autor": "Randall Smith",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 77,
+            "user_id": "157B3D0D95DD458EAB0D98B2AD",
+            "regresado": true
+        }
+    ]
+}

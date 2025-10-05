@@ -1,0 +1,10 @@
+{
+    "libro_id": "4fff999f-5716-407c-bd26-94cca61230f1",
+    "isbn": "978-1-6979-3332-6",
+    "title": "I not",
+    "autor": "Sydney Young",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b1454349-aa21-4c54-8ba8-483d8d9cebeb",
+    "isbn": "978-2-3829-2862-6",
+    "title": "Believe year",
+    "autor": "Mrs. Kelly Hart",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "041279730BA74E31AA2D17C2A8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 341,
+            "user_id": "041279730BA74E31AA2D17C2A8",
+            "regresado": false
+        }
+    ]
+}

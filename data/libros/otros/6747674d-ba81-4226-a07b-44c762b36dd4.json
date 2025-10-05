@@ -1,0 +1,10 @@
+{
+    "libro_id": "6747674d-ba81-4226-a07b-44c762b36dd4",
+    "isbn": "978-4-2364-4474-2",
+    "title": "Analysis ask",
+    "autor": "Samantha Obrien",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

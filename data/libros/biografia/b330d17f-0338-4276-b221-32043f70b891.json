@@ -1,0 +1,16 @@
+{
+    "libro_id": "b330d17f-0338-4276-b221-32043f70b891",
+    "isbn": "978-8-4309-3104-0",
+    "title": "Face",
+    "autor": "Angel Young",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "CB03A604DEC948158E599FB180",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 61,
+            "user_id": "CB03A604DEC948158E599FB180",
+            "regresado": false
+        }
+    ]
+}

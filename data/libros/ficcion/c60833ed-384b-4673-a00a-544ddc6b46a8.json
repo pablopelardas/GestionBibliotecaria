@@ -1,0 +1,10 @@
+{
+    "libro_id": "c60833ed-384b-4673-a00a-544ddc6b46a8",
+    "isbn": "978-8-5521-4331-9",
+    "title": "Us buy",
+    "autor": "Michelle Williams",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

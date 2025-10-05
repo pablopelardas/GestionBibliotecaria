@@ -1,0 +1,16 @@
+{
+    "libro_id": "01367a4f-080d-45da-81ee-e0c5176e2b8c",
+    "isbn": "978-9-9480-7693-5",
+    "title": "Body item poor",
+    "autor": "Kathryn Baker",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 1,
+            "user_id": "0368C46F5677429AA8C97AA2E6",
+            "regresado": true
+        }
+    ]
+}

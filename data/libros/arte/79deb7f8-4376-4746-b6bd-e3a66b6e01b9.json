@@ -1,0 +1,10 @@
+{
+    "libro_id": "79deb7f8-4376-4746-b6bd-e3a66b6e01b9",
+    "isbn": "978-7-1640-4205-3",
+    "title": "Member",
+    "autor": "Caitlin Robbins",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

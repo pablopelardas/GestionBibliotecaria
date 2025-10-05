@@ -1,0 +1,16 @@
+{
+    "libro_id": "acbfdc64-e2f6-4f6b-927f-ff74db5ad29d",
+    "isbn": "978-3-9261-3093-9",
+    "title": "Speak physical station",
+    "autor": "Kevin Griffith",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "22D19F6BD1784ACA94F600C1D9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 128,
+            "user_id": "22D19F6BD1784ACA94F600C1D9",
+            "regresado": false
+        }
+    ]
+}

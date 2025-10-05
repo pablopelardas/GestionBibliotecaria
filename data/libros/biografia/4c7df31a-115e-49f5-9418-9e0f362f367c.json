@@ -1,0 +1,16 @@
+{
+    "libro_id": "4c7df31a-115e-49f5-9418-9e0f362f367c",
+    "isbn": "978-3-1016-8849-0",
+    "title": "Impact stay",
+    "autor": "Joshua Shelton",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 379,
+            "user_id": "5657F4FB3CD1422C931208E6F0",
+            "regresado": true
+        }
+    ]
+}

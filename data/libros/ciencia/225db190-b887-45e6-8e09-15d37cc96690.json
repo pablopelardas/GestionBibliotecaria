@@ -1,0 +1,16 @@
+{
+    "libro_id": "225db190-b887-45e6-8e09-15d37cc96690",
+    "isbn": "978-1-3253-4928-3",
+    "title": "Summer property mouth",
+    "autor": "Marc Walker",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "C9521263DB99407B986774D810",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 82,
+            "user_id": "C9521263DB99407B986774D810",
+            "regresado": false
+        }
+    ]
+}

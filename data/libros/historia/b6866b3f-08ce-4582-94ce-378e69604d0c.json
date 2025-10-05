@@ -1,0 +1,16 @@
+{
+    "libro_id": "b6866b3f-08ce-4582-94ce-378e69604d0c",
+    "isbn": "978-9-7158-6708-1",
+    "title": "Marriage",
+    "autor": "John Bridges",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 437,
+            "user_id": "840852BEFC9D434FA4D789C48C",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "a2bd329d-4c21-4ae7-b900-236fe68e50b8",
+    "isbn": "978-4-6653-1900-2",
+    "title": "Poor since international",
+    "autor": "Andrea Andrews",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

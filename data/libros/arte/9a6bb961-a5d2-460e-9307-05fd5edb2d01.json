@@ -1,0 +1,16 @@
+{
+    "libro_id": "9a6bb961-a5d2-460e-9307-05fd5edb2d01",
+    "isbn": "978-2-7316-6237-1",
+    "title": "Name move military",
+    "autor": "Bailey Nelson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 190,
+            "user_id": "448F970474E947E89EED49237A",
+            "regresado": true
+        }
+    ]
+}

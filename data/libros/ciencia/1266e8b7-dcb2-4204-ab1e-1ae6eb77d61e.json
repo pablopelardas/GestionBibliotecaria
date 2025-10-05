@@ -1,0 +1,10 @@
+{
+    "libro_id": "1266e8b7-dcb2-4204-ab1e-1ae6eb77d61e",
+    "isbn": "978-3-9871-5862-6",
+    "title": "Gun certainly stop",
+    "autor": "Patricia Moore",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

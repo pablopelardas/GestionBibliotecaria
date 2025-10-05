@@ -1,0 +1,16 @@
+{
+    "libro_id": "0fd32c65-78fd-4bc5-bc69-26e1ff825370",
+    "isbn": "978-7-8968-2408-6",
+    "title": "Teach million knowledge",
+    "autor": "Charles Hunt",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 304,
+            "user_id": "E1A4EF562CD94AB596D36D4E2A",
+            "regresado": true
+        }
+    ]
+}

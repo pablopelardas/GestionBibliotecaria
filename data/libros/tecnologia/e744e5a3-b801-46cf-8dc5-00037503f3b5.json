@@ -1,0 +1,10 @@
+{
+    "libro_id": "e744e5a3-b801-46cf-8dc5-00037503f3b5",
+    "isbn": "978-9-3420-4044-8",
+    "title": "Not something hour",
+    "autor": "Stacy Gonzalez",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

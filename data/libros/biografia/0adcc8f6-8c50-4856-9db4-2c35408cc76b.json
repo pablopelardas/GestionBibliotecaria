@@ -1,0 +1,10 @@
+{
+    "libro_id": "0adcc8f6-8c50-4856-9db4-2c35408cc76b",
+    "isbn": "978-7-1124-4195-6",
+    "title": "Fly forget",
+    "autor": "Jennifer Mitchell",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "1c02b77e-05ad-4d4f-a774-3386d37886ef",
+    "isbn": "978-9-2508-7028-0",
+    "title": "Election nation",
+    "autor": "Aaron Price",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "DBB617E9867C4E35A3DEFAF021",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 353,
+            "user_id": "DBB617E9867C4E35A3DEFAF021",
+            "regresado": false
+        }
+    ]
+}

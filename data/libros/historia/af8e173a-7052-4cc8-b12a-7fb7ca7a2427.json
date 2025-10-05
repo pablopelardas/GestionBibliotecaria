@@ -1,0 +1,10 @@
+{
+    "libro_id": "af8e173a-7052-4cc8-b12a-7fb7ca7a2427",
+    "isbn": "978-8-3575-4080-5",
+    "title": "Weight speech",
+    "autor": "Ryan Day",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

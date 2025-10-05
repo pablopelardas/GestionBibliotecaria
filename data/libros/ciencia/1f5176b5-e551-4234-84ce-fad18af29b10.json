@@ -1,0 +1,10 @@
+{
+    "libro_id": "1f5176b5-e551-4234-84ce-fad18af29b10",
+    "isbn": "978-5-7114-9162-5",
+    "title": "Bill customer great",
+    "autor": "Rachel Morrow",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

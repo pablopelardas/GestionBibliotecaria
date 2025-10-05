@@ -1,0 +1,10 @@
+{
+    "libro_id": "10291abf-db07-4e4d-8230-a1df872d759e",
+    "isbn": "978-8-6598-4326-0",
+    "title": "Couple thousand",
+    "autor": "Kathleen Washington",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

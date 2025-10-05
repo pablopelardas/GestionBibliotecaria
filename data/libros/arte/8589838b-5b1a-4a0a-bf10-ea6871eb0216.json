@@ -1,0 +1,16 @@
+{
+    "libro_id": "8589838b-5b1a-4a0a-bf10-ea6871eb0216",
+    "isbn": "978-6-3502-4409-6",
+    "title": "Television rate whose",
+    "autor": "Robin Dunlap",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "A3077F9069414431B0627C9C2E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 147,
+            "user_id": "A3077F9069414431B0627C9C2E",
+            "regresado": false
+        }
+    ]
+}

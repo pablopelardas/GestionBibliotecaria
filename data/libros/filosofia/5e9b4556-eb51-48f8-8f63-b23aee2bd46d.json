@@ -1,0 +1,16 @@
+{
+    "libro_id": "5e9b4556-eb51-48f8-8f63-b23aee2bd46d",
+    "isbn": "978-9-2969-3249-8",
+    "title": "Case national",
+    "autor": "Scott Hays",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "64DEAFD9F7374AE0BD3B980529",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 382,
+            "user_id": "64DEAFD9F7374AE0BD3B980529",
+            "regresado": false
+        }
+    ]
+}

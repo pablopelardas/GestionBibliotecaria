@@ -1,0 +1,16 @@
+{
+    "libro_id": "62c1cd5d-57a0-49f5-93e2-75a9bf7672f3",
+    "isbn": "978-7-3973-7101-7",
+    "title": "Event rule",
+    "autor": "Rachel Murphy",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 283,
+            "user_id": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+            "regresado": false
+        }
+    ]
+}

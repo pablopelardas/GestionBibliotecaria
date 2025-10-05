@@ -1,0 +1,10 @@
+{
+    "libro_id": "36610ac7-961b-4d84-b0a4-5bf59fab3394",
+    "isbn": "978-3-7876-8484-7",
+    "title": "Wall half",
+    "autor": "Michael Braun",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "e02611f0-a20d-4a44-93d6-134d0a3f0866",
+    "isbn": "978-7-2003-4546-5",
+    "title": "Police again eye",
+    "autor": "Blake Henson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

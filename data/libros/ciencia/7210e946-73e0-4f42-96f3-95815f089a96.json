@@ -1,0 +1,10 @@
+{
+    "libro_id": "7210e946-73e0-4f42-96f3-95815f089a96",
+    "isbn": "978-4-8465-3060-4",
+    "title": "Half total",
+    "autor": "Michael Sandoval",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

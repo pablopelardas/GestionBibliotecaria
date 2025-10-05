@@ -1,0 +1,10 @@
+{
+    "libro_id": "87e11291-d86a-48d7-8d6d-4b90250a1e2e",
+    "isbn": "978-0-3822-8829-6",
+    "title": "Finish always if",
+    "autor": "Hannah Hoffman",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

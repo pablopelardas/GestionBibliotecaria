@@ -1,0 +1,10 @@
+{
+    "libro_id": "5048842b-bd09-45cb-b73e-215c5ec9fdec",
+    "isbn": "978-3-2540-7320-8",
+    "title": "Dinner whether individual",
+    "autor": "Nathaniel Suarez",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

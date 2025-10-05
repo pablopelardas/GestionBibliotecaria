@@ -1,0 +1,10 @@
+{
+    "libro_id": "33da584c-e09f-4007-af7e-609566e5db24",
+    "isbn": "978-1-2739-4497-1",
+    "title": "Cultural miss capital",
+    "autor": "Dennis Moore",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

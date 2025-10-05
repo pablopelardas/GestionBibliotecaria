@@ -1,0 +1,16 @@
+{
+    "libro_id": "22865767-bd46-45f6-b5df-73eea38ce6e6",
+    "isbn": "978-7-4789-5657-9",
+    "title": "Quality",
+    "autor": "Erik Smith",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 153,
+            "user_id": "4DB36E8C5520409DB9C0B02978",
+            "regresado": true
+        }
+    ]
+}

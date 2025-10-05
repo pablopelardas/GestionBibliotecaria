@@ -1,0 +1,16 @@
+{
+    "libro_id": "423d7da4-85e9-4ade-ac24-20d57bd28ce5",
+    "isbn": "978-0-6479-5203-7",
+    "title": "Expert act",
+    "autor": "Francisco Willis",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "B25B239FEEE04C689C5CA59501",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 416,
+            "user_id": "B25B239FEEE04C689C5CA59501",
+            "regresado": false
+        }
+    ]
+}

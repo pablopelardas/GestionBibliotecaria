@@ -1,0 +1,16 @@
+{
+    "libro_id": "e9f08a14-221d-4aa4-9e13-7442be590d4a",
+    "isbn": "978-8-3513-2406-8",
+    "title": "Well husband",
+    "autor": "Patrick Phillips",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "958B471A0278479FB92D30E77E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 25,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": false
+        }
+    ]
+}

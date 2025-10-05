@@ -1,0 +1,16 @@
+{
+    "libro_id": "6659b2a0-7371-4b57-8f77-742c1557afc6",
+    "isbn": "978-0-1786-8995-5",
+    "title": "Ever dark",
+    "autor": "Rhonda James",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "0C8543FB3C0F4DD6B17735A83E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 505,
+            "user_id": "0C8543FB3C0F4DD6B17735A83E",
+            "regresado": false
+        }
+    ]
+}

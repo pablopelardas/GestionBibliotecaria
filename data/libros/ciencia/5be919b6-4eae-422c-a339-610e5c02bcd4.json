@@ -1,0 +1,10 @@
+{
+    "libro_id": "5be919b6-4eae-422c-a339-610e5c02bcd4",
+    "isbn": "978-5-7731-3300-3",
+    "title": "Skin whole",
+    "autor": "Karen Ruiz",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

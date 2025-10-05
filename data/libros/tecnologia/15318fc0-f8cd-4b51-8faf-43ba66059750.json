@@ -1,0 +1,16 @@
+{
+    "libro_id": "15318fc0-f8cd-4b51-8faf-43ba66059750",
+    "isbn": "978-6-6836-2220-0",
+    "title": "Carry guy",
+    "autor": "Bruce Jones",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "0242BCA1DB194B0E851B0DAC5F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 37,
+            "user_id": "0242BCA1DB194B0E851B0DAC5F",
+            "regresado": false
+        }
+    ]
+}

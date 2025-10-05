@@ -1,0 +1,10 @@
+{
+    "libro_id": "da50f379-111f-4e65-96a9-6acf87f30348",
+    "isbn": "978-2-3491-1724-5",
+    "title": "Beyond station",
+    "autor": "Alexandra Lee",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

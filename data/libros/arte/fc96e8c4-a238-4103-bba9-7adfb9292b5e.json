@@ -1,0 +1,10 @@
+{
+    "libro_id": "fc96e8c4-a238-4103-bba9-7adfb9292b5e",
+    "isbn": "978-6-3957-2372-8",
+    "title": "Still hear change",
+    "autor": "Jennifer Neal",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

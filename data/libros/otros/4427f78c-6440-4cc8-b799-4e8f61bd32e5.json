@@ -1,0 +1,10 @@
+{
+    "libro_id": "4427f78c-6440-4cc8-b799-4e8f61bd32e5",
+    "isbn": "978-0-7890-5381-5",
+    "title": "Hot site first",
+    "autor": "Samuel Young",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

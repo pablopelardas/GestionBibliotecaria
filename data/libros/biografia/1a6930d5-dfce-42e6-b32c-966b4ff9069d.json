@@ -1,0 +1,16 @@
+{
+    "libro_id": "1a6930d5-dfce-42e6-b32c-966b4ff9069d",
+    "isbn": "978-4-9969-9814-1",
+    "title": "Radio own",
+    "autor": "Joseph Sherman",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 377,
+            "user_id": "D78F91731FB34B9FB6F69C29FB",
+            "regresado": true
+        }
+    ]
+}

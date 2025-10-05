@@ -1,0 +1,16 @@
+{
+    "libro_id": "bd48dc86-f300-4d1f-a112-c0406aeffcfc",
+    "isbn": "978-7-6803-8118-2",
+    "title": "Her might sense all",
+    "autor": "Yolanda Evans",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 546,
+            "user_id": "9C1EF49702BB44CCAE87F0BEA5",
+            "regresado": true
+        }
+    ]
+}

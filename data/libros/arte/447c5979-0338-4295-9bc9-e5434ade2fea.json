@@ -1,0 +1,16 @@
+{
+    "libro_id": "447c5979-0338-4295-9bc9-e5434ade2fea",
+    "isbn": "978-2-1927-5327-2",
+    "title": "Possible up",
+    "autor": "Debbie Bernard MD",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 31,
+            "user_id": "32326E571C2F47B591C821C1FD",
+            "regresado": true
+        }
+    ]
+}

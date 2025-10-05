@@ -1,0 +1,10 @@
+{
+    "libro_id": "55d7e0dd-dfb1-4dac-bad9-2dcdd5b9da32",
+    "isbn": "978-1-8984-5894-7",
+    "title": "Heavy idea doctor",
+    "autor": "Kimberly Warner",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

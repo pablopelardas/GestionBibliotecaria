@@ -1,0 +1,16 @@
+{
+    "libro_id": "83281412-545f-470d-8c0d-b6efb3aa6005",
+    "isbn": "978-6-5653-3429-9",
+    "title": "Light smile expert",
+    "autor": "Sydney Lynch",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 41,
+            "user_id": "A3077F9069414431B0627C9C2E",
+            "regresado": true
+        }
+    ]
+}

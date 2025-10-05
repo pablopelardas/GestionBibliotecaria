@@ -1,0 +1,16 @@
+{
+    "libro_id": "60d6a63b-33d3-4c42-8667-915864139a85",
+    "isbn": "978-9-8022-4081-8",
+    "title": "Agree current bad",
+    "autor": "Dr. Amy Arnold",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "2AE0B28648194D61B4E88FB29D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 102,
+            "user_id": "2AE0B28648194D61B4E88FB29D",
+            "regresado": false
+        }
+    ]
+}

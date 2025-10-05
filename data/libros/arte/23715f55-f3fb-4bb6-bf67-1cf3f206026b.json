@@ -1,0 +1,16 @@
+{
+    "libro_id": "23715f55-f3fb-4bb6-bf67-1cf3f206026b",
+    "isbn": "978-2-8494-8100-8",
+    "title": "Small game force",
+    "autor": "Ethan Cook",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "6705129255B94BFCBF7B93DAED",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 403,
+            "user_id": "6705129255B94BFCBF7B93DAED",
+            "regresado": false
+        }
+    ]
+}

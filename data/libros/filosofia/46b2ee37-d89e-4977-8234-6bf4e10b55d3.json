@@ -1,0 +1,16 @@
+{
+    "libro_id": "46b2ee37-d89e-4977-8234-6bf4e10b55d3",
+    "isbn": "978-7-5983-5368-5",
+    "title": "Sound fine",
+    "autor": "Rebecca Rios",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 438,
+            "user_id": "61581C8DA34740FC9F3EDF6ACC",
+            "regresado": true
+        }
+    ]
+}

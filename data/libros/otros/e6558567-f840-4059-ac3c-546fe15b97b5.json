@@ -1,0 +1,16 @@
+{
+    "libro_id": "e6558567-f840-4059-ac3c-546fe15b97b5",
+    "isbn": "978-9-9796-3260-9",
+    "title": "Fine hand",
+    "autor": "Jesse Moody",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 358,
+            "user_id": "321D92B53BD0403EA4DDF3975C",
+            "regresado": true
+        }
+    ]
+}

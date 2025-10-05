@@ -1,0 +1,16 @@
+{
+    "libro_id": "5913ee48-66ae-434c-8d1e-168f18bf8d94",
+    "isbn": "978-2-2530-3966-4",
+    "title": "Blood north animal",
+    "autor": "Steven Ramsey",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 514,
+            "user_id": "CF9D4EEC519C4B6D943632A7E9",
+            "regresado": true
+        }
+    ]
+}

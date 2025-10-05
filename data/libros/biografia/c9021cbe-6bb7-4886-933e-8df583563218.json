@@ -1,0 +1,16 @@
+{
+    "libro_id": "c9021cbe-6bb7-4886-933e-8df583563218",
+    "isbn": "978-6-7441-2214-3",
+    "title": "Difficult parent society",
+    "autor": "Paul Pearson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "22587A21665E488D9C41E2D1F8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 472,
+            "user_id": "22587A21665E488D9C41E2D1F8",
+            "regresado": false
+        }
+    ]
+}

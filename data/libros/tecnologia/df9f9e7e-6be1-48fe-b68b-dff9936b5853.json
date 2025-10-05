@@ -1,0 +1,16 @@
+{
+    "libro_id": "df9f9e7e-6be1-48fe-b68b-dff9936b5853",
+    "isbn": "978-0-7633-7367-9",
+    "title": "Such her",
+    "autor": "Robert Lane",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "12DE659ECA5A4AAC9AD6EB3CBE",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 492,
+            "user_id": "12DE659ECA5A4AAC9AD6EB3CBE",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "897a66cd-cc53-4da5-ae66-3ea98a7fe598",
+    "isbn": "978-3-8448-6388-5",
+    "title": "Make compare deal manage",
+    "autor": "Tammy Bradley",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

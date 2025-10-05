@@ -1,0 +1,16 @@
+{
+    "libro_id": "7c287d5c-85e0-4ab4-a351-668b46805733",
+    "isbn": "978-7-3100-4258-1",
+    "title": "It million without",
+    "autor": "Joe Johnson",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "37C5617632F843D28CC6B213F9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 465,
+            "user_id": "37C5617632F843D28CC6B213F9",
+            "regresado": false
+        }
+    ]
+}

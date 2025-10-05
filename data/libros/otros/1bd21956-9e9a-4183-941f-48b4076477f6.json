@@ -1,0 +1,10 @@
+{
+    "libro_id": "1bd21956-9e9a-4183-941f-48b4076477f6",
+    "isbn": "978-4-2637-3206-7",
+    "title": "I ready standard",
+    "autor": "Alexandra Gibson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

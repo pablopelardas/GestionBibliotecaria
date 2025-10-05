@@ -1,0 +1,16 @@
+{
+    "libro_id": "de392788-5ee1-4f8f-8669-8cf0346e1fa9",
+    "isbn": "978-6-3490-5601-8",
+    "title": "Sell result price",
+    "autor": "Karina Santiago",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "7808AF18D8DF4901B044704416",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 456,
+            "user_id": "7808AF18D8DF4901B044704416",
+            "regresado": false
+        }
+    ]
+}

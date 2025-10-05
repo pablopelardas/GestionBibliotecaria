@@ -1,0 +1,10 @@
+{
+    "libro_id": "0b49cfb6-e235-4947-92c8-af0814715dbf",
+    "isbn": "978-3-9832-2693-5",
+    "title": "Sometimes PM",
+    "autor": "Daniel White PhD",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

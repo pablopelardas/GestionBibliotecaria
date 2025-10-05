@@ -1,0 +1,10 @@
+{
+    "libro_id": "bf763c70-d4d3-4750-95bf-a54168302d2f",
+    "isbn": "978-8-3490-5763-2",
+    "title": "Environmental",
+    "autor": "Adrienne Booth",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "734d0036-cf27-4041-ac24-fa1e0472e7b5",
+    "isbn": "978-0-8881-3048-1",
+    "title": "At structure including",
+    "autor": "Mark Wagner",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

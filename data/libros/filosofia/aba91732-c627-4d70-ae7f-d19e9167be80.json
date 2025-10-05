@@ -1,0 +1,16 @@
+{
+    "libro_id": "aba91732-c627-4d70-ae7f-d19e9167be80",
+    "isbn": "978-6-3516-4333-1",
+    "title": "Worry air",
+    "autor": "Daniel Wilkins",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "F2E6B07D4DFD4D0DAF10E17650",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 81,
+            "user_id": "F2E6B07D4DFD4D0DAF10E17650",
+            "regresado": false
+        }
+    ]
+}

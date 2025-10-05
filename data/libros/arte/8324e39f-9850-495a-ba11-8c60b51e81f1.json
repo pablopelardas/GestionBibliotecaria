@@ -1,0 +1,10 @@
+{
+    "libro_id": "8324e39f-9850-495a-ba11-8c60b51e81f1",
+    "isbn": "978-6-9244-4462-8",
+    "title": "Chance rise",
+    "autor": "Wesley Romero",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

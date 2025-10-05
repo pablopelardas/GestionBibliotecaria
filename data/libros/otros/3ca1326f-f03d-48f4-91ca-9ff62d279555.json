@@ -1,0 +1,10 @@
+{
+    "libro_id": "3ca1326f-f03d-48f4-91ca-9ff62d279555",
+    "isbn": "978-0-8955-6830-7",
+    "title": "Hard exactly six",
+    "autor": "Sylvia Mills",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

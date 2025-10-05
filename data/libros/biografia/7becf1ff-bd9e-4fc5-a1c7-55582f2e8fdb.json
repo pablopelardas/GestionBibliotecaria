@@ -1,0 +1,10 @@
+{
+    "libro_id": "7becf1ff-bd9e-4fc5-a1c7-55582f2e8fdb",
+    "isbn": "978-5-4232-9378-2",
+    "title": "Amount responsibility return",
+    "autor": "Claudia Martin",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

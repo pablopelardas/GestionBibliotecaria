@@ -1,0 +1,10 @@
+{
+    "libro_id": "451ccd4b-ea37-4b99-ab23-8e8b950f97c4",
+    "isbn": "978-1-5758-9000-2",
+    "title": "Congress administration",
+    "autor": "Stephanie Scott",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

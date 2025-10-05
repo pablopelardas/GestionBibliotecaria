@@ -1,0 +1,16 @@
+{
+    "libro_id": "fb0dd917-fc9c-4c0c-9752-263f0bdedca9",
+    "isbn": "978-2-1423-1365-0",
+    "title": "Also",
+    "autor": "Jenna Cooper",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "E579286C01584AF99259994131",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 198,
+            "user_id": "E579286C01584AF99259994131",
+            "regresado": false
+        }
+    ]
+}

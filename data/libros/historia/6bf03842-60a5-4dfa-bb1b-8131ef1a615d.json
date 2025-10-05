@@ -1,0 +1,10 @@
+{
+    "libro_id": "6bf03842-60a5-4dfa-bb1b-8131ef1a615d",
+    "isbn": "978-8-5318-1745-2",
+    "title": "Explain have",
+    "autor": "Robert Marquez",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

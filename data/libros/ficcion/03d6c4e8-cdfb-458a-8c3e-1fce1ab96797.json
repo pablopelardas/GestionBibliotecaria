@@ -1,0 +1,16 @@
+{
+    "libro_id": "03d6c4e8-cdfb-458a-8c3e-1fce1ab96797",
+    "isbn": "978-2-5009-3568-0",
+    "title": "Them car outside",
+    "autor": "Mark Sanchez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "C0B4545102E34317B26F8915A1",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 488,
+            "user_id": "C0B4545102E34317B26F8915A1",
+            "regresado": false
+        }
+    ]
+}

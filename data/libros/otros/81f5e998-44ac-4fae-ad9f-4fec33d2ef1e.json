@@ -1,0 +1,16 @@
+{
+    "libro_id": "81f5e998-44ac-4fae-ad9f-4fec33d2ef1e",
+    "isbn": "978-3-5075-3473-9",
+    "title": "Executive realize",
+    "autor": "Lori Gregory",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 347,
+            "user_id": "64F7E05A514044D4A972A7B200",
+            "regresado": true
+        }
+    ]
+}

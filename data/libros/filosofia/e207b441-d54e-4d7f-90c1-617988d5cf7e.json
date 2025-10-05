@@ -1,0 +1,16 @@
+{
+    "libro_id": "e207b441-d54e-4d7f-90c1-617988d5cf7e",
+    "isbn": "978-5-8087-3706-2",
+    "title": "Activity necessary",
+    "autor": "Brianna Walls",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "D27929E5D516493CBC5435C506",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 173,
+            "user_id": "D27929E5D516493CBC5435C506",
+            "regresado": false
+        }
+    ]
+}

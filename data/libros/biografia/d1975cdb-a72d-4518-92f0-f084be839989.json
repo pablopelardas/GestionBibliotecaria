@@ -1,0 +1,16 @@
+{
+    "libro_id": "d1975cdb-a72d-4518-92f0-f084be839989",
+    "isbn": "978-2-2465-1086-7",
+    "title": "Physical pull inside",
+    "autor": "Jeffrey Guerra",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "54D4E2A7E73641778B83DB1E0F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 217,
+            "user_id": "54D4E2A7E73641778B83DB1E0F",
+            "regresado": false
+        }
+    ]
+}

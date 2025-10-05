@@ -1,0 +1,16 @@
+{
+    "libro_id": "cf8c8013-b708-46f7-a907-a92d808b793e",
+    "isbn": "978-3-8802-4532-0",
+    "title": "Surface station almost no",
+    "autor": "Ricky Walker",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "27F0830FC2B8422C95F87B7959",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 520,
+            "user_id": "27F0830FC2B8422C95F87B7959",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "0b332611-e379-4472-9b99-10fdbe336462",
+    "isbn": "978-9-1193-8601-7",
+    "title": "Beat attention",
+    "autor": "Holly Brown",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 497,
+            "user_id": "4F3B86325139443D88EA354FFC",
+            "regresado": true
+        }
+    ]
+}

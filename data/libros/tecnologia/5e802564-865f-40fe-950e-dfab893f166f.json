@@ -1,0 +1,16 @@
+{
+    "libro_id": "5e802564-865f-40fe-950e-dfab893f166f",
+    "isbn": "978-5-8487-1800-0",
+    "title": "Material state",
+    "autor": "James Barr",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "44398BF222654E5A8894571362",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 332,
+            "user_id": "44398BF222654E5A8894571362",
+            "regresado": false
+        }
+    ]
+}

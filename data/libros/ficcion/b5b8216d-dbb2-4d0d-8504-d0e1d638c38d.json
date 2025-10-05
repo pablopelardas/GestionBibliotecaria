@@ -1,0 +1,16 @@
+{
+    "libro_id": "b5b8216d-dbb2-4d0d-8504-d0e1d638c38d",
+    "isbn": "978-2-9030-5366-5",
+    "title": "Audience physical pattern",
+    "autor": "Lindsey Schmitt",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "E9B8629CD5424FA98624D49DEF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 211,
+            "user_id": "E9B8629CD5424FA98624D49DEF",
+            "regresado": false
+        }
+    ]
+}

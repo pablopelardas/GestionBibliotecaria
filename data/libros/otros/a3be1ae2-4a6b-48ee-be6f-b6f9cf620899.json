@@ -1,0 +1,10 @@
+{
+    "libro_id": "a3be1ae2-4a6b-48ee-be6f-b6f9cf620899",
+    "isbn": "978-2-2057-3556-0",
+    "title": "Yourself financial",
+    "autor": "Anna Malone",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

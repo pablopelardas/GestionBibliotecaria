@@ -1,0 +1,10 @@
+{
+    "libro_id": "0d9fdc58-39ed-4572-b71d-b8142185250b",
+    "isbn": "978-5-6424-3396-0",
+    "title": "Difference",
+    "autor": "Dustin Hunter",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

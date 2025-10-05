@@ -1,0 +1,10 @@
+{
+    "libro_id": "3b8cd46a-1b51-4c5e-8544-a577a397de66",
+    "isbn": "978-6-4985-6525-1",
+    "title": "Decade spring",
+    "autor": "Kristie Miranda",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

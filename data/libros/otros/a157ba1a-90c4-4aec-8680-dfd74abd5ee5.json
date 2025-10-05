@@ -1,0 +1,16 @@
+{
+    "libro_id": "a157ba1a-90c4-4aec-8680-dfd74abd5ee5",
+    "isbn": "978-7-3171-7319-6",
+    "title": "Social data then",
+    "autor": "Evan Ross",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 19,
+            "user_id": "0242BCA1DB194B0E851B0DAC5F",
+            "regresado": true
+        }
+    ]
+}

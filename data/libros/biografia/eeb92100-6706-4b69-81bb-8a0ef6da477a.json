@@ -1,0 +1,16 @@
+{
+    "libro_id": "eeb92100-6706-4b69-81bb-8a0ef6da477a",
+    "isbn": "978-1-9731-8203-8",
+    "title": "Expert reveal",
+    "autor": "Lauren Bailey",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "7808AF18D8DF4901B044704416",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 118,
+            "user_id": "7808AF18D8DF4901B044704416",
+            "regresado": false
+        }
+    ]
+}

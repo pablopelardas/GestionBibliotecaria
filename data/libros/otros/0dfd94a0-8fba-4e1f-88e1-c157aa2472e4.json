@@ -1,0 +1,16 @@
+{
+    "libro_id": "0dfd94a0-8fba-4e1f-88e1-c157aa2472e4",
+    "isbn": "978-3-7748-5982-0",
+    "title": "Decision model",
+    "autor": "Brian Roberts",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "60CF46FA41904722A9C6FF44BD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 205,
+            "user_id": "60CF46FA41904722A9C6FF44BD",
+            "regresado": false
+        }
+    ]
+}

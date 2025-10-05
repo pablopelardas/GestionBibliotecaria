@@ -1,0 +1,16 @@
+{
+    "libro_id": "523164ff-9b99-4d8e-88d5-89fd4084970b",
+    "isbn": "978-5-6055-9877-2",
+    "title": "Suggest certainly study since",
+    "autor": "Kelly Matthews",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "B335749ED77C42D586B2E8F00B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 442,
+            "user_id": "B335749ED77C42D586B2E8F00B",
+            "regresado": false
+        }
+    ]
+}

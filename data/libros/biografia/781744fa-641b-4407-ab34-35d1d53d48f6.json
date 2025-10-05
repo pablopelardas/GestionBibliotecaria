@@ -1,0 +1,16 @@
+{
+    "libro_id": "781744fa-641b-4407-ab34-35d1d53d48f6",
+    "isbn": "978-5-7077-5825-3",
+    "title": "Would minute",
+    "autor": "Miranda Thompson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 312,
+            "user_id": "C55E5F74BCE74664B35E153A26",
+            "regresado": true
+        }
+    ]
+}

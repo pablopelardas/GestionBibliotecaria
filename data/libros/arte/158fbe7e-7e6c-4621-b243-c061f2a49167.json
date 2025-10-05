@@ -1,0 +1,10 @@
+{
+    "libro_id": "158fbe7e-7e6c-4621-b243-c061f2a49167",
+    "isbn": "978-0-8242-4065-9",
+    "title": "Peace manage",
+    "autor": "Shelly Atkinson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

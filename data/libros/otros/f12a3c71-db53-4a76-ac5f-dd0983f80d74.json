@@ -1,0 +1,16 @@
+{
+    "libro_id": "f12a3c71-db53-4a76-ac5f-dd0983f80d74",
+    "isbn": "978-2-9696-8441-3",
+    "title": "City guy",
+    "autor": "Todd Park",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "1A11C25A506D4998A5B864FDF9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 545,
+            "user_id": "1A11C25A506D4998A5B864FDF9",
+            "regresado": false
+        }
+    ]
+}

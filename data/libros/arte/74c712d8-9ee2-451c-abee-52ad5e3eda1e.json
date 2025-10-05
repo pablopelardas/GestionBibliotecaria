@@ -1,0 +1,16 @@
+{
+    "libro_id": "74c712d8-9ee2-451c-abee-52ad5e3eda1e",
+    "isbn": "978-1-2176-6355-7",
+    "title": "Same buy bank",
+    "autor": "David Brown",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "C9521263DB99407B986774D810",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 541,
+            "user_id": "C9521263DB99407B986774D810",
+            "regresado": false
+        }
+    ]
+}

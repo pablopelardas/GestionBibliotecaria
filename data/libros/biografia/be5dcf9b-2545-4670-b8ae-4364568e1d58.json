@@ -1,0 +1,16 @@
+{
+    "libro_id": "be5dcf9b-2545-4670-b8ae-4364568e1d58",
+    "isbn": "978-1-5013-9049-6",
+    "title": "Beyond peace bed",
+    "autor": "Jessica Morrison",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 360,
+            "user_id": "DBB617E9867C4E35A3DEFAF021",
+            "regresado": true
+        }
+    ]
+}

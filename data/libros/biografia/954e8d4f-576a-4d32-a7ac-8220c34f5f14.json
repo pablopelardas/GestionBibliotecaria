@@ -1,0 +1,16 @@
+{
+    "libro_id": "954e8d4f-576a-4d32-a7ac-8220c34f5f14",
+    "isbn": "978-2-6998-3282-3",
+    "title": "Reach it hope",
+    "autor": "Rachel Oneill",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 461,
+            "user_id": "A9581F4652784925A5EB50FACC",
+            "regresado": true
+        }
+    ]
+}

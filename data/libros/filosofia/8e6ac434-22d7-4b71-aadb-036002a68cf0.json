@@ -1,0 +1,10 @@
+{
+    "libro_id": "8e6ac434-22d7-4b71-aadb-036002a68cf0",
+    "isbn": "978-2-5058-7374-5",
+    "title": "Whose decision",
+    "autor": "Jeffery Knight",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

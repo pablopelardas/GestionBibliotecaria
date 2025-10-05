@@ -1,0 +1,16 @@
+{
+    "libro_id": "f6d57789-aefa-4222-b743-e1570103a3e4",
+    "isbn": "978-8-4733-7737-4",
+    "title": "Bill table believe",
+    "autor": "Colleen Hale",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 144,
+            "user_id": "C9521263DB99407B986774D810",
+            "regresado": true
+        }
+    ]
+}

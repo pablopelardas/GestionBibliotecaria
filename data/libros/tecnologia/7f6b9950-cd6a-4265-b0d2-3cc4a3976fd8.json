@@ -1,0 +1,16 @@
+{
+    "libro_id": "7f6b9950-cd6a-4265-b0d2-3cc4a3976fd8",
+    "isbn": "978-7-2312-1387-4",
+    "title": "End speech",
+    "autor": "Jill King",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "5A6B35B7BE074985BB5ADACFA4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 196,
+            "user_id": "5A6B35B7BE074985BB5ADACFA4",
+            "regresado": false
+        }
+    ]
+}

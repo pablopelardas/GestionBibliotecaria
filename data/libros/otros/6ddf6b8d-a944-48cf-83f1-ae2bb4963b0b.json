@@ -1,0 +1,10 @@
+{
+    "libro_id": "6ddf6b8d-a944-48cf-83f1-ae2bb4963b0b",
+    "isbn": "978-7-6390-4746-1",
+    "title": "Skill low",
+    "autor": "Kyle Rodriguez",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

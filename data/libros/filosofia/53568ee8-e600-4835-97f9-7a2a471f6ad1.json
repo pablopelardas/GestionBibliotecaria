@@ -1,0 +1,10 @@
+{
+    "libro_id": "53568ee8-e600-4835-97f9-7a2a471f6ad1",
+    "isbn": "978-8-6051-7850-3",
+    "title": "Without deal",
+    "autor": "Derek Smith",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

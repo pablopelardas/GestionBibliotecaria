@@ -1,0 +1,16 @@
+{
+    "libro_id": "31656951-880f-4f8b-b51f-dbafa1dbfce2",
+    "isbn": "978-9-6169-1928-7",
+    "title": "Example design where",
+    "autor": "Lisa Bradley",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "448F970474E947E89EED49237A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 11,
+            "user_id": "448F970474E947E89EED49237A",
+            "regresado": false
+        }
+    ]
+}

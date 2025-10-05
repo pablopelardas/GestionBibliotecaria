@@ -1,0 +1,10 @@
+{
+    "libro_id": "61c4b907-e4ca-47c0-aa99-cd3cd11958f0",
+    "isbn": "978-4-9158-2413-7",
+    "title": "Best power",
+    "autor": "Eugene White",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

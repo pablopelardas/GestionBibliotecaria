@@ -1,0 +1,16 @@
+{
+    "libro_id": "57ba18d9-d865-481a-aaeb-70fefdcfad28",
+    "isbn": "978-5-8574-8640-5",
+    "title": "Sea show",
+    "autor": "Kyle Wilson",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "E79100626A224019AA0ADA2ABC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 12,
+            "user_id": "E79100626A224019AA0ADA2ABC",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a1857c67-e802-443c-b9e3-8f2a65be9d3e",
+    "isbn": "978-6-5666-4761-2",
+    "title": "Individual",
+    "autor": "Paul Hill",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "5657F4FB3CD1422C931208E6F0",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 117,
+            "user_id": "5657F4FB3CD1422C931208E6F0",
+            "regresado": false
+        }
+    ]
+}

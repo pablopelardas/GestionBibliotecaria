@@ -1,0 +1,10 @@
+{
+    "libro_id": "843b3fad-e96b-4e5d-a603-637ef64b430d",
+    "isbn": "978-6-5796-9032-9",
+    "title": "Consumer",
+    "autor": "Mark Reyes",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

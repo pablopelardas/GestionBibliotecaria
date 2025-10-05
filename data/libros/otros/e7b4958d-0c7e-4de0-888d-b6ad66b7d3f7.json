@@ -1,0 +1,10 @@
+{
+    "libro_id": "e7b4958d-0c7e-4de0-888d-b6ad66b7d3f7",
+    "isbn": "978-9-5468-1008-4",
+    "title": "Increase next",
+    "autor": "Thomas Stone",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

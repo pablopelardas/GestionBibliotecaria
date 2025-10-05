@@ -1,0 +1,16 @@
+{
+    "libro_id": "1ccd8863-c9db-4686-8b07-b28baf763516",
+    "isbn": "978-5-7634-6842-7",
+    "title": "Wear cause grow scene",
+    "autor": "Rachel Blair",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 233,
+            "user_id": "F506179A11A44A6C9C831E1141",
+            "regresado": true
+        }
+    ]
+}

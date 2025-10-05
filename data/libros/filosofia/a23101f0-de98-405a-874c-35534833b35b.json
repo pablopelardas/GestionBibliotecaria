@@ -1,0 +1,10 @@
+{
+    "libro_id": "a23101f0-de98-405a-874c-35534833b35b",
+    "isbn": "978-4-3048-1912-2",
+    "title": "Guy sport offer third",
+    "autor": "Joshua Young",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

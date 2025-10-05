@@ -1,0 +1,10 @@
+{
+    "libro_id": "5719908a-b5d7-456f-91a8-509c474b3d96",
+    "isbn": "978-3-8389-3757-9",
+    "title": "From across",
+    "autor": "Linda Barnes",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

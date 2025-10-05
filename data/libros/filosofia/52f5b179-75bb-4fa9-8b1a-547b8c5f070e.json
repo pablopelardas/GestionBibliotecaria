@@ -1,0 +1,10 @@
+{
+    "libro_id": "52f5b179-75bb-4fa9-8b1a-547b8c5f070e",
+    "isbn": "978-3-2367-2330-6",
+    "title": "Without could cause",
+    "autor": "Amanda Burke",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

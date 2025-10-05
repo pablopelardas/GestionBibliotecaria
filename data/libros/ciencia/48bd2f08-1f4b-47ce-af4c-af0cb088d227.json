@@ -1,0 +1,10 @@
+{
+    "libro_id": "48bd2f08-1f4b-47ce-af4c-af0cb088d227",
+    "isbn": "978-1-3916-7318-5",
+    "title": "Development professional",
+    "autor": "Kathryn Fisher",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

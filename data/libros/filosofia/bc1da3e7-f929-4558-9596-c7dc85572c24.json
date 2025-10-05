@@ -1,0 +1,10 @@
+{
+    "libro_id": "bc1da3e7-f929-4558-9596-c7dc85572c24",
+    "isbn": "978-7-3030-4887-4",
+    "title": "Forward over",
+    "autor": "Jodi Mitchell",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

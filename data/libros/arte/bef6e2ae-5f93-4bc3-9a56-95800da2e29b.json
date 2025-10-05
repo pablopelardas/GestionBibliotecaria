@@ -1,0 +1,16 @@
+{
+    "libro_id": "bef6e2ae-5f93-4bc3-9a56-95800da2e29b",
+    "isbn": "978-9-6252-6004-8",
+    "title": "Research year",
+    "autor": "Caleb Stuart",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "C3208025555C436F9F89A7BE3D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 310,
+            "user_id": "C3208025555C436F9F89A7BE3D",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a72e4e07-f706-4415-a26f-824d7f4f912d",
+    "isbn": "978-5-5650-2356-8",
+    "title": "Your television",
+    "autor": "Alison Hicks",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "721EA733BCB64A048DF84BDD15",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 279,
+            "user_id": "721EA733BCB64A048DF84BDD15",
+            "regresado": false
+        }
+    ]
+}

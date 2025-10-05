@@ -1,0 +1,10 @@
+{
+    "libro_id": "e880ae73-daed-4df4-b70b-dcd27c6f3df6",
+    "isbn": "978-6-1392-6599-5",
+    "title": "Term bit",
+    "autor": "Albert Moody",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

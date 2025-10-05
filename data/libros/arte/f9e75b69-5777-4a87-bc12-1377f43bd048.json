@@ -1,0 +1,16 @@
+{
+    "libro_id": "f9e75b69-5777-4a87-bc12-1377f43bd048",
+    "isbn": "978-5-7339-5159-5",
+    "title": "Teach",
+    "autor": "Jordan Evans",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "472FEA331750452098B7A3B2E4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 259,
+            "user_id": "472FEA331750452098B7A3B2E4",
+            "regresado": false
+        }
+    ]
+}

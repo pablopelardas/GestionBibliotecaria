@@ -1,0 +1,16 @@
+{
+    "libro_id": "f84bec5e-75e1-469e-9b9b-4ad3178ebf43",
+    "isbn": "978-0-8376-7062-1",
+    "title": "Whatever two so charge",
+    "autor": "Jerry Flores",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "94FD4EFB44F9420D80F452E966",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 380,
+            "user_id": "94FD4EFB44F9420D80F452E966",
+            "regresado": false
+        }
+    ]
+}

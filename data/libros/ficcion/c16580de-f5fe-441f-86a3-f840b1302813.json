@@ -1,0 +1,10 @@
+{
+    "libro_id": "c16580de-f5fe-441f-86a3-f840b1302813",
+    "isbn": "978-2-9997-3371-6",
+    "title": "First mean kitchen",
+    "autor": "Angela Stevenson",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

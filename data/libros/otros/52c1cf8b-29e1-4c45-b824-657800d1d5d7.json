@@ -1,0 +1,16 @@
+{
+    "libro_id": "52c1cf8b-29e1-4c45-b824-657800d1d5d7",
+    "isbn": "978-6-1364-5837-8",
+    "title": "Open along",
+    "autor": "Danielle Vega",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "1D2E2FEF98D643CA8883D47614",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 351,
+            "user_id": "1D2E2FEF98D643CA8883D47614",
+            "regresado": false
+        }
+    ]
+}

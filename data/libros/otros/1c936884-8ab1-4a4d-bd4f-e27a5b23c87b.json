@@ -1,0 +1,16 @@
+{
+    "libro_id": "1c936884-8ab1-4a4d-bd4f-e27a5b23c87b",
+    "isbn": "978-8-3916-3741-6",
+    "title": "Decade could",
+    "autor": "Rebekah Butler",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "649E9CBC00A94467BA4ADE7A19",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 346,
+            "user_id": "649E9CBC00A94467BA4ADE7A19",
+            "regresado": false
+        }
+    ]
+}

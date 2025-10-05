@@ -1,0 +1,16 @@
+{
+    "libro_id": "bf892e87-054d-4ce2-8af7-c0ceba0803b5",
+    "isbn": "978-8-6469-3310-7",
+    "title": "Politics beautiful",
+    "autor": "Shawn Tucker",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "652B7F98066F49FB981395F0DF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 478,
+            "user_id": "652B7F98066F49FB981395F0DF",
+            "regresado": false
+        }
+    ]
+}

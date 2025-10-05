@@ -1,0 +1,16 @@
+{
+    "libro_id": "519dc7c8-691f-4dbc-97f1-06c80894ee1b",
+    "isbn": "978-1-2999-5116-1",
+    "title": "Exactly when",
+    "autor": "Richard Snyder",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "390B6900BE72460187CD16144D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 24,
+            "user_id": "390B6900BE72460187CD16144D",
+            "regresado": false
+        }
+    ]
+}

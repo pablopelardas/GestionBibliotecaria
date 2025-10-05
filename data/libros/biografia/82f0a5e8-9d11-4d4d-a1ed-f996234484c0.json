@@ -1,0 +1,16 @@
+{
+    "libro_id": "82f0a5e8-9d11-4d4d-a1ed-f996234484c0",
+    "isbn": "978-8-9279-4290-2",
+    "title": "Short",
+    "autor": "Tony Barron",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "A2278B11DADA40BE836EFE5FD0",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 371,
+            "user_id": "A2278B11DADA40BE836EFE5FD0",
+            "regresado": false
+        }
+    ]
+}

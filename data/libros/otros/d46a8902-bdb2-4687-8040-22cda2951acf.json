@@ -1,0 +1,10 @@
+{
+    "libro_id": "d46a8902-bdb2-4687-8040-22cda2951acf",
+    "isbn": "978-0-4191-8341-9",
+    "title": "Meeting three",
+    "autor": "Kelly Porter",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

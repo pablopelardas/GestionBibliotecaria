@@ -1,0 +1,16 @@
+{
+    "libro_id": "a08cda62-5549-407d-b084-85810e40c4d2",
+    "isbn": "978-9-7543-1683-9",
+    "title": "Technology billion",
+    "autor": "Shawn Freeman",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "B1221B37D4914A6C908A668B14",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 227,
+            "user_id": "B1221B37D4914A6C908A668B14",
+            "regresado": false
+        }
+    ]
+}

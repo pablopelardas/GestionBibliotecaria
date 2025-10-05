@@ -1,0 +1,10 @@
+{
+    "libro_id": "9dc6462b-40aa-47d1-ae06-2338b0ca7564",
+    "isbn": "978-2-8999-2352-6",
+    "title": "Marriage than",
+    "autor": "Dr. Angela Brown PhD",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

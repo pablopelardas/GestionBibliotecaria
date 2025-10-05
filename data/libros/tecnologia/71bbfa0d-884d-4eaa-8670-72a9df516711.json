@@ -1,0 +1,10 @@
+{
+    "libro_id": "71bbfa0d-884d-4eaa-8670-72a9df516711",
+    "isbn": "978-2-6638-1357-6",
+    "title": "Despite call paper",
+    "autor": "Jerry Braun",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

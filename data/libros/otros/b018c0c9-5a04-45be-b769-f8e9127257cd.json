@@ -1,0 +1,16 @@
+{
+    "libro_id": "b018c0c9-5a04-45be-b769-f8e9127257cd",
+    "isbn": "978-3-2008-5365-4",
+    "title": "Suddenly simply lead",
+    "autor": "Debra Carpenter",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "5960CD4DE33F45F6B182E12A84",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 127,
+            "user_id": "5960CD4DE33F45F6B182E12A84",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "90c2b545-1d93-413a-aef8-c6bb6b475d98",
+    "isbn": "978-4-8341-8929-8",
+    "title": "Buy",
+    "autor": "Mrs. Angela Thompson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

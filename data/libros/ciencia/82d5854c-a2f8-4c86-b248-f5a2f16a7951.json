@@ -1,0 +1,16 @@
+{
+    "libro_id": "82d5854c-a2f8-4c86-b248-f5a2f16a7951",
+    "isbn": "978-0-3885-8308-5",
+    "title": "Suffer water moment",
+    "autor": "Anita Silva",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "1FAF2E9586EE4823BD2A2F5B0D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 177,
+            "user_id": "1FAF2E9586EE4823BD2A2F5B0D",
+            "regresado": false
+        }
+    ]
+}

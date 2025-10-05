@@ -1,0 +1,16 @@
+{
+    "libro_id": "a4c420f9-b642-44fc-87bc-775ff07b9e27",
+    "isbn": "978-2-1037-6502-9",
+    "title": "Whatever avoid",
+    "autor": "Christina Ramirez",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 457,
+            "user_id": "BF481F33188442F59129403E4F",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "4d12fa4b-cc4b-4c13-97ae-6c8e55673c1e",
+    "isbn": "978-8-1943-8994-2",
+    "title": "White event",
+    "autor": "Melinda Johnson",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e3630b66-a641-480a-a8e1-996653e02b4d",
+    "isbn": "978-0-7757-9975-2",
+    "title": "Teacher parent garden movie",
+    "autor": "Ryan Walker",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "AAE4FA6B95C345908311872923",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 235,
+            "user_id": "AAE4FA6B95C345908311872923",
+            "regresado": false
+        }
+    ]
+}

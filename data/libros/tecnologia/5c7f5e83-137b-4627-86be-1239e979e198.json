@@ -1,0 +1,10 @@
+{
+    "libro_id": "5c7f5e83-137b-4627-86be-1239e979e198",
+    "isbn": "978-2-5889-5781-9",
+    "title": "Change",
+    "autor": "James Stevens",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

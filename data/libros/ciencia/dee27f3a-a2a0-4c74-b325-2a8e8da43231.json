@@ -1,0 +1,10 @@
+{
+    "libro_id": "dee27f3a-a2a0-4c74-b325-2a8e8da43231",
+    "isbn": "978-5-2890-8789-1",
+    "title": "Put down",
+    "autor": "Alex Wilson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

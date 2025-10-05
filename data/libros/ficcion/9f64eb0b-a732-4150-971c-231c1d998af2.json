@@ -1,0 +1,10 @@
+{
+    "libro_id": "9f64eb0b-a732-4150-971c-231c1d998af2",
+    "isbn": "978-9-7841-7998-1",
+    "title": "Reach drop rock",
+    "autor": "Margaret Soto",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

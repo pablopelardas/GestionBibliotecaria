@@ -1,0 +1,16 @@
+{
+    "libro_id": "3b756e77-36f5-4e50-8c3b-0d2e2a446c29",
+    "isbn": "978-7-4948-9626-6",
+    "title": "Individual all",
+    "autor": "Richard Rodriguez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "F5C39CA0382944F0B40D3C964B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 14,
+            "user_id": "F5C39CA0382944F0B40D3C964B",
+            "regresado": false
+        }
+    ]
+}

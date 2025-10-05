@@ -1,0 +1,16 @@
+{
+    "libro_id": "5b600ee6-536e-49fe-a0fc-8e301e5ecb80",
+    "isbn": "978-2-4412-5223-9",
+    "title": "Involve over",
+    "autor": "Andrew Hatfield",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "9ED825853FCA4B338AF4290918",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 143,
+            "user_id": "9ED825853FCA4B338AF4290918",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "4bc66ab8-80b8-4104-bbc0-c457489c07a7",
+    "isbn": "978-2-5210-9765-1",
+    "title": "Activity later fear",
+    "autor": "Jeffrey Guerra",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

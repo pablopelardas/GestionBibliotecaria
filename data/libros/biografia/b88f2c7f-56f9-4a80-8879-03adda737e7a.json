@@ -1,0 +1,16 @@
+{
+    "libro_id": "b88f2c7f-56f9-4a80-8879-03adda737e7a",
+    "isbn": "978-2-6660-2682-2",
+    "title": "Appear professional",
+    "autor": "Cynthia Cruz",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "D5B255220301482590255838F8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 513,
+            "user_id": "D5B255220301482590255838F8",
+            "regresado": false
+        }
+    ]
+}

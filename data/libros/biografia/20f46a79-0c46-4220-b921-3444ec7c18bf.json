@@ -1,0 +1,16 @@
+{
+    "libro_id": "20f46a79-0c46-4220-b921-3444ec7c18bf",
+    "isbn": "978-8-4528-5958-5",
+    "title": "Far happy by",
+    "autor": "Jake Lowe",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 291,
+            "user_id": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+            "regresado": false
+        }
+    ]
+}

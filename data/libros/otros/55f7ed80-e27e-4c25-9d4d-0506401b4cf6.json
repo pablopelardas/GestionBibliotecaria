@@ -1,0 +1,10 @@
+{
+    "libro_id": "55f7ed80-e27e-4c25-9d4d-0506401b4cf6",
+    "isbn": "978-2-5913-2235-1",
+    "title": "All establish member",
+    "autor": "Lisa Williams",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

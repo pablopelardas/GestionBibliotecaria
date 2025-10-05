@@ -1,0 +1,16 @@
+{
+    "libro_id": "ab6b0d41-cc83-459e-909b-859311c87979",
+    "isbn": "978-5-2558-9941-8",
+    "title": "Couple your",
+    "autor": "Alexandra Long",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 156,
+            "user_id": "E205A067E5C94BE9B4F390F4AB",
+            "regresado": true
+        }
+    ]
+}

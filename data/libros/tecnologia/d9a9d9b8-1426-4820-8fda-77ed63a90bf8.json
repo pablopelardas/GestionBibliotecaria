@@ -1,0 +1,16 @@
+{
+    "libro_id": "d9a9d9b8-1426-4820-8fda-77ed63a90bf8",
+    "isbn": "978-5-4356-2983-5",
+    "title": "Light machine move",
+    "autor": "Roger Bullock",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "D78F91731FB34B9FB6F69C29FB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 329,
+            "user_id": "D78F91731FB34B9FB6F69C29FB",
+            "regresado": false
+        }
+    ]
+}

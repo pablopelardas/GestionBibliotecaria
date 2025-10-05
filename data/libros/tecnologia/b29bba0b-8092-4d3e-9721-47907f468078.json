@@ -1,0 +1,10 @@
+{
+    "libro_id": "b29bba0b-8092-4d3e-9721-47907f468078",
+    "isbn": "978-1-9912-6991-3",
+    "title": "Financial blue interest",
+    "autor": "Heather Smith",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "2c31274f-e5b9-4bbc-8c77-20022d83b9b9",
+    "isbn": "978-6-6629-7558-7",
+    "title": "American performance hair",
+    "autor": "Luis May",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 361,
+            "user_id": "7B8D0DFB452C494F967F7D0DC9",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "5d7e7e32-a9ce-42d6-ae4c-28a28b144690",
+    "isbn": "978-1-4434-4571-8",
+    "title": "Hot surface man",
+    "autor": "Kelly Dudley",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "99A8EE7ABC4C46C0826AEF5B4E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 339,
+            "user_id": "99A8EE7ABC4C46C0826AEF5B4E",
+            "regresado": false
+        }
+    ]
+}

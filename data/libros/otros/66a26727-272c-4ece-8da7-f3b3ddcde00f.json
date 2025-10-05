@@ -1,0 +1,16 @@
+{
+    "libro_id": "66a26727-272c-4ece-8da7-f3b3ddcde00f",
+    "isbn": "978-6-9913-4793-2",
+    "title": "Year notice image ball",
+    "autor": "Steven Robbins",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "FB534B1B45B04423AE81B81E20",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 2,
+            "user_id": "FB534B1B45B04423AE81B81E20",
+            "regresado": false
+        }
+    ]
+}

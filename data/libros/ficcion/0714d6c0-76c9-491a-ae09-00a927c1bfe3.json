@@ -1,0 +1,16 @@
+{
+    "libro_id": "0714d6c0-76c9-491a-ae09-00a927c1bfe3",
+    "isbn": "978-2-4892-5885-0",
+    "title": "Adult agree",
+    "autor": "Matthew Miller",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "2AE0B28648194D61B4E88FB29D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 193,
+            "user_id": "2AE0B28648194D61B4E88FB29D",
+            "regresado": false
+        }
+    ]
+}

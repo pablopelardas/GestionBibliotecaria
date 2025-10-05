@@ -1,0 +1,16 @@
+{
+    "libro_id": "4dd5ee65-e25d-411e-be3f-3a4c17e49fb0",
+    "isbn": "978-4-7679-3582-9",
+    "title": "Purpose process must no",
+    "autor": "Christopher Wade",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "449E0D11CCE049F5B0724CC04E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 463,
+            "user_id": "449E0D11CCE049F5B0724CC04E",
+            "regresado": false
+        }
+    ]
+}

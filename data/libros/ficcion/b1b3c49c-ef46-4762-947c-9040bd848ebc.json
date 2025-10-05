@@ -1,0 +1,10 @@
+{
+    "libro_id": "b1b3c49c-ef46-4762-947c-9040bd848ebc",
+    "isbn": "978-0-3558-4189-6",
+    "title": "Surface music",
+    "autor": "Jeremy Bell MD",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

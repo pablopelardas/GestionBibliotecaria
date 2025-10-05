@@ -1,0 +1,10 @@
+{
+    "libro_id": "e794e59d-7fd0-407e-8488-14ae12d729e3",
+    "isbn": "978-7-2740-2007-4",
+    "title": "Impact toward",
+    "autor": "Sydney Marquez",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

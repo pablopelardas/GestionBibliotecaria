@@ -1,0 +1,10 @@
+{
+    "libro_id": "d7385a2a-2698-4a85-a5d3-2f937f9816e2",
+    "isbn": "978-1-5978-1903-3",
+    "title": "Although seem wish",
+    "autor": "Sarah Baker",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

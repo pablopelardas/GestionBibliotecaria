@@ -1,0 +1,10 @@
+{
+    "libro_id": "233bfbf2-ba66-4ff3-9018-f8f2bf2572a1",
+    "isbn": "978-1-8005-8863-3",
+    "title": "Fall follow discuss",
+    "autor": "Craig Pruitt",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

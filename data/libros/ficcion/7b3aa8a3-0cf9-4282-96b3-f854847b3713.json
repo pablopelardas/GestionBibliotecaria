@@ -1,0 +1,16 @@
+{
+    "libro_id": "7b3aa8a3-0cf9-4282-96b3-f854847b3713",
+    "isbn": "978-4-6594-3957-3",
+    "title": "Goal season",
+    "autor": "Robert Hickman",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 445,
+            "user_id": "15AEBB8EB99644E39C2E937C0F",
+            "regresado": true
+        }
+    ]
+}

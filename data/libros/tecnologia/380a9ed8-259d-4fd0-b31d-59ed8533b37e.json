@@ -1,0 +1,16 @@
+{
+    "libro_id": "380a9ed8-259d-4fd0-b31d-59ed8533b37e",
+    "isbn": "978-9-9647-7798-6",
+    "title": "Drug",
+    "autor": "Leon Hall",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "F8E6F6FAAF4C4FEAB8D37C02DD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 108,
+            "user_id": "F8E6F6FAAF4C4FEAB8D37C02DD",
+            "regresado": false
+        }
+    ]
+}

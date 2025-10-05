@@ -1,0 +1,16 @@
+{
+    "libro_id": "46beaecb-9d15-482b-8271-95dde0d6e3a1",
+    "isbn": "978-2-8624-2277-4",
+    "title": "Subject",
+    "autor": "Jason Cruz",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 16,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

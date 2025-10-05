@@ -1,0 +1,16 @@
+{
+    "libro_id": "410e5ff6-5717-4843-8660-09d93c481592",
+    "isbn": "978-2-9137-7935-9",
+    "title": "Performance although",
+    "autor": "Noah Baldwin",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "BF481F33188442F59129403E4F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 194,
+            "user_id": "BF481F33188442F59129403E4F",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b3145539-97aa-424e-97e5-79adfc2c0e81",
+    "isbn": "978-4-9367-1991-5",
+    "title": "Service example",
+    "autor": "Christina Bond",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "787EC5A6F4254EA28FBBCA37E9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 21,
+            "user_id": "787EC5A6F4254EA28FBBCA37E9",
+            "regresado": false
+        }
+    ]
+}

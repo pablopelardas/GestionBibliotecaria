@@ -1,0 +1,16 @@
+{
+    "libro_id": "5524e4c2-4d5d-4756-9478-7801a6ce91c6",
+    "isbn": "978-1-1349-9622-9",
+    "title": "Scientist seem",
+    "autor": "Karen Morris",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 433,
+            "user_id": "53EC8831D46D4634A12C57526E",
+            "regresado": true
+        }
+    ]
+}

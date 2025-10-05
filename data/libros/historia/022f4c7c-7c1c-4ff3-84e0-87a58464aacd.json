@@ -1,0 +1,10 @@
+{
+    "libro_id": "022f4c7c-7c1c-4ff3-84e0-87a58464aacd",
+    "isbn": "978-4-9567-4950-9",
+    "title": "State either",
+    "autor": "Manuel Parker",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

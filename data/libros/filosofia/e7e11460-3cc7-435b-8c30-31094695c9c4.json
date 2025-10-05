@@ -1,0 +1,16 @@
+{
+    "libro_id": "e7e11460-3cc7-435b-8c30-31094695c9c4",
+    "isbn": "978-7-9415-6491-2",
+    "title": "Determine manage cultural",
+    "autor": "Anne Burns",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 53,
+            "user_id": "E579286C01584AF99259994131",
+            "regresado": true
+        }
+    ]
+}

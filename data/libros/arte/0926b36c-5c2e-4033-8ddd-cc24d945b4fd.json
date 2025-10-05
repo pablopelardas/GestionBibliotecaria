@@ -1,0 +1,10 @@
+{
+    "libro_id": "0926b36c-5c2e-4033-8ddd-cc24d945b4fd",
+    "isbn": "978-1-4741-2825-4",
+    "title": "Role some same",
+    "autor": "Calvin Luna",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

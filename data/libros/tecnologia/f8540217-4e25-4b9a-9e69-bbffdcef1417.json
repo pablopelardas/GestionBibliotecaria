@@ -1,0 +1,16 @@
+{
+    "libro_id": "f8540217-4e25-4b9a-9e69-bbffdcef1417",
+    "isbn": "978-9-1348-2027-4",
+    "title": "Scientist around",
+    "autor": "Rachel Davis",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "C0B4545102E34317B26F8915A1",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 202,
+            "user_id": "C0B4545102E34317B26F8915A1",
+            "regresado": false
+        }
+    ]
+}

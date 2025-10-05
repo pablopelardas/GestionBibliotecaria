@@ -1,0 +1,10 @@
+{
+    "libro_id": "c88fe325-7bc0-454f-91ea-2b4a555c0f1a",
+    "isbn": "978-1-2631-7684-6",
+    "title": "Course stay seek",
+    "autor": "Bailey Wolfe",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

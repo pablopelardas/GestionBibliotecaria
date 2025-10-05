@@ -1,0 +1,10 @@
+{
+    "libro_id": "7f4d245e-9307-4879-ba36-0dc1639ee8e4",
+    "isbn": "978-1-9101-4644-8",
+    "title": "Act",
+    "autor": "Dakota Taylor",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

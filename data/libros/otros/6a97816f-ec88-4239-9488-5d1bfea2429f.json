@@ -1,0 +1,10 @@
+{
+    "libro_id": "6a97816f-ec88-4239-9488-5d1bfea2429f",
+    "isbn": "978-2-6216-2694-0",
+    "title": "Sense positive",
+    "autor": "Ethan Alexander",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

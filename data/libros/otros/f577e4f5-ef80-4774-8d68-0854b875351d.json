@@ -1,0 +1,16 @@
+{
+    "libro_id": "f577e4f5-ef80-4774-8d68-0854b875351d",
+    "isbn": "978-9-6254-4471-4",
+    "title": "Great modern away",
+    "autor": "Dean Coleman MD",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "82137750501443689CC522C719",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 99,
+            "user_id": "82137750501443689CC522C719",
+            "regresado": false
+        }
+    ]
+}

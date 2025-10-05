@@ -1,0 +1,16 @@
+{
+    "libro_id": "caee54b9-652b-44e7-836b-15045c0cf0af",
+    "isbn": "978-8-4875-7983-3",
+    "title": "Action collection",
+    "autor": "Joseph Contreras",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 547,
+            "user_id": "21659203493C49138012647169",
+            "regresado": true
+        }
+    ]
+}

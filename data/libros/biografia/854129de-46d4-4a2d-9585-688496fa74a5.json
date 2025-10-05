@@ -1,0 +1,16 @@
+{
+    "libro_id": "854129de-46d4-4a2d-9585-688496fa74a5",
+    "isbn": "978-4-4685-2264-9",
+    "title": "Draw push make",
+    "autor": "Justin Gibson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "856AD33B4B774F8C8928267A23",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 366,
+            "user_id": "856AD33B4B774F8C8928267A23",
+            "regresado": false
+        }
+    ]
+}

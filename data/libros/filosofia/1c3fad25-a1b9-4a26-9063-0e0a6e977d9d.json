@@ -1,0 +1,16 @@
+{
+    "libro_id": "1c3fad25-a1b9-4a26-9063-0e0a6e977d9d",
+    "isbn": "978-4-9323-8895-7",
+    "title": "Friend million",
+    "autor": "David Lowery",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 13,
+            "user_id": "2523DF00273046E98E6853981F",
+            "regresado": true
+        }
+    ]
+}

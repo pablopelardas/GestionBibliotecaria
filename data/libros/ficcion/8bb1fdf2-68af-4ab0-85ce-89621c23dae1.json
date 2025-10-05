@@ -1,0 +1,10 @@
+{
+    "libro_id": "8bb1fdf2-68af-4ab0-85ce-89621c23dae1",
+    "isbn": "978-9-4984-3021-8",
+    "title": "You above trouble",
+    "autor": "Debra Gutierrez",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

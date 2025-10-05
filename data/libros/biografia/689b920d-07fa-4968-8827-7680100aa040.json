@@ -1,0 +1,16 @@
+{
+    "libro_id": "689b920d-07fa-4968-8827-7680100aa040",
+    "isbn": "978-9-8936-4331-7",
+    "title": "White low task",
+    "autor": "Jeremiah Murphy",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 399,
+            "user_id": "5A2BD5D9965C43939FA823946F",
+            "regresado": true
+        }
+    ]
+}

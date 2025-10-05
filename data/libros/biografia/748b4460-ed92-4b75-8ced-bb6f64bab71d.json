@@ -1,0 +1,16 @@
+{
+    "libro_id": "748b4460-ed92-4b75-8ced-bb6f64bab71d",
+    "isbn": "978-6-1470-3523-3",
+    "title": "Main",
+    "autor": "Christopher Johnson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 222,
+            "user_id": "A0B6BFBA155643468D79C4AE59",
+            "regresado": true
+        }
+    ]
+}

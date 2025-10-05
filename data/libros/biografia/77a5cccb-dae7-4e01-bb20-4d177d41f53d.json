@@ -1,0 +1,16 @@
+{
+    "libro_id": "77a5cccb-dae7-4e01-bb20-4d177d41f53d",
+    "isbn": "978-4-1854-1923-5",
+    "title": "Scene responsibility reveal",
+    "autor": "Melissa Villarreal",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 130,
+            "user_id": "67527C3EE19B4E039649C02750",
+            "regresado": true
+        }
+    ]
+}

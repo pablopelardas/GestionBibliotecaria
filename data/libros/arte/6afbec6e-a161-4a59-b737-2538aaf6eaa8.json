@@ -1,0 +1,10 @@
+{
+    "libro_id": "6afbec6e-a161-4a59-b737-2538aaf6eaa8",
+    "isbn": "978-1-1467-6397-3",
+    "title": "Usually occur hear",
+    "autor": "Brian Ortiz",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

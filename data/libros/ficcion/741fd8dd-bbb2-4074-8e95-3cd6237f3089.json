@@ -1,0 +1,16 @@
+{
+    "libro_id": "741fd8dd-bbb2-4074-8e95-3cd6237f3089",
+    "isbn": "978-9-4933-2834-4",
+    "title": "Subject similar",
+    "autor": "Christina Rodriguez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "183EC31683D144D6B57423CFF6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 286,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": false
+        }
+    ]
+}

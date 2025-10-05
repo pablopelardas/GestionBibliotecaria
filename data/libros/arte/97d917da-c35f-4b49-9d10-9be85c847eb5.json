@@ -1,0 +1,16 @@
+{
+    "libro_id": "97d917da-c35f-4b49-9d10-9be85c847eb5",
+    "isbn": "978-6-8342-3072-3",
+    "title": "Fire listen score",
+    "autor": "Miss Alexis Griffin",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "FB7EDE545E7E47FFB57765ED90",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 421,
+            "user_id": "FB7EDE545E7E47FFB57765ED90",
+            "regresado": false
+        }
+    ]
+}

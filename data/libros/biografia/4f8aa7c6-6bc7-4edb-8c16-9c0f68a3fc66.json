@@ -1,0 +1,10 @@
+{
+    "libro_id": "4f8aa7c6-6bc7-4edb-8c16-9c0f68a3fc66",
+    "isbn": "978-0-7348-6390-2",
+    "title": "Analysis reveal",
+    "autor": "Elaine Harris",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

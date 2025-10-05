@@ -1,0 +1,10 @@
+{
+    "libro_id": "db46bbc7-d925-41cc-9406-d36acc0655a2",
+    "isbn": "978-9-1229-5655-4",
+    "title": "Enter visit",
+    "autor": "Robert Martinez",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

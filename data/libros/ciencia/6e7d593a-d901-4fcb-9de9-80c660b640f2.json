@@ -1,0 +1,10 @@
+{
+    "libro_id": "6e7d593a-d901-4fcb-9de9-80c660b640f2",
+    "isbn": "978-2-1345-1042-3",
+    "title": "Shake myself from relationship",
+    "autor": "Elizabeth Adams",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "191cdc51-e444-4586-a781-62aebbf356c4",
+    "isbn": "978-1-9604-5723-2",
+    "title": "Yard address small",
+    "autor": "Alicia Levy",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

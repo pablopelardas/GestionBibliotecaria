@@ -1,0 +1,16 @@
+{
+    "libro_id": "c071afd0-e396-4ca4-981b-b712d4e9e52f",
+    "isbn": "978-1-8870-5170-3",
+    "title": "Security several help",
+    "autor": "Rita Martinez",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "72D796946F1E480E819BC86267",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 337,
+            "user_id": "72D796946F1E480E819BC86267",
+            "regresado": false
+        }
+    ]
+}

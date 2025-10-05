@@ -1,0 +1,10 @@
+{
+    "libro_id": "b80ba4da-df70-41e0-89de-505216e6064b",
+    "isbn": "978-7-7972-9047-2",
+    "title": "Ago attack",
+    "autor": "Brian Martinez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

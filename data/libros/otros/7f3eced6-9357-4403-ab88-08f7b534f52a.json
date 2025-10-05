@@ -1,0 +1,16 @@
+{
+    "libro_id": "7f3eced6-9357-4403-ab88-08f7b534f52a",
+    "isbn": "978-3-4119-1107-4",
+    "title": "Society sea allow",
+    "autor": "Samantha Kerr",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 252,
+            "user_id": "E1EFA306232D41BD98827B22B3",
+            "regresado": true
+        }
+    ]
+}

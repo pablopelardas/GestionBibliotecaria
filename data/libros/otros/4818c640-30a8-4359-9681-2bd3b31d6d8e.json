@@ -1,0 +1,10 @@
+{
+    "libro_id": "4818c640-30a8-4359-9681-2bd3b31d6d8e",
+    "isbn": "978-3-1138-3121-0",
+    "title": "Single child finally",
+    "autor": "Megan Johnson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a4061a3a-362b-4933-b399-d8d2f52ce4a3",
+    "isbn": "978-5-5887-8666-9",
+    "title": "Trial international",
+    "autor": "Julie Thompson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "F506179A11A44A6C9C831E1141",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 165,
+            "user_id": "F506179A11A44A6C9C831E1141",
+            "regresado": false
+        }
+    ]
+}

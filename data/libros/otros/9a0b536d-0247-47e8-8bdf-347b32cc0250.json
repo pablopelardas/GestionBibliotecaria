@@ -1,0 +1,16 @@
+{
+    "libro_id": "9a0b536d-0247-47e8-8bdf-347b32cc0250",
+    "isbn": "978-3-2555-6049-7",
+    "title": "Son employee",
+    "autor": "Blake Gutierrez",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 216,
+            "user_id": "321D92B53BD0403EA4DDF3975C",
+            "regresado": true
+        }
+    ]
+}

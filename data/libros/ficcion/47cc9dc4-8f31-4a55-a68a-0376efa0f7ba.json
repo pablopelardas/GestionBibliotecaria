@@ -1,0 +1,16 @@
+{
+    "libro_id": "47cc9dc4-8f31-4a55-a68a-0376efa0f7ba",
+    "isbn": "978-0-9937-4603-8",
+    "title": "Religious develop final",
+    "autor": "Jane Raymond",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "0242BCA1DB194B0E851B0DAC5F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 411,
+            "user_id": "0242BCA1DB194B0E851B0DAC5F",
+            "regresado": false
+        }
+    ]
+}

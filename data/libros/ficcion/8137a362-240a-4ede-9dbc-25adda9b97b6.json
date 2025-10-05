@@ -1,0 +1,10 @@
+{
+    "libro_id": "8137a362-240a-4ede-9dbc-25adda9b97b6",
+    "isbn": "978-3-5451-2861-3",
+    "title": "After lawyer",
+    "autor": "Michael Daniels",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

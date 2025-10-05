@@ -1,0 +1,16 @@
+{
+    "libro_id": "83ee00e5-5c71-447d-a530-8630479ce5fb",
+    "isbn": "978-2-6825-7651-5",
+    "title": "Industry",
+    "autor": "Tracey Vaughn",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 249,
+            "user_id": "DADEE714DC00465B883C963B49",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "bdc01dfe-d0d4-4712-a53b-bc7e1e533549",
+    "isbn": "978-1-4913-5361-1",
+    "title": "Collection",
+    "autor": "Kayla Sanders",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

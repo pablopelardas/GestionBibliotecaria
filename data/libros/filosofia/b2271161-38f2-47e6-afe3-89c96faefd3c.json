@@ -1,0 +1,10 @@
+{
+    "libro_id": "b2271161-38f2-47e6-afe3-89c96faefd3c",
+    "isbn": "978-2-8297-9920-4",
+    "title": "List value foreign",
+    "autor": "James Carter",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

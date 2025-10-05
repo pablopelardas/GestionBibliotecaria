@@ -1,0 +1,16 @@
+{
+    "libro_id": "00907924-efa7-44d4-98a6-30aeb09b881b",
+    "isbn": "978-3-7595-9037-5",
+    "title": "Perhaps manager",
+    "autor": "John Howard",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "5657F4FB3CD1422C931208E6F0",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 454,
+            "user_id": "5657F4FB3CD1422C931208E6F0",
+            "regresado": false
+        }
+    ]
+}

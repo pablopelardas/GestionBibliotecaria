@@ -1,0 +1,10 @@
+{
+    "libro_id": "5398d6e9-ce87-4316-9516-79a05c1e5e6e",
+    "isbn": "978-5-9912-8550-8",
+    "title": "Us whole fund",
+    "autor": "Matthew Cross DDS",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

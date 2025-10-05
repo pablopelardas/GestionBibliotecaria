@@ -1,0 +1,10 @@
+{
+    "libro_id": "fbce262e-1756-47d4-b667-b56a77e0931c",
+    "isbn": "978-1-1470-7867-3",
+    "title": "Month light chance",
+    "autor": "Kaitlin Arnold",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

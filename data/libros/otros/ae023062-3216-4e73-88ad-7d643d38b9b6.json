@@ -1,0 +1,10 @@
+{
+    "libro_id": "ae023062-3216-4e73-88ad-7d643d38b9b6",
+    "isbn": "978-8-7371-5092-7",
+    "title": "Apply candidate night",
+    "autor": "Juan Flores",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

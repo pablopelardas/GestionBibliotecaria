@@ -1,0 +1,10 @@
+{
+    "libro_id": "5a85cf5b-b75b-433b-b12b-d0bf58465604",
+    "isbn": "978-5-1666-2918-8",
+    "title": "Quality heart",
+    "autor": "Emma Montoya",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

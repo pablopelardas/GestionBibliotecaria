@@ -1,0 +1,10 @@
+{
+    "libro_id": "50449132-cd16-4251-85e0-324d0f1f663b",
+    "isbn": "978-6-7880-2371-9",
+    "title": "Week later",
+    "autor": "Timothy Cruz",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

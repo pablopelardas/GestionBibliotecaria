@@ -1,0 +1,10 @@
+{
+    "libro_id": "5097c5b1-5eee-4bd5-a858-1fc73da595d5",
+    "isbn": "978-5-9979-3080-2",
+    "title": "Reality result",
+    "autor": "Barbara Freeman",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "b98fd28a-b157-41a9-9a9f-760f991d9b21",
+    "isbn": "978-9-1932-7375-3",
+    "title": "Know sign",
+    "autor": "Dawn Brooks",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

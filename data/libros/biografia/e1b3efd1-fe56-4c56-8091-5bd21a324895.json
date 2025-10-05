@@ -1,0 +1,16 @@
+{
+    "libro_id": "e1b3efd1-fe56-4c56-8091-5bd21a324895",
+    "isbn": "978-9-4411-8026-0",
+    "title": "Successful wear soon",
+    "autor": "Katherine Lewis",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "E4E5EA31047D4FC58507E26AF9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 324,
+            "user_id": "E4E5EA31047D4FC58507E26AF9",
+            "regresado": false
+        }
+    ]
+}

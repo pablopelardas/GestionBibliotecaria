@@ -1,0 +1,16 @@
+{
+    "libro_id": "eef6ce25-c5d0-4638-8255-856531c80b3a",
+    "isbn": "978-7-3892-9715-6",
+    "title": "Technology always",
+    "autor": "Tammie Henry",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "28CAEBF9A8FD4D039DF20A7F1B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 394,
+            "user_id": "28CAEBF9A8FD4D039DF20A7F1B",
+            "regresado": false
+        }
+    ]
+}

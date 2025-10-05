@@ -1,0 +1,16 @@
+{
+    "libro_id": "75f59a0a-d5b4-406f-9359-00936a913a0b",
+    "isbn": "978-6-5468-7704-9",
+    "title": "Structure remember professional",
+    "autor": "Raymond Navarro",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 240,
+            "user_id": "0E4C28915C794F79BD73853369",
+            "regresado": true
+        }
+    ]
+}

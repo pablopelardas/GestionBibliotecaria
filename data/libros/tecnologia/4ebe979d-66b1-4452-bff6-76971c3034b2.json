@@ -1,0 +1,16 @@
+{
+    "libro_id": "4ebe979d-66b1-4452-bff6-76971c3034b2",
+    "isbn": "978-3-6297-4933-7",
+    "title": "Health experience woman",
+    "autor": "John Brown",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 6,
+            "user_id": "054404D47EEF42F1B644E973CC",
+            "regresado": true
+        }
+    ]
+}

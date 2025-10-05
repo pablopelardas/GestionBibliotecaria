@@ -1,0 +1,16 @@
+{
+    "libro_id": "fecfe30f-ee34-4a03-a9b9-0d35e7910926",
+    "isbn": "978-6-5817-9511-4",
+    "title": "Source office",
+    "autor": "Rebecca Stewart",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 523,
+            "user_id": "5E9CA1C5DB224140BA9D2B428A",
+            "regresado": true
+        }
+    ]
+}

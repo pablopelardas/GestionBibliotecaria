@@ -1,0 +1,10 @@
+{
+    "libro_id": "c30dc35b-c890-440f-a82b-a459836893ba",
+    "isbn": "978-3-2186-3724-6",
+    "title": "Civil per",
+    "autor": "Jaclyn Medina",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

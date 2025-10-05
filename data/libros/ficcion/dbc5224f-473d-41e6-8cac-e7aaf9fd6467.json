@@ -1,0 +1,10 @@
+{
+    "libro_id": "dbc5224f-473d-41e6-8cac-e7aaf9fd6467",
+    "isbn": "978-7-3374-3142-5",
+    "title": "Road attention recently",
+    "autor": "Jonathan Carter",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

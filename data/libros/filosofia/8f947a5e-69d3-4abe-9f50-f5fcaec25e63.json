@@ -1,0 +1,10 @@
+{
+    "libro_id": "8f947a5e-69d3-4abe-9f50-f5fcaec25e63",
+    "isbn": "978-7-2541-9820-5",
+    "title": "Far many",
+    "autor": "Scott Williams",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

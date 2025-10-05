@@ -1,0 +1,16 @@
+{
+    "libro_id": "b6ccf8f9-ea69-4747-9cb2-84382498600e",
+    "isbn": "978-7-8154-2344-5",
+    "title": "Develop join",
+    "autor": "Zachary Graham",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "94FD4EFB44F9420D80F452E966",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 63,
+            "user_id": "94FD4EFB44F9420D80F452E966",
+            "regresado": false
+        }
+    ]
+}

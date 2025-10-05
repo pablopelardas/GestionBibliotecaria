@@ -1,0 +1,16 @@
+{
+    "libro_id": "cd34a95b-fd48-4129-b6db-6ce7d8fb80dd",
+    "isbn": "978-6-8494-7561-2",
+    "title": "Year prepare region",
+    "autor": "Scott Kelly",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "2AE0B28648194D61B4E88FB29D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 397,
+            "user_id": "2AE0B28648194D61B4E88FB29D",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "80a32441-c74b-4de2-9d7f-df451e95f4ce",
+    "isbn": "978-0-5461-5015-8",
+    "title": "Later above",
+    "autor": "Carlos Gonzalez",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

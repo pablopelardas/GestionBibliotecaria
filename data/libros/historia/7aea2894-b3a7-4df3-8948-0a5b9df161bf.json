@@ -1,0 +1,10 @@
+{
+    "libro_id": "7aea2894-b3a7-4df3-8948-0a5b9df161bf",
+    "isbn": "978-8-7403-3205-8",
+    "title": "During line",
+    "autor": "James Henson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

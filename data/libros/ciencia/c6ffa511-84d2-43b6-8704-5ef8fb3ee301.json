@@ -1,0 +1,16 @@
+{
+    "libro_id": "c6ffa511-84d2-43b6-8704-5ef8fb3ee301",
+    "isbn": "978-4-5811-1769-3",
+    "title": "Although cut subject",
+    "autor": "Erik Garcia",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "FB534B1B45B04423AE81B81E20",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 357,
+            "user_id": "FB534B1B45B04423AE81B81E20",
+            "regresado": false
+        }
+    ]
+}

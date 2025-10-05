@@ -1,0 +1,10 @@
+{
+    "libro_id": "810e118c-b2f6-44e2-9d17-6d47827b849d",
+    "isbn": "978-3-4509-3732-8",
+    "title": "Establish series",
+    "autor": "Zachary Webster",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

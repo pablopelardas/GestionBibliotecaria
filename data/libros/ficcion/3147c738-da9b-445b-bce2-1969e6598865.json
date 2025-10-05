@@ -1,0 +1,16 @@
+{
+    "libro_id": "3147c738-da9b-445b-bce2-1969e6598865",
+    "isbn": "978-5-7857-9518-5",
+    "title": "Care camera",
+    "autor": "Rachel Patel",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "EBCC73149F83456B8F1D53569F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 534,
+            "user_id": "EBCC73149F83456B8F1D53569F",
+            "regresado": false
+        }
+    ]
+}

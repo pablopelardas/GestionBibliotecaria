@@ -1,0 +1,10 @@
+{
+    "libro_id": "84473355-2828-452f-81fe-405a1c93f439",
+    "isbn": "978-6-8711-8905-0",
+    "title": "Soon speech",
+    "autor": "Angela Harvey",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

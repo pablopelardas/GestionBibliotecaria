@@ -1,0 +1,10 @@
+{
+    "libro_id": "30f34559-139e-40fa-8998-cdc531250cd3",
+    "isbn": "978-6-1322-1447-2",
+    "title": "Over into lead",
+    "autor": "Kelly Perez",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

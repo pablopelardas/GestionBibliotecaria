@@ -1,0 +1,10 @@
+{
+    "libro_id": "195d3758-325e-434f-a2aa-05a57baec209",
+    "isbn": "978-9-1425-2973-1",
+    "title": "Character everybody region",
+    "autor": "Rachael Young",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

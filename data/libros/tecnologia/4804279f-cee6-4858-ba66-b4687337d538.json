@@ -1,0 +1,16 @@
+{
+    "libro_id": "4804279f-cee6-4858-ba66-b4687337d538",
+    "isbn": "978-1-3693-9858-6",
+    "title": "Hold",
+    "autor": "Kayla Williams",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "72D796946F1E480E819BC86267",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 172,
+            "user_id": "72D796946F1E480E819BC86267",
+            "regresado": false
+        }
+    ]
+}

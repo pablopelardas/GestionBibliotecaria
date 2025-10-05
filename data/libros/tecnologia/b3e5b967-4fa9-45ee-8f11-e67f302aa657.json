@@ -1,0 +1,10 @@
+{
+    "libro_id": "b3e5b967-4fa9-45ee-8f11-e67f302aa657",
+    "isbn": "978-0-1039-5480-0",
+    "title": "Candidate method",
+    "autor": "Sandra Thomas",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

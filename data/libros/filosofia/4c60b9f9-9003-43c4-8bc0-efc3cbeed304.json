@@ -1,0 +1,16 @@
+{
+    "libro_id": "4c60b9f9-9003-43c4-8bc0-efc3cbeed304",
+    "isbn": "978-3-6528-6501-8",
+    "title": "Bank gun support",
+    "autor": "Christopher Rollins",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "B7563129953344C883E06A6985",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 495,
+            "user_id": "B7563129953344C883E06A6985",
+            "regresado": false
+        }
+    ]
+}

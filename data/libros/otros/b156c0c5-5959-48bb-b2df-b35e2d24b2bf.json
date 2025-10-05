@@ -1,0 +1,10 @@
+{
+    "libro_id": "b156c0c5-5959-48bb-b2df-b35e2d24b2bf",
+    "isbn": "978-8-9396-7410-1",
+    "title": "Entire",
+    "autor": "Joseph Poole",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

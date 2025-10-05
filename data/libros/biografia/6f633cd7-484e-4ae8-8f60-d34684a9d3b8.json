@@ -1,0 +1,16 @@
+{
+    "libro_id": "6f633cd7-484e-4ae8-8f60-d34684a9d3b8",
+    "isbn": "978-6-7515-7335-3",
+    "title": "Skill",
+    "autor": "Jessica Knapp",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "0933AB82718A43F184CE901DD6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 136,
+            "user_id": "0933AB82718A43F184CE901DD6",
+            "regresado": false
+        }
+    ]
+}

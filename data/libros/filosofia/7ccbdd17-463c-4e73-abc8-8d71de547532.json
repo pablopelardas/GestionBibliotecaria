@@ -1,0 +1,16 @@
+{
+    "libro_id": "7ccbdd17-463c-4e73-abc8-8d71de547532",
+    "isbn": "978-2-9360-3516-3",
+    "title": "Sea son",
+    "autor": "Angela Duke",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 344,
+            "user_id": "7F2E8F7531584E088A49040EFC",
+            "regresado": true
+        }
+    ]
+}

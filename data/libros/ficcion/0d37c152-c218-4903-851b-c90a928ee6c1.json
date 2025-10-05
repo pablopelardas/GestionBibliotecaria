@@ -1,0 +1,10 @@
+{
+    "libro_id": "0d37c152-c218-4903-851b-c90a928ee6c1",
+    "isbn": "978-1-5430-9093-7",
+    "title": "Difficult head fine",
+    "autor": "Meghan Bauer",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

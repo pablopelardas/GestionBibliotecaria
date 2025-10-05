@@ -1,0 +1,16 @@
+{
+    "libro_id": "60c410fa-3e33-4ba4-afe2-e69e2b110e86",
+    "isbn": "978-9-7198-2051-9",
+    "title": "Suggest manage maybe",
+    "autor": "Brian Velasquez",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 493,
+            "user_id": "13A278C776CA4C3CB5EE5753F2",
+            "regresado": true
+        }
+    ]
+}

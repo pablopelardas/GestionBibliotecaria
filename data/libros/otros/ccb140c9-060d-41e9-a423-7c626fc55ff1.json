@@ -1,0 +1,16 @@
+{
+    "libro_id": "ccb140c9-060d-41e9-a423-7c626fc55ff1",
+    "isbn": "978-3-1325-4765-7",
+    "title": "Produce impact",
+    "autor": "William Pacheco",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "DADEE714DC00465B883C963B49",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 276,
+            "user_id": "DADEE714DC00465B883C963B49",
+            "regresado": false
+        }
+    ]
+}

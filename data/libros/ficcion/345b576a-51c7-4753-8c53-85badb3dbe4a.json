@@ -1,0 +1,16 @@
+{
+    "libro_id": "345b576a-51c7-4753-8c53-85badb3dbe4a",
+    "isbn": "978-5-2265-3864-5",
+    "title": "Another",
+    "autor": "Jamie Gould",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "C1F8C7B0CF3E4BBC9B330A1B5E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 533,
+            "user_id": "C1F8C7B0CF3E4BBC9B330A1B5E",
+            "regresado": false
+        }
+    ]
+}

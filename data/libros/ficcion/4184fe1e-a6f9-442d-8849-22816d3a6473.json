@@ -1,0 +1,10 @@
+{
+    "libro_id": "4184fe1e-a6f9-442d-8849-22816d3a6473",
+    "isbn": "978-2-2884-9174-6",
+    "title": "People remain ok",
+    "autor": "Chad Smith",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "362a8bdb-fa70-4a59-96c3-4fb87fba0831",
+    "isbn": "978-2-3945-2091-5",
+    "title": "Since arm water",
+    "autor": "Lauren Morris",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 58,
+            "user_id": "E579286C01584AF99259994131",
+            "regresado": true
+        }
+    ]
+}

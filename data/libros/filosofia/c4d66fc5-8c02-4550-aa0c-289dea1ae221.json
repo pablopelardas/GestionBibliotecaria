@@ -1,0 +1,10 @@
+{
+    "libro_id": "c4d66fc5-8c02-4550-aa0c-289dea1ae221",
+    "isbn": "978-1-6593-1801-6",
+    "title": "Sell lot",
+    "autor": "Shawn Peterson",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

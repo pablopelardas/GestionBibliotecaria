@@ -1,0 +1,16 @@
+{
+    "libro_id": "5919e7b9-3e1b-4ba5-83fe-fe722f35fcdf",
+    "isbn": "978-4-9390-8153-4",
+    "title": "Difficult company court",
+    "autor": "Dr. Kurt Hines",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "9A810573B5374D588F2842908D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 137,
+            "user_id": "9A810573B5374D588F2842908D",
+            "regresado": false
+        }
+    ]
+}

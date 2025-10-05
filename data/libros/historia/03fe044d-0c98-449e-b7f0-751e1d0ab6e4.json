@@ -1,0 +1,10 @@
+{
+    "libro_id": "03fe044d-0c98-449e-b7f0-751e1d0ab6e4",
+    "isbn": "978-7-3460-6887-7",
+    "title": "Either send picture wonder",
+    "autor": "Thomas Mclaughlin",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

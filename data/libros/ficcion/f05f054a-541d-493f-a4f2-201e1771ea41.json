@@ -1,0 +1,10 @@
+{
+    "libro_id": "f05f054a-541d-493f-a4f2-201e1771ea41",
+    "isbn": "978-1-8986-5240-6",
+    "title": "Line operation try",
+    "autor": "John Green",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

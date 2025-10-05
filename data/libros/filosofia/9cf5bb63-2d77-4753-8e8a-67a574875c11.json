@@ -1,0 +1,16 @@
+{
+    "libro_id": "9cf5bb63-2d77-4753-8e8a-67a574875c11",
+    "isbn": "978-7-7367-5405-2",
+    "title": "International keep",
+    "autor": "Dawn Sanchez",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "E776F8F556B548AFA0680DC162",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 237,
+            "user_id": "E776F8F556B548AFA0680DC162",
+            "regresado": false
+        }
+    ]
+}

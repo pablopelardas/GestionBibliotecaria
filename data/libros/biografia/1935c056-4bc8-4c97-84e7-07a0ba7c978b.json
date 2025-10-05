@@ -1,0 +1,10 @@
+{
+    "libro_id": "1935c056-4bc8-4c97-84e7-07a0ba7c978b",
+    "isbn": "978-5-8489-3343-0",
+    "title": "Product return however",
+    "autor": "Kim Herrera",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

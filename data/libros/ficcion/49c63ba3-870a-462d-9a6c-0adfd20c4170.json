@@ -1,0 +1,16 @@
+{
+    "libro_id": "49c63ba3-870a-462d-9a6c-0adfd20c4170",
+    "isbn": "978-7-5981-6406-6",
+    "title": "Theory",
+    "autor": "Robert Morris",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "EF4F27B9AC454768AD7A1A6082",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 363,
+            "user_id": "EF4F27B9AC454768AD7A1A6082",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "e3abceb4-fe3c-4c67-822b-09f97935d094",
+    "isbn": "978-8-1847-9786-8",
+    "title": "Without thousand",
+    "autor": "Jennifer Morris",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

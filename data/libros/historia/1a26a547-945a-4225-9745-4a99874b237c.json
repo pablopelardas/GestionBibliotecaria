@@ -1,0 +1,16 @@
+{
+    "libro_id": "1a26a547-945a-4225-9745-4a99874b237c",
+    "isbn": "978-7-4934-4526-8",
+    "title": "Base expect",
+    "autor": "Jeremy Jimenez",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 122,
+            "user_id": "B25B239FEEE04C689C5CA59501",
+            "regresado": true
+        }
+    ]
+}

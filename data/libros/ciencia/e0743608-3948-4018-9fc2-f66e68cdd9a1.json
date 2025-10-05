@@ -1,0 +1,16 @@
+{
+    "libro_id": "e0743608-3948-4018-9fc2-f66e68cdd9a1",
+    "isbn": "978-5-7684-5302-5",
+    "title": "Wrong",
+    "autor": "Donna White",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "5A4D4182721E46379374BD7836",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 459,
+            "user_id": "5A4D4182721E46379374BD7836",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b0ba49aa-cbd1-4c05-96cc-56842cb5c44c",
+    "isbn": "978-7-8086-6506-2",
+    "title": "Whether thank follow",
+    "autor": "Leslie Gardner",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "E776F8F556B548AFA0680DC162",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 203,
+            "user_id": "E776F8F556B548AFA0680DC162",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "f8eb795c-d827-42d4-84bc-d9f0a92e080c",
+    "isbn": "978-1-3255-8595-8",
+    "title": "Wall conference town",
+    "autor": "Kristie Lopez",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "A8AB63589F074448A7BAD8D435",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 66,
+            "user_id": "A8AB63589F074448A7BAD8D435",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "13c0c1b2-ff85-4f0d-8720-a9cb56c4a464",
+    "isbn": "978-2-9151-2906-7",
+    "title": "Someone model community",
+    "autor": "Jacob Anderson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 36,
+            "user_id": "5A2BD5D9965C43939FA823946F",
+            "regresado": true
+        }
+    ]
+}

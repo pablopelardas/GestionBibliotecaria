@@ -1,0 +1,16 @@
+{
+    "libro_id": "07399be6-2b74-43b7-a78f-6159b97bcddb",
+    "isbn": "978-8-5507-9974-8",
+    "title": "Morning they",
+    "autor": "Christopher Webb",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "4A6DBB0378E14EF78D8B436E59",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 268,
+            "user_id": "4A6DBB0378E14EF78D8B436E59",
+            "regresado": false
+        }
+    ]
+}

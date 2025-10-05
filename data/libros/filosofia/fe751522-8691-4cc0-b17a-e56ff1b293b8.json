@@ -1,0 +1,10 @@
+{
+    "libro_id": "fe751522-8691-4cc0-b17a-e56ff1b293b8",
+    "isbn": "978-5-2582-7085-7",
+    "title": "Black fight official hope",
+    "autor": "Lisa Matthews",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

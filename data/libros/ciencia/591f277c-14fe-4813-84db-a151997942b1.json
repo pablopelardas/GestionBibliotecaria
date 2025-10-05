@@ -1,0 +1,16 @@
+{
+    "libro_id": "591f277c-14fe-4813-84db-a151997942b1",
+    "isbn": "978-6-6634-8602-5",
+    "title": "Series daughter side",
+    "autor": "Richard Ruiz",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "F506179A11A44A6C9C831E1141",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 134,
+            "user_id": "F506179A11A44A6C9C831E1141",
+            "regresado": false
+        }
+    ]
+}

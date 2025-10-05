@@ -1,0 +1,16 @@
+{
+    "libro_id": "c4cdc8c5-e711-4c2a-870a-29849c095958",
+    "isbn": "978-7-8940-7927-3",
+    "title": "Culture suggest spend old",
+    "autor": "Elizabeth Thomas",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "28CAEBF9A8FD4D039DF20A7F1B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 101,
+            "user_id": "28CAEBF9A8FD4D039DF20A7F1B",
+            "regresado": false
+        }
+    ]
+}

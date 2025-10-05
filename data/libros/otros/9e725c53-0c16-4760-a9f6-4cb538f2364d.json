@@ -1,0 +1,16 @@
+{
+    "libro_id": "9e725c53-0c16-4760-a9f6-4cb538f2364d",
+    "isbn": "978-3-3610-3272-3",
+    "title": "Skin",
+    "autor": "Christopher Strong",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "7E9F65E08361468AB82B325108",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 209,
+            "user_id": "7E9F65E08361468AB82B325108",
+            "regresado": false
+        }
+    ]
+}

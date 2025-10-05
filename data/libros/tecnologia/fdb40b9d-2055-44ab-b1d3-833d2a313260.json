@@ -1,0 +1,16 @@
+{
+    "libro_id": "fdb40b9d-2055-44ab-b1d3-833d2a313260",
+    "isbn": "978-6-7212-4185-1",
+    "title": "Store challenge",
+    "autor": "Alan Gregory",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 129,
+            "user_id": "53191195BA4749338A1590F64D",
+            "regresado": true
+        }
+    ]
+}

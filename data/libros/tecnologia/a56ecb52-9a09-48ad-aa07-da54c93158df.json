@@ -1,0 +1,10 @@
+{
+    "libro_id": "a56ecb52-9a09-48ad-aa07-da54c93158df",
+    "isbn": "978-0-8232-7074-1",
+    "title": "Performance policy week continue",
+    "autor": "Victor Curry",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

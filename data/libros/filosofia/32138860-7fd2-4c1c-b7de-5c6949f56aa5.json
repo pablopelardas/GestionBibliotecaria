@@ -1,0 +1,16 @@
+{
+    "libro_id": "32138860-7fd2-4c1c-b7de-5c6949f56aa5",
+    "isbn": "978-6-5665-4159-3",
+    "title": "Never should suggest",
+    "autor": "Cynthia Baker",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "4F3B86325139443D88EA354FFC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 446,
+            "user_id": "4F3B86325139443D88EA354FFC",
+            "regresado": false
+        }
+    ]
+}

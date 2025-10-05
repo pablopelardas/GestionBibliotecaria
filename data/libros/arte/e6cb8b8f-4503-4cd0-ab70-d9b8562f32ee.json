@@ -1,0 +1,10 @@
+{
+    "libro_id": "e6cb8b8f-4503-4cd0-ab70-d9b8562f32ee",
+    "isbn": "978-0-4427-7994-2",
+    "title": "Family candidate impact",
+    "autor": "William Craig",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

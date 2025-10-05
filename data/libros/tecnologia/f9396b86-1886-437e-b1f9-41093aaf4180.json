@@ -1,0 +1,10 @@
+{
+    "libro_id": "f9396b86-1886-437e-b1f9-41093aaf4180",
+    "isbn": "978-4-1043-9262-8",
+    "title": "Democratic difference book",
+    "autor": "Mary Jennings",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

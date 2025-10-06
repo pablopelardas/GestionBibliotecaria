@@ -78,3 +78,118 @@ def obtener_usuario_completo(user_id):
         return usuarios.get(user_id, None)
     except:
         return None
+
+
+def listar_usuarios() -> list[dict]:
+    """
+    Retorna la lista completa de usuarios.
+    
+    Retorno:
+        list[dict]: lista de usuarios en formato diccionario
+    """
+    try:
+        usuarios = cargar_usuarios()
+        return [{"user_id": uid, "user": udata} for uid, udata in usuarios.items()]
+    except Exception:
+        return []
+
+
+def agregar_usuario(datos: dict) -> bool:
+    """
+    Agrega un nuevo usuario al sistema.
+
+    Args:
+        datos (dict): Diccionario con los datos del usuario. 
+                      Debe contener 'user_id' y 'user'.
+
+    Returns:
+        bool: True si se agregó correctamente, False en caso de error
+    """
+    try:
+        global _usuarios_cache
+        usuarios = cargar_usuarios()
+
+        user_id = datos.get("user_id")
+        user_data = datos.get("user")
+
+        if not user_id or not user_data:
+            return False 
+        
+        usuarios[user_id] = user_data
+
+        base_dir = obtener_directorio_base()
+        archivo_usuarios = base_dir / 'data' / 'usuarios' / 'usuarios.json'
+
+        lista_usuarios = [{"user_id": uid, "user": udata} for uid, udata in usuarios.items()]
+
+        with open(archivo_usuarios, 'w', encoding='utf-8') as f:
+            json.dump(lista_usuarios, f, ensure_ascii=False, indent=4)
+
+        return True
+    except Exception as e:
+        return False
+
+
+def modificar_usuario(user_id: str, datos: dict) -> bool:
+    """
+    Modifica un usuario existente en el sistema.
+
+    Args:
+        user_id (str): ID del usuario a modificar.
+        datos (dict): Diccionario con los nuevos datos del usuario.
+
+    Returns:
+        bool: True si se modificó correctamente, False si no se encontró o hubo error.
+    """
+    try:
+        global _usuarios_cache
+        usuarios = cargar_usuarios()
+
+        if user_id not in usuarios:
+            return False
+
+        usuarios[user_id].update(datos)
+
+        base_dir = obtener_directorio_base()
+        archivo_usuarios = base_dir / 'data' / 'usuarios' / 'usuarios.json'
+
+        lista_usuarios = [{"user_id": uid, "user": udata} for uid, udata in usuarios.items()]
+
+        with open(archivo_usuarios, 'w', encoding='utf-8') as f:
+            json.dump(lista_usuarios, f, ensure_ascii=False, indent=4)
+
+        return True
+    except Exception:
+        return False
+
+
+def eliminar_usuario(user_id: str) -> bool:
+    """
+    Elimina un usuario del sistema.
+
+    Args:
+        user_id (str): ID del usuario a eliminar.
+
+    Returns:
+        bool: True si se eliminó correctamente, False si no existe o hubo error.
+    """
+    try:
+        global _usuarios_cache
+        usuarios = cargar_usuarios()
+
+        if user_id not in usuarios:
+            return False
+
+        usuarios.pop(user_id)
+
+        base_dir = obtener_directorio_base()
+        archivo_usuarios = base_dir / 'data' / 'usuarios' / 'usuarios.json'
+
+        lista_usuarios = [{"user_id": uid, "user": udata} for uid, udata in usuarios.items()]
+
+        with open(archivo_usuarios, 'w', encoding='utf-8') as f:
+            json.dump(lista_usuarios, f, ensure_ascii=False, indent=4)
+
+        return True
+    except Exception:
+        return False

@@ -7,6 +7,12 @@ from presentation.busquedas import (
     ejecutar_busqueda_texto,
     ejecutar_busqueda_genero
 )
+from presentation.usuarios import (
+    ejecutar_agregar_usuario,
+    ejecutar_modificar_usuario,
+    ejecutar_eliminar_usuario,
+    ejecutar_listar_usuarios
+)
 
 def menu_principal():
     while True:
@@ -55,19 +61,19 @@ def menu_usuarios():
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de alta de usuario")
+            ejecutar_agregar_usuario()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de modificar usuario")
+            ejecutar_modificar_usuario()
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de eliminar usuario")
+            ejecutar_eliminar_usuario()
             pausar()
         elif opcion == 4:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de listar usuarios")
+            ejecutar_listar_usuarios()
             pausar()
         elif opcion == 0:
             return

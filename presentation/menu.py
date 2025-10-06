@@ -14,6 +14,12 @@ from presentation.usuarios import (
     ejecutar_listar_usuarios
 )
 
+from presentation.prestamos import (
+    ejecutar_registrar_prestamo,
+    ejecutar_registrar_devolucion,
+    ejecutar_listar_prestamos_vigentes
+)
+
 def menu_principal():
     while True:
         limpiar_consola()
@@ -128,15 +134,15 @@ def menu_prestamos():
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de registrar préstamo")
+            ejecutar_registrar_prestamo()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de registrar devolución")
+            ejecutar_registrar_devolucion()
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de listar préstamos")
+            ejecutar_listar_prestamos_vigentes()
             pausar()
         elif opcion == 0:
             return

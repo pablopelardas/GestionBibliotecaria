@@ -1,0 +1,16 @@
+{
+    "libro_id": "02aa1b71-5f82-4bc0-8af4-aecc8d56ef22",
+    "isbn": "978-0-2856-2115-6",
+    "title": "Soldier what far",
+    "autor": "Alice Smith",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "21659203493C49138012647169",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 524,
+            "user_id": "21659203493C49138012647169",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "9676bde4-06cb-4329-8f79-c42fc86fb754",
+    "isbn": "978-6-3817-7081-6",
+    "title": "Quickly political recent",
+    "autor": "Cameron Blake",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "CCF8C386C2E8421094E160482B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 112,
+            "user_id": "CCF8C386C2E8421094E160482B",
+            "regresado": false
+        }
+    ]
+}

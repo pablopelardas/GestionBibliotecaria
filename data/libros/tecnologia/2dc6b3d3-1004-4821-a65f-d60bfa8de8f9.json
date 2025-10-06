@@ -1,0 +1,16 @@
+{
+    "libro_id": "2dc6b3d3-1004-4821-a65f-d60bfa8de8f9",
+    "isbn": "978-0-6548-5028-6",
+    "title": "Avoid long mention",
+    "autor": "Kiara Peters",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "CF9D4EEC519C4B6D943632A7E9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 392,
+            "user_id": "CF9D4EEC519C4B6D943632A7E9",
+            "regresado": false
+        }
+    ]
+}

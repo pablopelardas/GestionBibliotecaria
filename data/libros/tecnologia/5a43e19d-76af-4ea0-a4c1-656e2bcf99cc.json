@@ -1,0 +1,16 @@
+{
+    "libro_id": "5a43e19d-76af-4ea0-a4c1-656e2bcf99cc",
+    "isbn": "978-3-8541-4933-3",
+    "title": "Store her agent",
+    "autor": "Robert Davis",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 430,
+            "user_id": "9279E8467BF44EBB86518DD610",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "cbf8e501-b1fb-43c4-a9b2-09133c8e8fce",
+    "isbn": "978-4-1170-6227-5",
+    "title": "Take think",
+    "autor": "Justin Cummings",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

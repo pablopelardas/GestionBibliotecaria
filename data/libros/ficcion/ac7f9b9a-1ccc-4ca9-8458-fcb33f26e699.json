@@ -1,0 +1,16 @@
+{
+    "libro_id": "ac7f9b9a-1ccc-4ca9-8458-fcb33f26e699",
+    "isbn": "978-9-4713-7508-3",
+    "title": "Become attack",
+    "autor": "Jessica Lee",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "3C30677A01AB41C0B01896AD0E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 542,
+            "user_id": "3C30677A01AB41C0B01896AD0E",
+            "regresado": false
+        }
+    ]
+}

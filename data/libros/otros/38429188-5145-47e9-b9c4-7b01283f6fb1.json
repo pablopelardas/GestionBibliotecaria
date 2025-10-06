@@ -1,0 +1,16 @@
+{
+    "libro_id": "38429188-5145-47e9-b9c4-7b01283f6fb1",
+    "isbn": "978-4-3679-5960-8",
+    "title": "Avoid recognize",
+    "autor": "Jennifer Glover",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 179,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

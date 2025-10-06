@@ -1,0 +1,10 @@
+{
+    "libro_id": "7860a406-61c0-4548-b0c3-b3e8c0d1f939",
+    "isbn": "978-6-1718-5670-7",
+    "title": "Audience day type",
+    "autor": "Roberta Harmon",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "87d16fac-563b-4c5c-9b9e-ca7cf7b8a493",
+    "isbn": "978-8-1460-7610-4",
+    "title": "Common worker per",
+    "autor": "Melissa Wallace",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

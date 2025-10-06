@@ -1,0 +1,10 @@
+{
+    "libro_id": "f56ca22f-3207-4622-b87d-bcaa81fd5dea",
+    "isbn": "978-4-1362-9141-6",
+    "title": "Affect stage",
+    "autor": "Daniel Sanders",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "2d036235-c15e-463d-88e1-716d04aafde5",
+    "isbn": "978-2-1393-1510-1",
+    "title": "Bag act",
+    "autor": "Andrew Rowland",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

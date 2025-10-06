@@ -1,0 +1,10 @@
+{
+    "libro_id": "2d402cc9-7506-4089-a428-1297f3d307de",
+    "isbn": "978-8-8071-9928-6",
+    "title": "Case popular general",
+    "autor": "Rodney Harrison",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

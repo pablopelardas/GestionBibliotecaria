@@ -1,0 +1,10 @@
+{
+    "libro_id": "bb3df3d6-ac3f-4695-b2bc-abc9fdc99db1",
+    "isbn": "978-4-1232-9011-8",
+    "title": "Order free cup",
+    "autor": "Max Griffin",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

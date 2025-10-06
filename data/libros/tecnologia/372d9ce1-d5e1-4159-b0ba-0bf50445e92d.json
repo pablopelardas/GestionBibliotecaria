@@ -1,0 +1,16 @@
+{
+    "libro_id": "372d9ce1-d5e1-4159-b0ba-0bf50445e92d",
+    "isbn": "978-1-4654-3954-5",
+    "title": "Since team",
+    "autor": "Donna Lindsey",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "2A2257FCEABC446BB35AA14B14",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 52,
+            "user_id": "2A2257FCEABC446BB35AA14B14",
+            "regresado": false
+        }
+    ]
+}

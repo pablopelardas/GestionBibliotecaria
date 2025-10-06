@@ -1,0 +1,16 @@
+{
+    "libro_id": "02b6a1b2-9aa9-4661-bcea-af0f0110de63",
+    "isbn": "978-9-4926-2456-0",
+    "title": "My join first",
+    "autor": "Heather Johnson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 325,
+            "user_id": "856AD33B4B774F8C8928267A23",
+            "regresado": true
+        }
+    ]
+}

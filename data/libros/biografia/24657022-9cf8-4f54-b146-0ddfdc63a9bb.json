@@ -1,0 +1,10 @@
+{
+    "libro_id": "24657022-9cf8-4f54-b146-0ddfdc63a9bb",
+    "isbn": "978-7-5885-6456-2",
+    "title": "Candidate century century",
+    "autor": "Trevor Ortega",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

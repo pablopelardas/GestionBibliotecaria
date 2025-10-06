@@ -1,0 +1,16 @@
+{
+    "libro_id": "f1c2341c-656d-4917-b1e7-e0d4eef6c563",
+    "isbn": "978-2-2915-6446-2",
+    "title": "Air defense",
+    "autor": "Julie Brown",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "02FF20A6D8BA44B49D67886A24",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 148,
+            "user_id": "02FF20A6D8BA44B49D67886A24",
+            "regresado": false
+        }
+    ]
+}

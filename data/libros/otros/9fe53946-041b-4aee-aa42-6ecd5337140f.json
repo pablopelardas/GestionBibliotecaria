@@ -1,0 +1,10 @@
+{
+    "libro_id": "9fe53946-041b-4aee-aa42-6ecd5337140f",
+    "isbn": "978-8-4699-6225-5",
+    "title": "Seat result",
+    "autor": "Jacob Lee",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

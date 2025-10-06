@@ -1,0 +1,16 @@
+{
+    "libro_id": "6a791952-5d91-497e-be02-e3550777fa3a",
+    "isbn": "978-2-4314-3410-6",
+    "title": "Reveal religious",
+    "autor": "Emily Whitney",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 447,
+            "user_id": "7E914187DF814EB6B7DBA90919",
+            "regresado": true
+        }
+    ]
+}

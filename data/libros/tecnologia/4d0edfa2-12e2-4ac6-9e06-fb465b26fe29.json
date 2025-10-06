@@ -1,0 +1,10 @@
+{
+    "libro_id": "4d0edfa2-12e2-4ac6-9e06-fb465b26fe29",
+    "isbn": "978-1-9918-7518-8",
+    "title": "Whom bring",
+    "autor": "Scott Gregory",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

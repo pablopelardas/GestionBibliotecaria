@@ -1,0 +1,16 @@
+{
+    "libro_id": "04dd429c-4003-4c34-8158-32785141a33d",
+    "isbn": "978-0-1550-9316-0",
+    "title": "Two bring",
+    "autor": "Eddie Matthews",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 95,
+            "user_id": "054404D47EEF42F1B644E973CC",
+            "regresado": true
+        }
+    ]
+}

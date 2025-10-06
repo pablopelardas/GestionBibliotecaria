@@ -1,0 +1,16 @@
+{
+    "libro_id": "ee145129-a3f9-425c-a7f0-9682279f2cf9",
+    "isbn": "978-9-9966-1235-7",
+    "title": "Still personal",
+    "autor": "Carmen Fields",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "CA34CCFB28DF4FB6B58927A7D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 504,
+            "user_id": "CA34CCFB28DF4FB6B58927A7D6",
+            "regresado": false
+        }
+    ]
+}

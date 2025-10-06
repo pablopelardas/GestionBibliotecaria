@@ -1,0 +1,10 @@
+{
+    "libro_id": "a75a713e-e5c9-47b1-aca8-a219cf4cfd83",
+    "isbn": "978-2-6274-1500-0",
+    "title": "Tend treat",
+    "autor": "Jessica Grant",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

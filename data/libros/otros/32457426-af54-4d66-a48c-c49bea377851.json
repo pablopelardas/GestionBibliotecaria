@@ -1,0 +1,16 @@
+{
+    "libro_id": "32457426-af54-4d66-a48c-c49bea377851",
+    "isbn": "978-5-9211-2726-7",
+    "title": "Six",
+    "autor": "Abigail Alvarado",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "16E3B0C221A544BEB5A9638C61",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 285,
+            "user_id": "16E3B0C221A544BEB5A9638C61",
+            "regresado": false
+        }
+    ]
+}

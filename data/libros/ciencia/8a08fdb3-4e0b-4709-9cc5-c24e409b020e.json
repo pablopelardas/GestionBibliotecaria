@@ -1,0 +1,10 @@
+{
+    "libro_id": "8a08fdb3-4e0b-4709-9cc5-c24e409b020e",
+    "isbn": "978-3-6835-9602-5",
+    "title": "Turn beautiful former",
+    "autor": "Daniel Peters",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "5e269531-2ae7-4b0d-8f28-1a2dc8955aa6",
+    "isbn": "978-9-7655-3329-8",
+    "title": "Improve",
+    "autor": "Alyssa Gill",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

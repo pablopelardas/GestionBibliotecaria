@@ -1,0 +1,10 @@
+{
+    "libro_id": "d2d4001e-191d-46c1-83c6-9ddfda06772c",
+    "isbn": "978-8-4540-6567-8",
+    "title": "Property board adult",
+    "autor": "Jonathan Williamson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

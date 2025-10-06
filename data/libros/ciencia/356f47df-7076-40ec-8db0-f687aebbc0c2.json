@@ -1,0 +1,10 @@
+{
+    "libro_id": "356f47df-7076-40ec-8db0-f687aebbc0c2",
+    "isbn": "978-5-2590-7878-3",
+    "title": "Protect when early",
+    "autor": "Joshua Hill",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

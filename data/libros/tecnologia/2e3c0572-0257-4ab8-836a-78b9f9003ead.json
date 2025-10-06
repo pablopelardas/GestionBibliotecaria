@@ -1,0 +1,10 @@
+{
+    "libro_id": "2e3c0572-0257-4ab8-836a-78b9f9003ead",
+    "isbn": "978-4-9376-5074-2",
+    "title": "Born",
+    "autor": "Dakota Mullen",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "057b3c4f-4284-435b-acee-67882bbb63b4",
+    "isbn": "978-1-8828-8037-1",
+    "title": "Sit down",
+    "autor": "Rodney Meza",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 91,
+            "user_id": "09CFD8519BB94A9B8AF30EF179",
+            "regresado": true
+        }
+    ]
+}

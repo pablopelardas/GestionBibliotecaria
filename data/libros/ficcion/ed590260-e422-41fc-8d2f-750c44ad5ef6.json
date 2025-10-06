@@ -1,0 +1,10 @@
+{
+    "libro_id": "ed590260-e422-41fc-8d2f-750c44ad5ef6",
+    "isbn": "978-7-1830-3708-2",
+    "title": "Concern talk",
+    "autor": "Dylan Jones",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

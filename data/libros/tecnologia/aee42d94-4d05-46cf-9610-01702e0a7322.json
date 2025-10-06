@@ -1,0 +1,16 @@
+{
+    "libro_id": "aee42d94-4d05-46cf-9610-01702e0a7322",
+    "isbn": "978-8-7179-6437-5",
+    "title": "Baby consider",
+    "autor": "Tyler Young",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "32326E571C2F47B591C821C1FD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 258,
+            "user_id": "32326E571C2F47B591C821C1FD",
+            "regresado": false
+        }
+    ]
+}

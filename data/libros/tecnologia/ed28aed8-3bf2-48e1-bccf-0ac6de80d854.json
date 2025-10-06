@@ -1,0 +1,10 @@
+{
+    "libro_id": "ed28aed8-3bf2-48e1-bccf-0ac6de80d854",
+    "isbn": "978-4-5915-6718-6",
+    "title": "Company around special",
+    "autor": "April Arnold",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

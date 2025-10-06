@@ -1,0 +1,10 @@
+{
+    "libro_id": "29a75443-e794-4e98-b019-8a9f693573bb",
+    "isbn": "978-5-3026-2309-8",
+    "title": "Nation me",
+    "autor": "David Perkins",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "de1acd68-acc4-492e-becf-1c421c181f7c",
+    "isbn": "978-4-6007-2975-1",
+    "title": "Environment me so",
+    "autor": "Lori Taylor",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

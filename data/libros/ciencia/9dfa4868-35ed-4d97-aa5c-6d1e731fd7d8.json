@@ -1,0 +1,16 @@
+{
+    "libro_id": "9dfa4868-35ed-4d97-aa5c-6d1e731fd7d8",
+    "isbn": "978-2-7807-3827-4",
+    "title": "True different",
+    "autor": "Christopher Wilkins",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 3,
+            "user_id": "448F970474E947E89EED49237A",
+            "regresado": true
+        }
+    ]
+}

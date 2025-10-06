@@ -1,0 +1,10 @@
+{
+    "libro_id": "d3d6ae40-1c68-4bbc-a481-5540888292e4",
+    "isbn": "978-8-8983-5068-5",
+    "title": "Edge always east group",
+    "autor": "Ryan Foley",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

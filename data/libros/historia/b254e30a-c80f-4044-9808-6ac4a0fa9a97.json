@@ -1,0 +1,10 @@
+{
+    "libro_id": "b254e30a-c80f-4044-9808-6ac4a0fa9a97",
+    "isbn": "978-4-9610-1868-3",
+    "title": "Professor push",
+    "autor": "Christopher Anderson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

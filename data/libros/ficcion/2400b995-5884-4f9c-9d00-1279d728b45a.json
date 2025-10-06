@@ -1,0 +1,16 @@
+{
+    "libro_id": "2400b995-5884-4f9c-9d00-1279d728b45a",
+    "isbn": "978-7-5571-9525-9",
+    "title": "Bring all bit",
+    "autor": "Oscar Obrien",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "AD894D53D0074D63B302C59C5C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 484,
+            "user_id": "AD894D53D0074D63B302C59C5C",
+            "regresado": false
+        }
+    ]
+}

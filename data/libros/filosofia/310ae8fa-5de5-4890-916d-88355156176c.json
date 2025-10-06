@@ -1,0 +1,10 @@
+{
+    "libro_id": "310ae8fa-5de5-4890-916d-88355156176c",
+    "isbn": "978-6-3572-2287-3",
+    "title": "True easy",
+    "autor": "Claudia Mclaughlin",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "4b1070ca-6f5d-42ff-9726-f4f0ec14a4b9",
+    "isbn": "978-0-8104-5138-8",
+    "title": "Apply entire",
+    "autor": "Gina Williams",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "8D2C80B198FD403A8CC27AAAE2",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 5,
+            "user_id": "8D2C80B198FD403A8CC27AAAE2",
+            "regresado": false
+        }
+    ]
+}

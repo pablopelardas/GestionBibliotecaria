@@ -1,0 +1,16 @@
+{
+    "libro_id": "4dde65ed-b533-4635-8267-a88570114c3c",
+    "isbn": "978-8-1582-6784-0",
+    "title": "Project large",
+    "autor": "Lindsay Ramirez",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "157B3D0D95DD458EAB0D98B2AD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 38,
+            "user_id": "157B3D0D95DD458EAB0D98B2AD",
+            "regresado": false
+        }
+    ]
+}

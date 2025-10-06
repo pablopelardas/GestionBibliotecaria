@@ -1,0 +1,10 @@
+{
+    "libro_id": "65601921-4a0a-4c46-aea9-1c0778992817",
+    "isbn": "978-4-9168-8049-4",
+    "title": "Brother exactly",
+    "autor": "Denise Brown",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e9b6dfd5-13d7-4c56-8457-f2f855a1fa95",
+    "isbn": "978-5-4902-3500-0",
+    "title": "Foreign through",
+    "autor": "Melissa Thomas",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 537,
+            "user_id": "7B8D0DFB452C494F967F7D0DC9",
+            "regresado": true
+        }
+    ]
+}

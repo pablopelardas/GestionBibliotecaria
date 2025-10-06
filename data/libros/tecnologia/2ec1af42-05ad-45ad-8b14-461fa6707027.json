@@ -1,0 +1,10 @@
+{
+    "libro_id": "2ec1af42-05ad-45ad-8b14-461fa6707027",
+    "isbn": "978-5-5421-8350-2",
+    "title": "Woman charge city",
+    "autor": "Justin Williams",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b256962a-7477-4669-bddc-08c090051f49",
+    "isbn": "978-9-7952-2035-1",
+    "title": "Individual ever mind",
+    "autor": "Sandra Raymond",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 169,
+            "user_id": "A2278B11DADA40BE836EFE5FD0",
+            "regresado": true
+        }
+    ]
+}

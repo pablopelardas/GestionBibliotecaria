@@ -1,0 +1,16 @@
+{
+    "libro_id": "44d34146-401d-4d7a-bfd8-14d63f6a5d43",
+    "isbn": "978-7-4598-5721-5",
+    "title": "Measure last former step",
+    "autor": "Michelle Mcintyre",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 350,
+            "user_id": "F764E843077A4BA694F059867C",
+            "regresado": true
+        }
+    ]
+}

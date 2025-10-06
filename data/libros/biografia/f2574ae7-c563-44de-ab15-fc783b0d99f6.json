@@ -1,0 +1,16 @@
+{
+    "libro_id": "f2574ae7-c563-44de-ab15-fc783b0d99f6",
+    "isbn": "978-6-4488-4639-4",
+    "title": "Trial still contain",
+    "autor": "Shawn Carter",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "CA6790D28A3E4FF0B04F6DEB0D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 450,
+            "user_id": "CA6790D28A3E4FF0B04F6DEB0D",
+            "regresado": false
+        }
+    ]
+}

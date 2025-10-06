@@ -1,0 +1,16 @@
+{
+    "libro_id": "69d33363-34c2-41b1-a125-9b736744560e",
+    "isbn": "978-9-4742-3538-5",
+    "title": "Cold son",
+    "autor": "Eric Davies",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "9EC9657B38464EB1B20FCB23C1",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 256,
+            "user_id": "9EC9657B38464EB1B20FCB23C1",
+            "regresado": false
+        }
+    ]
+}

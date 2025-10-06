@@ -1,0 +1,16 @@
+{
+    "libro_id": "bf98531e-e100-4bcf-8d91-6b0cc432cdc3",
+    "isbn": "978-1-8539-8480-5",
+    "title": "Son five",
+    "autor": "Marissa Russell",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "7C433482271A49D3BBAB3BF52B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 135,
+            "user_id": "7C433482271A49D3BBAB3BF52B",
+            "regresado": false
+        }
+    ]
+}

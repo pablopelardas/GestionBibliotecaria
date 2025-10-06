@@ -1,0 +1,16 @@
+{
+    "libro_id": "6fbcffd2-0664-431e-a767-d91d316ad5da",
+    "isbn": "978-9-1219-5682-2",
+    "title": "Physical business out",
+    "autor": "Eric Berger",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 431,
+            "user_id": "95888E6AFE5042769122AF497E",
+            "regresado": true
+        }
+    ]
+}

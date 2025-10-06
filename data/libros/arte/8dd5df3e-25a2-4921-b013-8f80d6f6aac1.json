@@ -1,0 +1,10 @@
+{
+    "libro_id": "8dd5df3e-25a2-4921-b013-8f80d6f6aac1",
+    "isbn": "978-4-4484-4011-3",
+    "title": "Nice perhaps rather this",
+    "autor": "Jacqueline Gray",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

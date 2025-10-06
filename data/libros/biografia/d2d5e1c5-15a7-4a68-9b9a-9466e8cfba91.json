@@ -1,0 +1,16 @@
+{
+    "libro_id": "d2d5e1c5-15a7-4a68-9b9a-9466e8cfba91",
+    "isbn": "978-5-1784-9343-6",
+    "title": "Probably forget",
+    "autor": "Deborah Wagner",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "7BCF1C869A0E4104B1C845C034",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 273,
+            "user_id": "7BCF1C869A0E4104B1C845C034",
+            "regresado": false
+        }
+    ]
+}

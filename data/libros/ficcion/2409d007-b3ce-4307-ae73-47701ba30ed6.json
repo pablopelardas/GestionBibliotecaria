@@ -1,0 +1,16 @@
+{
+    "libro_id": "2409d007-b3ce-4307-ae73-47701ba30ed6",
+    "isbn": "978-0-1079-2885-9",
+    "title": "Line",
+    "autor": "Oscar Montgomery",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "E685F0790691426FAC62131B11",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 535,
+            "user_id": "E685F0790691426FAC62131B11",
+            "regresado": false
+        }
+    ]
+}

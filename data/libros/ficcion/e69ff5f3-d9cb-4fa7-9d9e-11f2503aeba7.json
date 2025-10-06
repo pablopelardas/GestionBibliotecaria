@@ -1,0 +1,16 @@
+{
+    "libro_id": "e69ff5f3-d9cb-4fa7-9d9e-11f2503aeba7",
+    "isbn": "978-1-4341-4799-1",
+    "title": "Soldier free everyone this",
+    "autor": "James Smith",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "2147558389E3470FA44A12BD96",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 483,
+            "user_id": "2147558389E3470FA44A12BD96",
+            "regresado": false
+        }
+    ]
+}

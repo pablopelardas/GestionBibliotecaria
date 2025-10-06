@@ -1,0 +1,16 @@
+{
+    "libro_id": "23a3bf30-0d0c-43dc-a6a5-e2f29f8be43b",
+    "isbn": "978-2-1091-9182-7",
+    "title": "Mouth maybe",
+    "autor": "Cindy Evans",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "94F15C68AD724AD3908A5341AD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 475,
+            "user_id": "94F15C68AD724AD3908A5341AD",
+            "regresado": false
+        }
+    ]
+}

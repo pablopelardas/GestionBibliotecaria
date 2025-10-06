@@ -1,0 +1,16 @@
+{
+    "libro_id": "d9b07774-a9b6-4c1d-9b88-c82491ecea4f",
+    "isbn": "978-9-2170-7574-7",
+    "title": "Until they site",
+    "autor": "David Collins",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 139,
+            "user_id": "2B083BB77C2F4F47A964ED1317",
+            "regresado": true
+        }
+    ]
+}

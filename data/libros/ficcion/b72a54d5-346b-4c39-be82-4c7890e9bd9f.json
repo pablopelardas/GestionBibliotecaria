@@ -1,0 +1,16 @@
+{
+    "libro_id": "b72a54d5-346b-4c39-be82-4c7890e9bd9f",
+    "isbn": "978-7-4117-3428-0",
+    "title": "Bar cause total role",
+    "autor": "Mason Taylor",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "DCF6324C369440E0B0A08C402F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 208,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": false
+        }
+    ]
+}

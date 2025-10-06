@@ -1,0 +1,10 @@
+{
+    "libro_id": "3fb2dc83-3839-4d7a-9fb7-6c12ad1b8ae4",
+    "isbn": "978-2-7129-1202-6",
+    "title": "Happy physical car election",
+    "autor": "Rebecca Bennett",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

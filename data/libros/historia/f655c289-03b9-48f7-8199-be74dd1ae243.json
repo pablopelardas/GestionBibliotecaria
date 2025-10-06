@@ -1,0 +1,10 @@
+{
+    "libro_id": "f655c289-03b9-48f7-8199-be74dd1ae243",
+    "isbn": "978-7-2939-9426-4",
+    "title": "Decide sister",
+    "autor": "Jeffrey Barnes",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

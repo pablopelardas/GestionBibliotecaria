@@ -1,0 +1,16 @@
+{
+    "libro_id": "cc4b7db5-abdd-4380-ad6d-b8378f704df4",
+    "isbn": "978-3-2789-6063-6",
+    "title": "Trouble someone",
+    "autor": "Michael Mcdonald",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "CFDD809CD4934208B491EB1981",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 429,
+            "user_id": "CFDD809CD4934208B491EB1981",
+            "regresado": false
+        }
+    ]
+}

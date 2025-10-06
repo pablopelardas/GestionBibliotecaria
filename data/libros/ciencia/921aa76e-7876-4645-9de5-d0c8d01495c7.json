@@ -1,0 +1,16 @@
+{
+    "libro_id": "921aa76e-7876-4645-9de5-d0c8d01495c7",
+    "isbn": "978-7-3040-5191-1",
+    "title": "Beat the level",
+    "autor": "Stephanie Hernandez",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 521,
+            "user_id": "94FD4EFB44F9420D80F452E966",
+            "regresado": true
+        }
+    ]
+}

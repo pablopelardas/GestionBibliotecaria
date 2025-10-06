@@ -1,0 +1,10 @@
+{
+    "libro_id": "7597cae8-6a48-4897-9bdb-374b985c68ca",
+    "isbn": "978-8-9491-7703-0",
+    "title": "Husband artist",
+    "autor": "Anthony Dawson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

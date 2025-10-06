@@ -1,0 +1,16 @@
+{
+    "libro_id": "3ec6a4e3-14b5-4af6-a902-f00edefc82bc",
+    "isbn": "978-0-4883-1732-8",
+    "title": "Month section",
+    "autor": "Caroline Carrillo",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 59,
+            "user_id": "856AD33B4B774F8C8928267A23",
+            "regresado": true
+        }
+    ]
+}

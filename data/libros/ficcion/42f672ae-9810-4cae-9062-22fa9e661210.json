@@ -1,0 +1,10 @@
+{
+    "libro_id": "42f672ae-9810-4cae-9062-22fa9e661210",
+    "isbn": "978-9-1874-2273-3",
+    "title": "See positive",
+    "autor": "Brooke Owens",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

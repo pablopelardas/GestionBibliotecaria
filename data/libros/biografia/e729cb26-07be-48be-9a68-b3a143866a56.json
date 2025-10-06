@@ -1,0 +1,16 @@
+{
+    "libro_id": "e729cb26-07be-48be-9a68-b3a143866a56",
+    "isbn": "978-8-1867-2220-8",
+    "title": "Cause space lead",
+    "autor": "Joshua Price",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "BA4BA51D7CA641BC80DB50791C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 479,
+            "user_id": "BA4BA51D7CA641BC80DB50791C",
+            "regresado": false
+        }
+    ]
+}

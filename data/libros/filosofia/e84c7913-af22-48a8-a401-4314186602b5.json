@@ -1,0 +1,16 @@
+{
+    "libro_id": "e84c7913-af22-48a8-a401-4314186602b5",
+    "isbn": "978-0-2957-3200-7",
+    "title": "Service finish sea",
+    "autor": "Kenneth Riley",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "3DBAB656A8E144B298C49BD232",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 132,
+            "user_id": "3DBAB656A8E144B298C49BD232",
+            "regresado": false
+        }
+    ]
+}

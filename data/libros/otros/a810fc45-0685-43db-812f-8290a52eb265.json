@@ -1,0 +1,10 @@
+{
+    "libro_id": "a810fc45-0685-43db-812f-8290a52eb265",
+    "isbn": "978-8-6916-3462-6",
+    "title": "Join",
+    "autor": "Wendy Johnson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

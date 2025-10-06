@@ -1,0 +1,16 @@
+{
+    "libro_id": "a7d7cb56-8c93-4e68-9d35-e3a4f1ee9c3b",
+    "isbn": "978-8-4500-7877-2",
+    "title": "Marriage program business",
+    "autor": "Kirsten Rodriguez",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 539,
+            "user_id": "61581C8DA34740FC9F3EDF6ACC",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "07344707-69f6-4098-85b3-afcc2ff19a55",
+    "isbn": "978-7-1585-9878-3",
+    "title": "Physical",
+    "autor": "Marvin Russell",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "7C433482271A49D3BBAB3BF52B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 410,
+            "user_id": "7C433482271A49D3BBAB3BF52B",
+            "regresado": false
+        }
+    ]
+}

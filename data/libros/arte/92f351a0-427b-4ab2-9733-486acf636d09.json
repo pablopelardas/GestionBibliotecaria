@@ -1,0 +1,16 @@
+{
+    "libro_id": "92f351a0-427b-4ab2-9733-486acf636d09",
+    "isbn": "978-4-8750-3396-4",
+    "title": "Also avoid school",
+    "autor": "Mike Wagner",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "EED0E1E29E924015AE1376397D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 491,
+            "user_id": "EED0E1E29E924015AE1376397D",
+            "regresado": false
+        }
+    ]
+}

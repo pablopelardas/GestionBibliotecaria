@@ -1,0 +1,10 @@
+{
+    "libro_id": "e1481d72-66af-46b1-aaca-883c567f9173",
+    "isbn": "978-7-5225-3537-7",
+    "title": "Can free",
+    "autor": "Megan Williams",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

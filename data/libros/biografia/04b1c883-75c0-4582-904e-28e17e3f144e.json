@@ -1,0 +1,16 @@
+{
+    "libro_id": "04b1c883-75c0-4582-904e-28e17e3f144e",
+    "isbn": "978-4-6108-1178-7",
+    "title": "Find third",
+    "autor": "Dr. Anthony Martinez PhD",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "C9EBFA6B56A34F92978285D7B8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 426,
+            "user_id": "C9EBFA6B56A34F92978285D7B8",
+            "regresado": false
+        }
+    ]
+}

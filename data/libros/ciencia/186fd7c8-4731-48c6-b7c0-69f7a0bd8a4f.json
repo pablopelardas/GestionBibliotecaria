@@ -1,0 +1,10 @@
+{
+    "libro_id": "186fd7c8-4731-48c6-b7c0-69f7a0bd8a4f",
+    "isbn": "978-2-9419-1312-5",
+    "title": "Usually line",
+    "autor": "Daniel Collins",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

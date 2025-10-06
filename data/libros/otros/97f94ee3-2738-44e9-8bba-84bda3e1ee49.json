@@ -1,0 +1,16 @@
+{
+    "libro_id": "97f94ee3-2738-44e9-8bba-84bda3e1ee49",
+    "isbn": "978-9-8727-7721-1",
+    "title": "Modern our campaign",
+    "autor": "Jeffrey Mason",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "B2E3F18B364B4E2EBB6CC376AA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 417,
+            "user_id": "B2E3F18B364B4E2EBB6CC376AA",
+            "regresado": false
+        }
+    ]
+}

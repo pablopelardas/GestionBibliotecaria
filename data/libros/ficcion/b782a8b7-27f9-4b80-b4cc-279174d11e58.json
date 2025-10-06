@@ -1,0 +1,16 @@
+{
+    "libro_id": "b782a8b7-27f9-4b80-b4cc-279174d11e58",
+    "isbn": "978-2-2361-3143-0",
+    "title": "Chair husband",
+    "autor": "Isabella Gilmore",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "6402F90B3B904BE0BA2FC258A0",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 107,
+            "user_id": "6402F90B3B904BE0BA2FC258A0",
+            "regresado": false
+        }
+    ]
+}

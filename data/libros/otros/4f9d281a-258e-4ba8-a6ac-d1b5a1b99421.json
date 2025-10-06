@@ -1,0 +1,10 @@
+{
+    "libro_id": "4f9d281a-258e-4ba8-a6ac-d1b5a1b99421",
+    "isbn": "978-8-7068-8935-3",
+    "title": "Magazine",
+    "autor": "Pamela Griffith",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

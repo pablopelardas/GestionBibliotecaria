@@ -1,0 +1,16 @@
+{
+    "libro_id": "31cb17fa-5f79-45c1-817f-539cc1517e8d",
+    "isbn": "978-3-3863-4352-3",
+    "title": "Successful us reduce",
+    "autor": "Angela Gray",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 47,
+            "user_id": "1FAF2E9586EE4823BD2A2F5B0D",
+            "regresado": true
+        }
+    ]
+}

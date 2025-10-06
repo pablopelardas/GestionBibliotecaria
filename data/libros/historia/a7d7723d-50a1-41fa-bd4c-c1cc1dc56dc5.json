@@ -1,0 +1,10 @@
+{
+    "libro_id": "a7d7723d-50a1-41fa-bd4c-c1cc1dc56dc5",
+    "isbn": "978-1-4097-9401-5",
+    "title": "According focus",
+    "autor": "Mrs. Shannon Barber",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

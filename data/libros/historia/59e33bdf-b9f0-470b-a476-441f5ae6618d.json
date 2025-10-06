@@ -1,0 +1,16 @@
+{
+    "libro_id": "59e33bdf-b9f0-470b-a476-441f5ae6618d",
+    "isbn": "978-4-4935-2441-0",
+    "title": "Official",
+    "autor": "Valerie Vazquez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "A31ACCD3BF72403EBCEC21AF2C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 297,
+            "user_id": "A31ACCD3BF72403EBCEC21AF2C",
+            "regresado": false
+        }
+    ]
+}

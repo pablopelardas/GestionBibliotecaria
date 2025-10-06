@@ -1,0 +1,16 @@
+{
+    "libro_id": "dc213aef-1d1d-4a14-a0e1-8ca6606f4aa1",
+    "isbn": "978-9-3834-2023-5",
+    "title": "Book",
+    "autor": "Jon Perkins",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "57F489AAE3C1434399672CDF03",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 157,
+            "user_id": "57F489AAE3C1434399672CDF03",
+            "regresado": false
+        }
+    ]
+}

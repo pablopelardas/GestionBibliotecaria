@@ -1,0 +1,10 @@
+{
+    "libro_id": "1b417751-cab7-468c-b4ae-63513e964b24",
+    "isbn": "978-8-2521-6776-8",
+    "title": "As skin recognize",
+    "autor": "Daniel Horton",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

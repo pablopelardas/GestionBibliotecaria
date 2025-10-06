@@ -1,0 +1,10 @@
+{
+    "libro_id": "ca1ddd5c-2f1d-4bf7-a9ae-125183b4ee79",
+    "isbn": "978-6-9891-7230-8",
+    "title": "Receive take",
+    "autor": "Karen Palmer",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "73c29c76-c876-4b04-a869-6165e2938b52",
+    "isbn": "978-8-6448-9007-1",
+    "title": "City cause",
+    "autor": "Preston Lopez",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 201,
+            "user_id": "026304B825E440FEA89A30A35F",
+            "regresado": true
+        }
+    ]
+}

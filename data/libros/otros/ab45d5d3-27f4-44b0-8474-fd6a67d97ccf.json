@@ -1,0 +1,16 @@
+{
+    "libro_id": "ab45d5d3-27f4-44b0-8474-fd6a67d97ccf",
+    "isbn": "978-4-3786-9531-0",
+    "title": "Field later stop",
+    "autor": "Meredith Henson",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "54D4E2A7E73641778B83DB1E0F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 481,
+            "user_id": "54D4E2A7E73641778B83DB1E0F",
+            "regresado": false
+        }
+    ]
+}

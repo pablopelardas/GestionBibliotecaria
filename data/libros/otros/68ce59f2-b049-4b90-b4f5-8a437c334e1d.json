@@ -1,0 +1,10 @@
+{
+    "libro_id": "68ce59f2-b049-4b90-b4f5-8a437c334e1d",
+    "isbn": "978-0-8076-7689-1",
+    "title": "Well",
+    "autor": "Kristopher Thomas",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

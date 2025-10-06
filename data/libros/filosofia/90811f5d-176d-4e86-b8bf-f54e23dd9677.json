@@ -1,0 +1,16 @@
+{
+    "libro_id": "90811f5d-176d-4e86-b8bf-f54e23dd9677",
+    "isbn": "978-8-4452-6539-5",
+    "title": "Special serve",
+    "autor": "Jennifer Sandoval",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "DCF6324C369440E0B0A08C402F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 116,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": false
+        }
+    ]
+}

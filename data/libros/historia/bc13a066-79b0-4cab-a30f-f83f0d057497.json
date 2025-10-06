@@ -1,0 +1,16 @@
+{
+    "libro_id": "bc13a066-79b0-4cab-a30f-f83f0d057497",
+    "isbn": "978-3-5037-4889-7",
+    "title": "Power this technology",
+    "autor": "Craig Walker",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 30,
+            "user_id": "9279E8467BF44EBB86518DD610",
+            "regresado": true
+        }
+    ]
+}

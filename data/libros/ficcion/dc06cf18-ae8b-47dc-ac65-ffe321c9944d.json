@@ -1,0 +1,10 @@
+{
+    "libro_id": "dc06cf18-ae8b-47dc-ac65-ffe321c9944d",
+    "isbn": "978-8-7066-4822-7",
+    "title": "Choice",
+    "autor": "Pamela Christian",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

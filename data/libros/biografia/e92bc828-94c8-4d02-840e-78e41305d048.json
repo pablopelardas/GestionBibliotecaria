@@ -1,0 +1,10 @@
+{
+    "libro_id": "e92bc828-94c8-4d02-840e-78e41305d048",
+    "isbn": "978-5-5441-5396-8",
+    "title": "Sense over",
+    "autor": "Charles Chen",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

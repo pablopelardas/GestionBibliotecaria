@@ -1,0 +1,10 @@
+{
+    "libro_id": "ca1d7733-26ae-4c21-8308-0bde11e22eee",
+    "isbn": "978-2-6381-8674-2",
+    "title": "Town alone",
+    "autor": "Angelica Martinez",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "898dd990-0d3e-433d-a535-a4966af654cf",
+    "isbn": "978-9-1633-8108-2",
+    "title": "Yourself east",
+    "autor": "Danielle Yates",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

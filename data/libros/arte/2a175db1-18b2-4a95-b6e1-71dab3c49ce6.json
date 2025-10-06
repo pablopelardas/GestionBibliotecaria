@@ -1,0 +1,16 @@
+{
+    "libro_id": "2a175db1-18b2-4a95-b6e1-71dab3c49ce6",
+    "isbn": "978-8-3052-8228-2",
+    "title": "None certain visit protect",
+    "autor": "Heather Espinoza",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "54D4E2A7E73641778B83DB1E0F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 288,
+            "user_id": "54D4E2A7E73641778B83DB1E0F",
+            "regresado": false
+        }
+    ]
+}

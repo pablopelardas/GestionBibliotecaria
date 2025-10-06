@@ -1,0 +1,10 @@
+{
+    "libro_id": "eab3585d-6290-418a-8cf8-747992f82ff0",
+    "isbn": "978-5-9348-5957-7",
+    "title": "Rather",
+    "autor": "Brandi Chandler",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

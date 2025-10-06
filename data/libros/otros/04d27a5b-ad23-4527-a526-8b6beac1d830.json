@@ -1,0 +1,10 @@
+{
+    "libro_id": "04d27a5b-ad23-4527-a526-8b6beac1d830",
+    "isbn": "978-7-8123-8665-2",
+    "title": "Finish thus easy exist",
+    "autor": "Jacqueline Washington",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

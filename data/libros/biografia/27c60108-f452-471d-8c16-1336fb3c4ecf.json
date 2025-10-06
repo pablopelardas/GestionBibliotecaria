@@ -1,0 +1,10 @@
+{
+    "libro_id": "27c60108-f452-471d-8c16-1336fb3c4ecf",
+    "isbn": "978-2-9964-5046-9",
+    "title": "Your between around",
+    "autor": "Richard Preston",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

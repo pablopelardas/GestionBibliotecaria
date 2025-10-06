@@ -1,0 +1,10 @@
+{
+    "libro_id": "93b504d4-64a3-4555-8eda-6ceb3eea1d43",
+    "isbn": "978-5-7968-7461-9",
+    "title": "Game next course",
+    "autor": "David Smith",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

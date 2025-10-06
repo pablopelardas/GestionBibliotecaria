@@ -1,0 +1,10 @@
+{
+    "libro_id": "42034483-3ebe-4e28-823b-88f52bd6c04f",
+    "isbn": "978-4-2821-6517-2",
+    "title": "First current its",
+    "autor": "Jason Smith",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

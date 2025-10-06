@@ -1,0 +1,10 @@
+{
+    "libro_id": "a35f4f00-41b0-4866-bc52-75425f4e3c7f",
+    "isbn": "978-8-8559-2738-4",
+    "title": "Computer",
+    "autor": "Ernest Baldwin",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

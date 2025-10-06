@@ -1,0 +1,16 @@
+{
+    "libro_id": "9bb0bf79-1a33-4f50-a61b-b295239fe4c9",
+    "isbn": "978-1-9014-7163-6",
+    "title": "Road and unit",
+    "autor": "Richard Hobbs",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 207,
+            "user_id": "E9F242D70BE340B9A8F9478C04",
+            "regresado": true
+        }
+    ]
+}

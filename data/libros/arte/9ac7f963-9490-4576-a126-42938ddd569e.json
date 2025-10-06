@@ -1,0 +1,10 @@
+{
+    "libro_id": "9ac7f963-9490-4576-a126-42938ddd569e",
+    "isbn": "978-8-9807-6405-3",
+    "title": "Citizen rise",
+    "autor": "David Mayer MD",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

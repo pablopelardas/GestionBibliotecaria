@@ -1,0 +1,16 @@
+{
+    "libro_id": "d1d20cb4-16d1-408d-ae34-81c72f4ac23e",
+    "isbn": "978-8-8101-3481-8",
+    "title": "Economic son decision",
+    "autor": "Brenda Franklin",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 158,
+            "user_id": "09CFD8519BB94A9B8AF30EF179",
+            "regresado": true
+        }
+    ]
+}

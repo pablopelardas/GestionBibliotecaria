@@ -1,0 +1,10 @@
+{
+    "libro_id": "ba0a1aa6-ce96-4ec5-af93-8969459093ea",
+    "isbn": "978-9-6517-1953-8",
+    "title": "Represent foot",
+    "autor": "Mr. Brian Brown MD",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

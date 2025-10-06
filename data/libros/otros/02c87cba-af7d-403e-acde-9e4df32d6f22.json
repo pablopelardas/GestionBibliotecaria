@@ -1,0 +1,10 @@
+{
+    "libro_id": "02c87cba-af7d-403e-acde-9e4df32d6f22",
+    "isbn": "978-2-9199-6798-0",
+    "title": "Leave drop",
+    "autor": "Robert White",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

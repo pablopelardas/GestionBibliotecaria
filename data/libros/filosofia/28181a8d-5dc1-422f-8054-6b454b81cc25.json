@@ -1,0 +1,16 @@
+{
+    "libro_id": "28181a8d-5dc1-422f-8054-6b454b81cc25",
+    "isbn": "978-2-9586-3163-0",
+    "title": "Hear",
+    "autor": "Brandon Edwards",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "61581C8DA34740FC9F3EDF6ACC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 292,
+            "user_id": "61581C8DA34740FC9F3EDF6ACC",
+            "regresado": false
+        }
+    ]
+}

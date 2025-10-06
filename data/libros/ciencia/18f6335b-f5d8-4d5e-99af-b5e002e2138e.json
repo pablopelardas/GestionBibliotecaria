@@ -1,0 +1,16 @@
+{
+    "libro_id": "18f6335b-f5d8-4d5e-99af-b5e002e2138e",
+    "isbn": "978-9-4008-7223-0",
+    "title": "Magazine",
+    "autor": "Bethany Arnold",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "51D6220460B144BA92E67E37E0",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 243,
+            "user_id": "51D6220460B144BA92E67E37E0",
+            "regresado": false
+        }
+    ]
+}

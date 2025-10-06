@@ -1,0 +1,10 @@
+{
+    "libro_id": "6444c2dd-de41-44bb-b2f7-ca948b06d684",
+    "isbn": "978-0-8574-4021-6",
+    "title": "Campaign door enter",
+    "autor": "Thomas Wright",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

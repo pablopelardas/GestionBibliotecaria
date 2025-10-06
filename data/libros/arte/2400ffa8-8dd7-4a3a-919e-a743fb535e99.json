@@ -1,0 +1,16 @@
+{
+    "libro_id": "2400ffa8-8dd7-4a3a-919e-a743fb535e99",
+    "isbn": "978-6-6562-7992-2",
+    "title": "Choice trial",
+    "autor": "Alison Harris",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "DA4ED621CEBF4827986EBD3492",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 468,
+            "user_id": "DA4ED621CEBF4827986EBD3492",
+            "regresado": false
+        }
+    ]
+}

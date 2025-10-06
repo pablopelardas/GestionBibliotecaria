@@ -1,0 +1,10 @@
+{
+    "libro_id": "cd65f9db-563c-4026-b6d1-5dede145102f",
+    "isbn": "978-1-4987-7142-6",
+    "title": "Thing ten group",
+    "autor": "Jeffrey Evans",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

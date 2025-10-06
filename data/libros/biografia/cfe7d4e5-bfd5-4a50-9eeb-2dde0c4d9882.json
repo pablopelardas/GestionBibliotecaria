@@ -1,0 +1,10 @@
+{
+    "libro_id": "cfe7d4e5-bfd5-4a50-9eeb-2dde0c4d9882",
+    "isbn": "978-3-4392-3165-4",
+    "title": "Could truth newspaper",
+    "autor": "Holly Andrade",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

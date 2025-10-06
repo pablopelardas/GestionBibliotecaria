@@ -1,0 +1,10 @@
+{
+    "libro_id": "8eaa0b18-2e06-4eee-a3ff-c4710fed84d1",
+    "isbn": "978-0-4325-6039-7",
+    "title": "Worry ten",
+    "autor": "Jasmine Martin",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

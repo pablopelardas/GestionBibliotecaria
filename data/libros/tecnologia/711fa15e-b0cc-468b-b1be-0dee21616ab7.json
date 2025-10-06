@@ -1,0 +1,10 @@
+{
+    "libro_id": "711fa15e-b0cc-468b-b1be-0dee21616ab7",
+    "isbn": "978-3-3797-9926-5",
+    "title": "Ok box",
+    "autor": "Victoria Wilson",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

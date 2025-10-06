@@ -1,0 +1,10 @@
+{
+    "libro_id": "f0fd0eba-0823-4466-8287-edc323c60a86",
+    "isbn": "978-9-1647-7724-0",
+    "title": "Pass letter paper",
+    "autor": "Kimberly Lawrence",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

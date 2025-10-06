@@ -1,0 +1,16 @@
+{
+    "libro_id": "088f9e30-4e12-477e-823e-cb356b38f2d4",
+    "isbn": "978-4-4957-1423-9",
+    "title": "Another send often",
+    "autor": "Ryan Harris",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 359,
+            "user_id": "9279E8467BF44EBB86518DD610",
+            "regresado": true
+        }
+    ]
+}

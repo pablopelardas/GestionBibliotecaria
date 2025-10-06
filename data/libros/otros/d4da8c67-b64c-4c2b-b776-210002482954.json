@@ -1,0 +1,16 @@
+{
+    "libro_id": "d4da8c67-b64c-4c2b-b776-210002482954",
+    "isbn": "978-2-1400-6342-8",
+    "title": "Thus group performance",
+    "autor": "Vanessa Roth",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "FB534B1B45B04423AE81B81E20",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 17,
+            "user_id": "FB534B1B45B04423AE81B81E20",
+            "regresado": false
+        }
+    ]
+}

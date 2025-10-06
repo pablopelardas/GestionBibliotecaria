@@ -1,0 +1,10 @@
+{
+    "libro_id": "80d0355f-873f-47a6-9039-61cc3cf11dd6",
+    "isbn": "978-9-7460-3627-5",
+    "title": "Fact first",
+    "autor": "Elizabeth Leon",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

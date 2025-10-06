@@ -1,0 +1,16 @@
+{
+    "libro_id": "f7adcfbc-85eb-4e49-b7f4-e35b1df475c4",
+    "isbn": "978-9-4134-7809-7",
+    "title": "Health",
+    "autor": "Stephanie Smith",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 35,
+            "user_id": "7BCF1C869A0E4104B1C845C034",
+            "regresado": true
+        }
+    ]
+}

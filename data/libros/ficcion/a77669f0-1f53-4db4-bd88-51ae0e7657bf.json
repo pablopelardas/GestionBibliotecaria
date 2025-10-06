@@ -1,0 +1,16 @@
+{
+    "libro_id": "a77669f0-1f53-4db4-bd88-51ae0e7657bf",
+    "isbn": "978-0-3601-7416-7",
+    "title": "Simply little order",
+    "autor": "Melissa Brown",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 32,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": true
+        }
+    ]
+}

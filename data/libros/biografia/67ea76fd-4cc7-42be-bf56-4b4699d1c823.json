@@ -1,0 +1,10 @@
+{
+    "libro_id": "67ea76fd-4cc7-42be-bf56-4b4699d1c823",
+    "isbn": "978-2-9494-1506-4",
+    "title": "East direction where nation",
+    "autor": "Matthew Hayden",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

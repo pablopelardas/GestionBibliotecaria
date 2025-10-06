@@ -1,0 +1,10 @@
+{
+    "libro_id": "826c4774-8d37-4b36-be39-21b330ef2b31",
+    "isbn": "978-0-3017-8527-3",
+    "title": "Agency it",
+    "autor": "Cynthia Johnston",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

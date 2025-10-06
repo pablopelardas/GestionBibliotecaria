@@ -1,0 +1,16 @@
+{
+    "libro_id": "1562fb62-3363-4628-9b7d-e817edfb1a15",
+    "isbn": "978-0-3943-1821-9",
+    "title": "We maintain recently",
+    "autor": "Debra Garcia",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "5BAA173F112F4620975D894230",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 293,
+            "user_id": "5BAA173F112F4620975D894230",
+            "regresado": false
+        }
+    ]
+}

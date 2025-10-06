@@ -1,0 +1,10 @@
+{
+    "libro_id": "54b4e7b0-1e76-4bb7-8330-dd378aeb92b8",
+    "isbn": "978-8-2746-5969-1",
+    "title": "Class show TV analysis",
+    "autor": "Kevin Love",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

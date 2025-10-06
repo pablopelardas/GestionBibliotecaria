@@ -1,0 +1,16 @@
+{
+    "libro_id": "8bcc622e-97b4-4792-a9f6-ee8ae8dbaf5b",
+    "isbn": "978-9-9836-4184-3",
+    "title": "Or meet",
+    "autor": "Bryan Parsons",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "706754AD9D264D579273BB5EDF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 540,
+            "user_id": "706754AD9D264D579273BB5EDF",
+            "regresado": false
+        }
+    ]
+}

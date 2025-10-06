@@ -1,0 +1,16 @@
+{
+    "libro_id": "b1fab8e1-bd5e-4844-8ff3-5a15355db831",
+    "isbn": "978-4-6800-1184-7",
+    "title": "Several air stay",
+    "autor": "Michael Caldwell",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "29F1A9D3828042D3987F1BE149",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 175,
+            "user_id": "29F1A9D3828042D3987F1BE149",
+            "regresado": false
+        }
+    ]
+}

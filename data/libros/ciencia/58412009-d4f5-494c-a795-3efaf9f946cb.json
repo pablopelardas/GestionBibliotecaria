@@ -1,0 +1,16 @@
+{
+    "libro_id": "58412009-d4f5-494c-a795-3efaf9f946cb",
+    "isbn": "978-9-1090-2521-0",
+    "title": "Role participant show",
+    "autor": "Phillip Williams",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "7706C700D1DD4D8AA0AF147067",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 94,
+            "user_id": "7706C700D1DD4D8AA0AF147067",
+            "regresado": false
+        }
+    ]
+}

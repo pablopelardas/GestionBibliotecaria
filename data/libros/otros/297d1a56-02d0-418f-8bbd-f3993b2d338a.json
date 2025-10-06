@@ -1,0 +1,16 @@
+{
+    "libro_id": "297d1a56-02d0-418f-8bbd-f3993b2d338a",
+    "isbn": "978-7-5879-6195-1",
+    "title": "Great talk",
+    "autor": "Gina Stevenson",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "BE0B489ACC04420B9223A4A2EE",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 23,
+            "user_id": "BE0B489ACC04420B9223A4A2EE",
+            "regresado": false
+        }
+    ]
+}

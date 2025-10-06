@@ -1,0 +1,16 @@
+{
+    "libro_id": "d49e1671-d093-45f5-b281-33064fac0465",
+    "isbn": "978-5-5572-1308-2",
+    "title": "Treat its phone",
+    "autor": "Natalie Lambert",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "4E165275D3A9403AB8E554CFE8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 278,
+            "user_id": "4E165275D3A9403AB8E554CFE8",
+            "regresado": false
+        }
+    ]
+}

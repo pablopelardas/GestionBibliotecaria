@@ -1,0 +1,10 @@
+{
+    "libro_id": "20b2ccf9-844e-4d7f-b593-c3b172f58b4b",
+    "isbn": "978-3-5610-8685-3",
+    "title": "Beyond Republican example",
+    "autor": "Justin Scott",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

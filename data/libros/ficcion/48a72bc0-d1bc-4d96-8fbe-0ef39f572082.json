@@ -1,0 +1,16 @@
+{
+    "libro_id": "48a72bc0-d1bc-4d96-8fbe-0ef39f572082",
+    "isbn": "978-6-5738-4472-9",
+    "title": "Face option fire",
+    "autor": "Patricia Rodgers",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 27,
+            "user_id": "B6BDEDF7AC21435992E27C96CE",
+            "regresado": true
+        }
+    ]
+}

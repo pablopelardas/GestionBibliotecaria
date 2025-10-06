@@ -1,0 +1,10 @@
+{
+    "libro_id": "ec021726-cdab-4f78-8f3a-7cdd1b8a085a",
+    "isbn": "978-5-9101-2341-4",
+    "title": "Often travel per",
+    "autor": "Jeffrey Winters",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

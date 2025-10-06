@@ -1,0 +1,16 @@
+{
+    "libro_id": "ae19ce4f-5f3c-4b0a-bb86-76f8d97535ce",
+    "isbn": "978-2-9513-1805-6",
+    "title": "Computer method",
+    "autor": "Brian Roberts",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "CFDD809CD4934208B491EB1981",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 435,
+            "user_id": "CFDD809CD4934208B491EB1981",
+            "regresado": false
+        }
+    ]
+}

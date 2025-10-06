@@ -1,0 +1,16 @@
+{
+    "libro_id": "d4c21535-93f9-491b-af92-955a54e67d4c",
+    "isbn": "978-4-2879-2971-3",
+    "title": "Next necessary direction",
+    "autor": "Jared Robinson",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "60CF46FA41904722A9C6FF44BD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 40,
+            "user_id": "60CF46FA41904722A9C6FF44BD",
+            "regresado": false
+        }
+    ]
+}

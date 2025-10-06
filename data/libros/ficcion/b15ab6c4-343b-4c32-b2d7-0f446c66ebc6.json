@@ -1,0 +1,10 @@
+{
+    "libro_id": "b15ab6c4-343b-4c32-b2d7-0f446c66ebc6",
+    "isbn": "978-7-8507-7875-8",
+    "title": "Summer point by who",
+    "autor": "Robert Holland",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

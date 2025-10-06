@@ -1,0 +1,16 @@
+{
+    "libro_id": "1c80d85e-8dc6-40ee-b5a6-faadc3e2487e",
+    "isbn": "978-4-8595-6566-5",
+    "title": "Or part",
+    "autor": "Michael Jackson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 386,
+            "user_id": "4A287A0AFB6A404D889019B02E",
+            "regresado": true
+        }
+    ]
+}

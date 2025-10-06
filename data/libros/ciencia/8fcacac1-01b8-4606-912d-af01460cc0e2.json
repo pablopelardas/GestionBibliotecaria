@@ -1,0 +1,16 @@
+{
+    "libro_id": "8fcacac1-01b8-4606-912d-af01460cc0e2",
+    "isbn": "978-8-4869-2806-9",
+    "title": "Already marriage",
+    "autor": "Tim White",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 125,
+            "user_id": "16E3B0C221A544BEB5A9638C61",
+            "regresado": true
+        }
+    ]
+}

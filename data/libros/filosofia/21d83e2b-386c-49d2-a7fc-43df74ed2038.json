@@ -1,0 +1,16 @@
+{
+    "libro_id": "21d83e2b-386c-49d2-a7fc-43df74ed2038",
+    "isbn": "978-2-3127-1651-9",
+    "title": "Natural population",
+    "autor": "Raymond Washington",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 423,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

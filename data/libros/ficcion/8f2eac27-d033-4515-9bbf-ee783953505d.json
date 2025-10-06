@@ -1,0 +1,10 @@
+{
+    "libro_id": "8f2eac27-d033-4515-9bbf-ee783953505d",
+    "isbn": "978-4-7397-5046-6",
+    "title": "Space direction",
+    "autor": "Keith Patterson",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

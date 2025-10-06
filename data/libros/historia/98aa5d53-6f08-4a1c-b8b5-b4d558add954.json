@@ -1,0 +1,10 @@
+{
+    "libro_id": "98aa5d53-6f08-4a1c-b8b5-b4d558add954",
+    "isbn": "978-0-8734-6454-3",
+    "title": "His notice",
+    "autor": "Mr. Scott Jefferson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

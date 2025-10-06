@@ -1,0 +1,16 @@
+{
+    "libro_id": "1d7f2776-d467-417e-ac2e-5837a613781f",
+    "isbn": "978-4-4704-5256-9",
+    "title": "She",
+    "autor": "Roger Hill",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 267,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": true
+        }
+    ]
+}

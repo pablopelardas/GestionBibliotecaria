@@ -1,0 +1,16 @@
+{
+    "libro_id": "fea5b301-7bfe-4001-9138-d5dc244b70ba",
+    "isbn": "978-9-9012-9735-8",
+    "title": "Enough trial nearly",
+    "autor": "April Jones",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 486,
+            "user_id": "5F7A3BB3DEB340B68A230E2016",
+            "regresado": true
+        }
+    ]
+}

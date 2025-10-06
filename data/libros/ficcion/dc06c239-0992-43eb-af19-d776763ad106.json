@@ -1,0 +1,16 @@
+{
+    "libro_id": "dc06c239-0992-43eb-af19-d776763ad106",
+    "isbn": "978-2-3367-1539-1",
+    "title": "History upon material just",
+    "autor": "Barbara Berg",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 519,
+            "user_id": "F2E6B07D4DFD4D0DAF10E17650",
+            "regresado": true
+        }
+    ]
+}

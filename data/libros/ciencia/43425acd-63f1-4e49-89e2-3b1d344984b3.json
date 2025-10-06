@@ -1,0 +1,16 @@
+{
+    "libro_id": "43425acd-63f1-4e49-89e2-3b1d344984b3",
+    "isbn": "978-6-9057-8815-3",
+    "title": "Report",
+    "autor": "Michael Barnett",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 145,
+            "user_id": "962D95186FC843599F87B947B2",
+            "regresado": true
+        }
+    ]
+}

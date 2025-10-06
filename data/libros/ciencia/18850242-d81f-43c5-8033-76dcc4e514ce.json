@@ -1,0 +1,16 @@
+{
+    "libro_id": "18850242-d81f-43c5-8033-76dcc4e514ce",
+    "isbn": "978-0-2253-1015-7",
+    "title": "Next",
+    "autor": "Brandi Lee",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "C64060620B1D4FC1996C933714",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 39,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": false
+        }
+    ]
+}

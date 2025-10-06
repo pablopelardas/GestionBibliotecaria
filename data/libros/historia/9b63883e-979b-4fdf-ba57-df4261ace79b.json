@@ -1,0 +1,10 @@
+{
+    "libro_id": "9b63883e-979b-4fdf-ba57-df4261ace79b",
+    "isbn": "978-8-6424-6054-8",
+    "title": "Well card most",
+    "autor": "Kelly Chen",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

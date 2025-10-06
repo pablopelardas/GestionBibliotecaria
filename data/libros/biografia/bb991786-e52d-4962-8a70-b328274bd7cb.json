@@ -1,0 +1,16 @@
+{
+    "libro_id": "bb991786-e52d-4962-8a70-b328274bd7cb",
+    "isbn": "978-4-6192-3342-4",
+    "title": "Natural none",
+    "autor": "Wayne Johnson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "4C6DBEDD0344441B9F80F9656A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 384,
+            "user_id": "4C6DBEDD0344441B9F80F9656A",
+            "regresado": false
+        }
+    ]
+}

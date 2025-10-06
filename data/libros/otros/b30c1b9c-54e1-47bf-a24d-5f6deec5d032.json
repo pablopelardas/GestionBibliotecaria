@@ -1,0 +1,16 @@
+{
+    "libro_id": "b30c1b9c-54e1-47bf-a24d-5f6deec5d032",
+    "isbn": "978-1-6130-8780-7",
+    "title": "Condition responsibility when",
+    "autor": "Brent Thomas",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "EE8C862675EB49348D1AA21B65",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 510,
+            "user_id": "EE8C862675EB49348D1AA21B65",
+            "regresado": false
+        }
+    ]
+}

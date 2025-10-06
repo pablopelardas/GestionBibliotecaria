@@ -1,0 +1,16 @@
+{
+    "libro_id": "75c91e7f-305a-4e72-9270-da6b80e74241",
+    "isbn": "978-1-4843-5620-7",
+    "title": "Month may try",
+    "autor": "Darryl Bishop",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "6868CE1ABC5B4B1E85FB211789",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 55,
+            "user_id": "6868CE1ABC5B4B1E85FB211789",
+            "regresado": false
+        }
+    ]
+}

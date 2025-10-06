@@ -1,0 +1,10 @@
+{
+    "libro_id": "7a2a5eb7-e92f-4819-97a6-f3aae39daf15",
+    "isbn": "978-0-9082-6641-6",
+    "title": "Film many",
+    "autor": "Bryan Flores",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

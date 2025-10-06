@@ -1,0 +1,10 @@
+{
+    "libro_id": "3ba38076-7b12-4835-9d4b-663bdde6f58b",
+    "isbn": "978-6-7513-9606-1",
+    "title": "Home story",
+    "autor": "Patricia Frye",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

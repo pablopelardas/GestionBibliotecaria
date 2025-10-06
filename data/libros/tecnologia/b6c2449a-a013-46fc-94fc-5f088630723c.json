@@ -1,0 +1,16 @@
+{
+    "libro_id": "b6c2449a-a013-46fc-94fc-5f088630723c",
+    "isbn": "978-6-1641-8473-1",
+    "title": "Raise game",
+    "autor": "Samuel Miller",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 28,
+            "user_id": "FB24B3E739694195B3A6C2F825",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "de67284c-4009-429d-93f7-ecb20c1d76b1",
+    "isbn": "978-8-7915-2257-4",
+    "title": "Foreign hot",
+    "autor": "Terry Kelly",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 239,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "26538a99-2d3f-47e0-a126-ed65f3f6d27d",
+    "isbn": "978-9-3183-2226-3",
+    "title": "Bed major social",
+    "autor": "Bruce Santiago",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

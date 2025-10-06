@@ -1,0 +1,16 @@
+{
+    "libro_id": "ff02cae9-8375-41e1-aae2-b44967759c26",
+    "isbn": "978-8-7404-9010-9",
+    "title": "Century man manager",
+    "autor": "Jennifer Washington",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "B218C2FBACAF4F4E858008BB2D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 212,
+            "user_id": "B218C2FBACAF4F4E858008BB2D",
+            "regresado": false
+        }
+    ]
+}

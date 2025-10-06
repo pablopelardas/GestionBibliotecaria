@@ -1,0 +1,10 @@
+{
+    "libro_id": "1514e46c-3d83-4add-a550-5c8337f5d8da",
+    "isbn": "978-3-5710-5528-4",
+    "title": "Author or democratic",
+    "autor": "Juan White",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

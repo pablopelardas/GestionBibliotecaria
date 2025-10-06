@@ -1,0 +1,16 @@
+{
+    "libro_id": "0b89895e-13c4-4275-a028-e2bcb3c00cac",
+    "isbn": "978-5-2596-6107-2",
+    "title": "South small",
+    "autor": "Bradley Morales",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 34,
+            "user_id": "4C6DBEDD0344441B9F80F9656A",
+            "regresado": true
+        }
+    ]
+}

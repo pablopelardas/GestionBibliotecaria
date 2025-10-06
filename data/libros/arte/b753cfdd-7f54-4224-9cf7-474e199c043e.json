@@ -1,0 +1,16 @@
+{
+    "libro_id": "b753cfdd-7f54-4224-9cf7-474e199c043e",
+    "isbn": "978-2-7616-9126-9",
+    "title": "Character quickly",
+    "autor": "Steven Day",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 167,
+            "user_id": "D99F0399148E46CA8D60620FC9",
+            "regresado": true
+        }
+    ]
+}

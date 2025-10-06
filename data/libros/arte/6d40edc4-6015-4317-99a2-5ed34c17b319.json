@@ -1,0 +1,10 @@
+{
+    "libro_id": "6d40edc4-6015-4317-99a2-5ed34c17b319",
+    "isbn": "978-5-2840-9798-8",
+    "title": "Store particularly",
+    "autor": "Timothy Wright",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

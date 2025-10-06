@@ -1,0 +1,10 @@
+{
+    "libro_id": "46b66fd4-4d70-4d4e-8ecc-fa754ec86a92",
+    "isbn": "978-7-5993-2449-2",
+    "title": "Address land same",
+    "autor": "Gwendolyn Krause",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "d7935491-4872-4c33-a319-edafde9bc8bd",
+    "isbn": "978-8-4406-3580-4",
+    "title": "Enough",
+    "autor": "Tracy Schwartz",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "F4CA2B77F8354BCEB240E6D644",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 68,
+            "user_id": "F4CA2B77F8354BCEB240E6D644",
+            "regresado": false
+        }
+    ]
+}

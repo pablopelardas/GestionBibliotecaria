@@ -1,0 +1,10 @@
+{
+    "libro_id": "a062c080-bd75-44f7-84e7-7283ca94913b",
+    "isbn": "978-1-2003-3217-1",
+    "title": "Eat recognize phone",
+    "autor": "Cameron Brown",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "b94fd832-10da-41bc-9e5b-b9c7af2090c3",
+    "isbn": "978-6-4820-4848-8",
+    "title": "Expert cause",
+    "autor": "Wayne Quinn",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

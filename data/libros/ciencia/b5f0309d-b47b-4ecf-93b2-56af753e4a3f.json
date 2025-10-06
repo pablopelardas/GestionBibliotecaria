@@ -1,0 +1,10 @@
+{
+    "libro_id": "b5f0309d-b47b-4ecf-93b2-56af753e4a3f",
+    "isbn": "978-5-5262-3007-2",
+    "title": "Popular",
+    "autor": "Angel Long",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "5c4ede39-22cf-4fca-ad43-deed828f7abc",
+    "isbn": "978-3-9769-9708-2",
+    "title": "Company car",
+    "autor": "Susan Carpenter",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "B335749ED77C42D586B2E8F00B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 271,
+            "user_id": "B335749ED77C42D586B2E8F00B",
+            "regresado": false
+        }
+    ]
+}

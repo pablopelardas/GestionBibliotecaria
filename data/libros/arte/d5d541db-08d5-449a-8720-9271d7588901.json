@@ -1,0 +1,16 @@
+{
+    "libro_id": "d5d541db-08d5-449a-8720-9271d7588901",
+    "isbn": "978-2-9504-1085-0",
+    "title": "Wide difficult",
+    "autor": "Jared Ray",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "4F3B86325139443D88EA354FFC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 466,
+            "user_id": "4F3B86325139443D88EA354FFC",
+            "regresado": false
+        }
+    ]
+}

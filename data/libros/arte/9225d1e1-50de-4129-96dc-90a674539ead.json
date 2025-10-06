@@ -1,0 +1,10 @@
+{
+    "libro_id": "9225d1e1-50de-4129-96dc-90a674539ead",
+    "isbn": "978-6-8356-3274-6",
+    "title": "Herself series",
+    "autor": "Mr. Alexander Richards MD",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

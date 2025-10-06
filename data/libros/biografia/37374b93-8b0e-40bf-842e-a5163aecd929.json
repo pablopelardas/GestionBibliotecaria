@@ -1,0 +1,10 @@
+{
+    "libro_id": "37374b93-8b0e-40bf-842e-a5163aecd929",
+    "isbn": "978-7-7748-5248-7",
+    "title": "Out enter how",
+    "autor": "Craig Miller",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

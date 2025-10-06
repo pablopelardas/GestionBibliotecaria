@@ -1,0 +1,10 @@
+{
+    "libro_id": "ddd968a7-18e6-4141-b012-6b76dbee6dc7",
+    "isbn": "978-9-3182-8329-0",
+    "title": "Region view stock",
+    "autor": "Nicole Henry",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

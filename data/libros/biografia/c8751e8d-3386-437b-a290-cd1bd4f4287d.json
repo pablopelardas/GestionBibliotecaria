@@ -1,0 +1,10 @@
+{
+    "libro_id": "c8751e8d-3386-437b-a290-cd1bd4f4287d",
+    "isbn": "978-9-1670-3393-4",
+    "title": "Tend determine fact",
+    "autor": "Micheal Meyer",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

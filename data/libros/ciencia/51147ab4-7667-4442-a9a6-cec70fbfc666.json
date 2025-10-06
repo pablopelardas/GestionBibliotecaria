@@ -1,0 +1,10 @@
+{
+    "libro_id": "51147ab4-7667-4442-a9a6-cec70fbfc666",
+    "isbn": "978-4-5606-7440-4",
+    "title": "Science anyone hundred have",
+    "autor": "Jeffrey Gibson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

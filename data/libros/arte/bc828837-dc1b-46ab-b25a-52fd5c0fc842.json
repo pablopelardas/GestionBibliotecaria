@@ -1,0 +1,16 @@
+{
+    "libro_id": "bc828837-dc1b-46ab-b25a-52fd5c0fc842",
+    "isbn": "978-1-1193-2275-4",
+    "title": "Senior evidence",
+    "autor": "Michael Alexander",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "D78F91731FB34B9FB6F69C29FB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 401,
+            "user_id": "D78F91731FB34B9FB6F69C29FB",
+            "regresado": false
+        }
+    ]
+}

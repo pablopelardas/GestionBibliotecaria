@@ -1,0 +1,10 @@
+{
+    "libro_id": "88bac149-ae93-4e0a-b937-b1af89c0bb66",
+    "isbn": "978-9-3052-9942-2",
+    "title": "True live Mrs",
+    "autor": "David Hopkins",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

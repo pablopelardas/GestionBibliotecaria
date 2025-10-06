@@ -1,0 +1,16 @@
+{
+    "libro_id": "88f84609-fa76-470a-9657-12f5b578aa49",
+    "isbn": "978-4-9418-9715-2",
+    "title": "Nor firm",
+    "autor": "Sonya Morgan",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "29F1A9D3828042D3987F1BE149",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 93,
+            "user_id": "29F1A9D3828042D3987F1BE149",
+            "regresado": false
+        }
+    ]
+}

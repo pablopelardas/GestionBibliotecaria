@@ -1,0 +1,16 @@
+{
+    "libro_id": "b947dd87-de1b-455d-85ed-d50faa11a5ec",
+    "isbn": "978-9-6802-8474-5",
+    "title": "Executive",
+    "autor": "Michael Shepherd",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "7706C700D1DD4D8AA0AF147067",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 200,
+            "user_id": "7706C700D1DD4D8AA0AF147067",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "eb5c13e9-d415-442b-a17a-77c858bc7a31",
+    "isbn": "978-0-1322-5963-7",
+    "title": "Book clearly",
+    "autor": "Timothy Ellison",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "13A278C776CA4C3CB5EE5753F2",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 260,
+            "user_id": "13A278C776CA4C3CB5EE5753F2",
+            "regresado": false
+        }
+    ]
+}

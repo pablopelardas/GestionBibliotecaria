@@ -1,0 +1,16 @@
+{
+    "libro_id": "c8227c78-57e3-40bd-b47f-cf3ea4b6f9cd",
+    "isbn": "978-1-6762-7177-7",
+    "title": "Democratic there green",
+    "autor": "Chad Potter",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "4FCB77F9D2F24B78896AE21221",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 365,
+            "user_id": "4FCB77F9D2F24B78896AE21221",
+            "regresado": false
+        }
+    ]
+}

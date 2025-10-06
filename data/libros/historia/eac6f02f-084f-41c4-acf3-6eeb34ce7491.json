@@ -1,0 +1,16 @@
+{
+    "libro_id": "eac6f02f-084f-41c4-acf3-6eeb34ce7491",
+    "isbn": "978-9-6477-7972-3",
+    "title": "Whatever street find",
+    "autor": "Amber Horton",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 277,
+            "user_id": "AE18A863D5E84C179840249EE4",
+            "regresado": true
+        }
+    ]
+}

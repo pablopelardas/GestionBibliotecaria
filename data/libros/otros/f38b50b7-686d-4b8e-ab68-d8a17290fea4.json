@@ -1,0 +1,16 @@
+{
+    "libro_id": "f38b50b7-686d-4b8e-ab68-d8a17290fea4",
+    "isbn": "978-8-7851-8226-2",
+    "title": "Practice couple reduce",
+    "autor": "Bonnie Brown",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "958B471A0278479FB92D30E77E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 525,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": false
+        }
+    ]
+}

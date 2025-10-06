@@ -1,0 +1,10 @@
+{
+    "libro_id": "b139b431-553c-4ff3-8202-78eb164138b6",
+    "isbn": "978-0-9664-3341-5",
+    "title": "Situation head red",
+    "autor": "Robert Sanchez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

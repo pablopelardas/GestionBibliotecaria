@@ -1,0 +1,10 @@
+{
+    "libro_id": "05215e37-1674-41cc-8b12-5080cc88e3f1",
+    "isbn": "978-7-8371-4832-7",
+    "title": "There live",
+    "autor": "Laura Keller",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "819a5656-fb4a-490b-bfec-9942c3100e59",
+    "isbn": "978-8-2128-5993-8",
+    "title": "Behind structure",
+    "autor": "Ariel Gates",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 161,
+            "user_id": "44584EFE00364346B2B6931026",
+            "regresado": true
+        }
+    ]
+}

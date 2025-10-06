@@ -1,0 +1,16 @@
+{
+    "libro_id": "1c438117-aeeb-46f5-9fb8-6ab4ccfcc694",
+    "isbn": "978-4-9164-6465-0",
+    "title": "Community expert grow",
+    "autor": "Gregory Peterson",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "1A06FE496C7546BBACA298939D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 528,
+            "user_id": "1A06FE496C7546BBACA298939D",
+            "regresado": false
+        }
+    ]
+}

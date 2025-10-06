@@ -1,0 +1,16 @@
+{
+    "libro_id": "8336b6de-e278-423c-87dd-00e14ec9587e",
+    "isbn": "978-3-7463-3166-2",
+    "title": "Actually drop everyone",
+    "autor": "Shelly Mosley",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "5C9D2B1017424AAFBA2A0AFDEC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 389,
+            "user_id": "5C9D2B1017424AAFBA2A0AFDEC",
+            "regresado": false
+        }
+    ]
+}

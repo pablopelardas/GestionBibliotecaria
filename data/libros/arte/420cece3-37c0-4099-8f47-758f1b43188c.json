@@ -1,0 +1,16 @@
+{
+    "libro_id": "420cece3-37c0-4099-8f47-758f1b43188c",
+    "isbn": "978-8-9292-1876-1",
+    "title": "Defense thing",
+    "autor": "Jonathan Mack",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "6B52BF9F8DF5434AB52B3224C6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 115,
+            "user_id": "6B52BF9F8DF5434AB52B3224C6",
+            "regresado": false
+        }
+    ]
+}

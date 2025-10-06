@@ -1,0 +1,16 @@
+{
+    "libro_id": "d383c2cd-5123-4f1d-9ca6-254bc572b25d",
+    "isbn": "978-2-5994-9319-5",
+    "title": "No total step",
+    "autor": "Andrew Lynch",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "1FAF2E9586EE4823BD2A2F5B0D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 281,
+            "user_id": "1FAF2E9586EE4823BD2A2F5B0D",
+            "regresado": false
+        }
+    ]
+}

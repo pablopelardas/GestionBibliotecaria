@@ -1,0 +1,16 @@
+{
+    "libro_id": "2c58d53c-7780-4fb6-8806-c00ae2632e29",
+    "isbn": "978-0-3791-2686-0",
+    "title": "Audience because when more",
+    "autor": "John Turner",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "72D796946F1E480E819BC86267",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 372,
+            "user_id": "72D796946F1E480E819BC86267",
+            "regresado": false
+        }
+    ]
+}

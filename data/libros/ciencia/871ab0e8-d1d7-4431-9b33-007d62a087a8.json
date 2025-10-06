@@ -1,0 +1,10 @@
+{
+    "libro_id": "871ab0e8-d1d7-4431-9b33-007d62a087a8",
+    "isbn": "978-4-4607-1587-3",
+    "title": "One war pattern",
+    "autor": "Paul Sullivan",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

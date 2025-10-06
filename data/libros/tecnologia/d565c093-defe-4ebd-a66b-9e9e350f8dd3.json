@@ -1,0 +1,16 @@
+{
+    "libro_id": "d565c093-defe-4ebd-a66b-9e9e350f8dd3",
+    "isbn": "978-0-8766-5833-4",
+    "title": "Special give deal",
+    "autor": "Jermaine Smith",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 64,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": true
+        }
+    ]
+}

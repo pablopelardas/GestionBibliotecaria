@@ -1,0 +1,16 @@
+{
+    "libro_id": "45ce8e95-cca7-45b3-b448-af5080d26c06",
+    "isbn": "978-9-9394-2110-8",
+    "title": "Sort price campaign",
+    "autor": "Brett Escobar",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 501,
+            "user_id": "DFCE627A2B44481CB715B0287D",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "cdad11f2-f59c-4874-8678-194ea6ebf0a6",
+    "isbn": "978-4-8908-3941-5",
+    "title": "Yet place second",
+    "autor": "Molly Jones",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

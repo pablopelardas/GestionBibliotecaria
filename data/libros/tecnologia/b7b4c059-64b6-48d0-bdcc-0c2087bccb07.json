@@ -1,0 +1,16 @@
+{
+    "libro_id": "b7b4c059-64b6-48d0-bdcc-0c2087bccb07",
+    "isbn": "978-9-8715-9376-4",
+    "title": "Child debate deal",
+    "autor": "Sheila Nelson",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "32326E571C2F47B591C821C1FD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 192,
+            "user_id": "32326E571C2F47B591C821C1FD",
+            "regresado": false
+        }
+    ]
+}

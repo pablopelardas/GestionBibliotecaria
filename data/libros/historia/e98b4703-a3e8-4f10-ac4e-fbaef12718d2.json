@@ -1,0 +1,16 @@
+{
+    "libro_id": "e98b4703-a3e8-4f10-ac4e-fbaef12718d2",
+    "isbn": "978-1-7344-5863-6",
+    "title": "Chance",
+    "autor": "Brandon Lee",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "16E3B0C221A544BEB5A9638C61",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 391,
+            "user_id": "16E3B0C221A544BEB5A9638C61",
+            "regresado": false
+        }
+    ]
+}

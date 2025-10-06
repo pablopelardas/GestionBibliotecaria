@@ -1,0 +1,10 @@
+{
+    "libro_id": "eb971693-e699-407a-b3d3-23af49243c34",
+    "isbn": "978-0-4002-1390-9",
+    "title": "Half foot child ago",
+    "autor": "Patricia Horton",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

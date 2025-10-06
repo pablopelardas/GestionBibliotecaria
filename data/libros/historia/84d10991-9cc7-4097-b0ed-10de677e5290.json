@@ -1,0 +1,10 @@
+{
+    "libro_id": "84d10991-9cc7-4097-b0ed-10de677e5290",
+    "isbn": "978-0-7548-9311-4",
+    "title": "Boy understand thing produce",
+    "autor": "Mr. Collin Becker",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

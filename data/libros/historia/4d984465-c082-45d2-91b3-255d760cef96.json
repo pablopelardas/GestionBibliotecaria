@@ -1,0 +1,16 @@
+{
+    "libro_id": "4d984465-c082-45d2-91b3-255d760cef96",
+    "isbn": "978-9-7928-9614-5",
+    "title": "Father role",
+    "autor": "Diane Shea",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "C7991018051D496482944B2727",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 265,
+            "user_id": "C7991018051D496482944B2727",
+            "regresado": false
+        }
+    ]
+}

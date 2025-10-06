@@ -1,0 +1,16 @@
+{
+    "libro_id": "27d4bd8e-143f-4668-9ad7-b2eff43de7a6",
+    "isbn": "978-8-1791-7384-1",
+    "title": "Truth",
+    "autor": "Margaret Hogan",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "C9521263DB99407B986774D810",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 368,
+            "user_id": "C9521263DB99407B986774D810",
+            "regresado": false
+        }
+    ]
+}

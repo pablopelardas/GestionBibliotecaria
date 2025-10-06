@@ -1,0 +1,10 @@
+{
+    "libro_id": "aebf2a3e-ed13-40c1-a70c-3482a8f431e6",
+    "isbn": "978-5-6447-9672-4",
+    "title": "Make drive",
+    "autor": "Dylan Huang",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

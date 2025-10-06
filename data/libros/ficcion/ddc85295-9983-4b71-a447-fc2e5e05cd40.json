@@ -1,0 +1,16 @@
+{
+    "libro_id": "ddc85295-9983-4b71-a447-fc2e5e05cd40",
+    "isbn": "978-3-4757-1900-3",
+    "title": "Read protect something",
+    "autor": "Elizabeth Norton",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 149,
+            "user_id": "4F3B86325139443D88EA354FFC",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "fc9f8557-c655-4dca-b67e-5eb634483fe1",
+    "isbn": "978-0-9603-7006-3",
+    "title": "Product modern how",
+    "autor": "Richard Chapman",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "9F6CFC809911417E9BA852361C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 498,
+            "user_id": "9F6CFC809911417E9BA852361C",
+            "regresado": false
+        }
+    ]
+}

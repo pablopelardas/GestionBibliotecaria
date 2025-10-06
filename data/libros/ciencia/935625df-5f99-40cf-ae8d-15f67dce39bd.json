@@ -1,0 +1,16 @@
+{
+    "libro_id": "935625df-5f99-40cf-ae8d-15f67dce39bd",
+    "isbn": "978-4-1068-6340-8",
+    "title": "Color old",
+    "autor": "Dawn Pennington",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "C64060620B1D4FC1996C933714",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 311,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": false
+        }
+    ]
+}

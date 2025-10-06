@@ -1,0 +1,16 @@
+{
+    "libro_id": "39ff0072-2443-4b7e-b1c2-3adca5100700",
+    "isbn": "978-0-4794-6066-1",
+    "title": "Bring she heart",
+    "autor": "Kenneth Watson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "B218C2FBACAF4F4E858008BB2D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 166,
+            "user_id": "B218C2FBACAF4F4E858008BB2D",
+            "regresado": false
+        }
+    ]
+}

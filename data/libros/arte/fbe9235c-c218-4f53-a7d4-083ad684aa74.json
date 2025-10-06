@@ -1,0 +1,10 @@
+{
+    "libro_id": "fbe9235c-c218-4f53-a7d4-083ad684aa74",
+    "isbn": "978-1-6266-8926-6",
+    "title": "Fund along add situation",
+    "autor": "Pamela Gutierrez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

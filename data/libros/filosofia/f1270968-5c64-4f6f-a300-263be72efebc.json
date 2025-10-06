@@ -1,0 +1,16 @@
+{
+    "libro_id": "f1270968-5c64-4f6f-a300-263be72efebc",
+    "isbn": "978-5-8573-9976-2",
+    "title": "First surface",
+    "autor": "Christina Ross",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 369,
+            "user_id": "F1A90A4DD07946FF8FC57E5554",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a47e98de-b7e3-42b8-9ccf-79144c41fb97",
+    "isbn": "978-6-2613-5819-6",
+    "title": "Not measure protect",
+    "autor": "Susan Tucker",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "05AE42E97CC2462F89AD9689C5",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 80,
+            "user_id": "05AE42E97CC2462F89AD9689C5",
+            "regresado": false
+        }
+    ]
+}

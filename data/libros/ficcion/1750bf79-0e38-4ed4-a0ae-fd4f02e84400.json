@@ -1,0 +1,16 @@
+{
+    "libro_id": "1750bf79-0e38-4ed4-a0ae-fd4f02e84400",
+    "isbn": "978-8-3092-2183-4",
+    "title": "Modern",
+    "autor": "Barbara Hernandez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "09F1275F903F4F1B8F53D77E11",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 159,
+            "user_id": "09F1275F903F4F1B8F53D77E11",
+            "regresado": false
+        }
+    ]
+}

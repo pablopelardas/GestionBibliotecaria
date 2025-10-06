@@ -1,0 +1,10 @@
+{
+    "libro_id": "7b546ed8-4d38-4989-819c-b88c97661b5d",
+    "isbn": "978-9-6779-8179-1",
+    "title": "Hospital next avoid",
+    "autor": "Robert Porter",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "40ad8c0d-c50e-482a-bec6-f3c958d07d9e",
+    "isbn": "978-4-1494-9324-4",
+    "title": "Blood leader",
+    "autor": "Donna Collins",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

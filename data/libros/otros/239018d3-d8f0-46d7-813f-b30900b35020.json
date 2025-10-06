@@ -1,0 +1,10 @@
+{
+    "libro_id": "239018d3-d8f0-46d7-813f-b30900b35020",
+    "isbn": "978-5-8459-5272-3",
+    "title": "This improve mission",
+    "autor": "Lisa Haney",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

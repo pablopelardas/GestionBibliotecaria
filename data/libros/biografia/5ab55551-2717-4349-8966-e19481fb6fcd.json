@@ -1,0 +1,16 @@
+{
+    "libro_id": "5ab55551-2717-4349-8966-e19481fb6fcd",
+    "isbn": "978-2-4844-6211-7",
+    "title": "Which responsibility",
+    "autor": "Samuel Shelton",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "AAE4FA6B95C345908311872923",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 44,
+            "user_id": "AAE4FA6B95C345908311872923",
+            "regresado": false
+        }
+    ]
+}

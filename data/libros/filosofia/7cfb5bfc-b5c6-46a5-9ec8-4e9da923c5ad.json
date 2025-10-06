@@ -1,0 +1,10 @@
+{
+    "libro_id": "7cfb5bfc-b5c6-46a5-9ec8-4e9da923c5ad",
+    "isbn": "978-8-2682-3209-9",
+    "title": "Arrive half",
+    "autor": "Frank Rodriguez",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

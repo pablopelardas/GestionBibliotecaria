@@ -1,0 +1,10 @@
+{
+    "libro_id": "e3f465d1-99cb-49a5-9541-6b1841d4a49a",
+    "isbn": "978-0-6607-2087-6",
+    "title": "Administration during",
+    "autor": "Kristen Williams",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

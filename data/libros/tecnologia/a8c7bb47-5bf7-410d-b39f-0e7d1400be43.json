@@ -1,0 +1,16 @@
+{
+    "libro_id": "a8c7bb47-5bf7-410d-b39f-0e7d1400be43",
+    "isbn": "978-1-9865-7840-7",
+    "title": "Beat easy relate",
+    "autor": "Matthew Rojas",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "913F9D645259459C98FC421A5E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 9,
+            "user_id": "913F9D645259459C98FC421A5E",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "aa6d9e97-15c4-497b-9f17-67dde0043e03",
+    "isbn": "978-0-2287-2380-5",
+    "title": "Authority member win",
+    "autor": "Benjamin Fernandez",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "183EC31683D144D6B57423CFF6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 7,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": false
+        }
+    ]
+}

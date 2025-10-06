@@ -1,0 +1,16 @@
+{
+    "libro_id": "806ecadb-da34-4f04-be99-b61985f2ee8b",
+    "isbn": "978-3-5846-5832-1",
+    "title": "Important protect radio",
+    "autor": "Dawn Burke",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "7808AF18D8DF4901B044704416",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 8,
+            "user_id": "7808AF18D8DF4901B044704416",
+            "regresado": false
+        }
+    ]
+}

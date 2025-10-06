@@ -1,0 +1,16 @@
+{
+    "libro_id": "59deffca-6cc6-4187-a11f-14883553e7e2",
+    "isbn": "978-1-3669-1364-3",
+    "title": "Visit dark camera",
+    "autor": "Thomas Brooks",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "B8A541C5C2F247A2A95E3C630F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 162,
+            "user_id": "B8A541C5C2F247A2A95E3C630F",
+            "regresado": false
+        }
+    ]
+}

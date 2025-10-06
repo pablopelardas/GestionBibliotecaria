@@ -1,0 +1,10 @@
+{
+    "libro_id": "5babe864-17de-4dd7-b9e1-67e5d0802cb6",
+    "isbn": "978-0-8679-4982-5",
+    "title": "Wait themselves color",
+    "autor": "William Pratt",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

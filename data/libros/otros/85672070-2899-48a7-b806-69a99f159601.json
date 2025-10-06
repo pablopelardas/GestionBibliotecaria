@@ -1,0 +1,16 @@
+{
+    "libro_id": "85672070-2899-48a7-b806-69a99f159601",
+    "isbn": "978-0-3920-5911-4",
+    "title": "Mention ten",
+    "autor": "Chase Garza",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 406,
+            "user_id": "C5E5D237FB4740AAA248A20E2D",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "793fccb0-cc4a-43d1-a2f1-b40c5465ad11",
+    "isbn": "978-2-9724-3089-6",
+    "title": "Site human",
+    "autor": "Nicholas Williams",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

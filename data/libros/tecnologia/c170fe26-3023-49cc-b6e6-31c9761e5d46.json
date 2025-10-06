@@ -1,0 +1,10 @@
+{
+    "libro_id": "c170fe26-3023-49cc-b6e6-31c9761e5d46",
+    "isbn": "978-5-1059-2426-3",
+    "title": "Turn without",
+    "autor": "Megan Livingston",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

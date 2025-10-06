@@ -1,0 +1,16 @@
+{
+    "libro_id": "5984b9bd-7c22-4547-9eed-2065ce8739ae",
+    "isbn": "978-3-5143-6431-0",
+    "title": "Opportunity find along goal",
+    "autor": "Stephanie Lopez",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "C7D6D512073C4DFE95D71BE715",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 335,
+            "user_id": "C7D6D512073C4DFE95D71BE715",
+            "regresado": false
+        }
+    ]
+}

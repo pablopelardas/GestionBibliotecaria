@@ -1,0 +1,16 @@
+{
+    "libro_id": "f6367da3-19d3-4172-a6b2-9bcb30eb57a8",
+    "isbn": "978-4-4888-2261-0",
+    "title": "None do",
+    "autor": "Lisa Roberts",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "EBC4BC0DAA684D538B2FEFFB90",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 215,
+            "user_id": "EBC4BC0DAA684D538B2FEFFB90",
+            "regresado": false
+        }
+    ]
+}

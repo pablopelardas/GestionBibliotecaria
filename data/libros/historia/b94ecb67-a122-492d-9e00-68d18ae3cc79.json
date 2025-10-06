@@ -1,0 +1,16 @@
+{
+    "libro_id": "b94ecb67-a122-492d-9e00-68d18ae3cc79",
+    "isbn": "978-3-7746-4496-2",
+    "title": "Security you different",
+    "autor": "James Turner",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "2147558389E3470FA44A12BD96",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 119,
+            "user_id": "2147558389E3470FA44A12BD96",
+            "regresado": false
+        }
+    ]
+}

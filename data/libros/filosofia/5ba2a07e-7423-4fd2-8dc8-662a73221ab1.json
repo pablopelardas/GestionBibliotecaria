@@ -1,0 +1,16 @@
+{
+    "libro_id": "5ba2a07e-7423-4fd2-8dc8-662a73221ab1",
+    "isbn": "978-0-5028-6630-3",
+    "title": "Positive arrive stuff",
+    "autor": "Rhonda James",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 51,
+            "user_id": "E79100626A224019AA0ADA2ABC",
+            "regresado": true
+        }
+    ]
+}

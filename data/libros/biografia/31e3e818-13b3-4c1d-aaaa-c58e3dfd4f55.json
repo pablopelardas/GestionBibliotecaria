@@ -1,0 +1,10 @@
+{
+    "libro_id": "31e3e818-13b3-4c1d-aaaa-c58e3dfd4f55",
+    "isbn": "978-8-2338-2878-1",
+    "title": "Professor ability",
+    "autor": "Hannah Johnson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

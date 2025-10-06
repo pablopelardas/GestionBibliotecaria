@@ -1,0 +1,16 @@
+{
+    "libro_id": "8132b035-3abf-4aac-be81-67900f198b0d",
+    "isbn": "978-6-5519-6539-2",
+    "title": "Power than guy",
+    "autor": "Jamie Davis",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "29F1A9D3828042D3987F1BE149",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 275,
+            "user_id": "29F1A9D3828042D3987F1BE149",
+            "regresado": false
+        }
+    ]
+}

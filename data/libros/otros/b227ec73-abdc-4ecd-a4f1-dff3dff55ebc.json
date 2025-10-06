@@ -1,0 +1,10 @@
+{
+    "libro_id": "b227ec73-abdc-4ecd-a4f1-dff3dff55ebc",
+    "isbn": "978-5-9151-3272-0",
+    "title": "Drive someone couple",
+    "autor": "Christopher Harrison",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

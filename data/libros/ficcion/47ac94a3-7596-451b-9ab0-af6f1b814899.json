@@ -1,0 +1,16 @@
+{
+    "libro_id": "47ac94a3-7596-451b-9ab0-af6f1b814899",
+    "isbn": "978-9-4130-6683-3",
+    "title": "Mr she",
+    "autor": "Ronald Johnson",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "D78F91731FB34B9FB6F69C29FB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 340,
+            "user_id": "D78F91731FB34B9FB6F69C29FB",
+            "regresado": false
+        }
+    ]
+}

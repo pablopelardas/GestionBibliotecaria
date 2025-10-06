@@ -1,0 +1,10 @@
+{
+    "libro_id": "1ce690bf-60bd-4397-ace2-1fbdbf287727",
+    "isbn": "978-9-2010-4526-6",
+    "title": "Key inside under",
+    "autor": "Yvette Porter",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

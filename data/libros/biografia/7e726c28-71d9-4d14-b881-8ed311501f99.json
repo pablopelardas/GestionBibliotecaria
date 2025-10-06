@@ -1,0 +1,16 @@
+{
+    "libro_id": "7e726c28-71d9-4d14-b881-8ed311501f99",
+    "isbn": "978-9-7093-5412-6",
+    "title": "Ten Republican",
+    "autor": "Maria Smith",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "183EC31683D144D6B57423CFF6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 425,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": false
+        }
+    ]
+}

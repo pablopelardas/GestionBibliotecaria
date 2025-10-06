@@ -1,0 +1,16 @@
+{
+    "libro_id": "3b0655fc-2c9a-41e5-845c-271999b66743",
+    "isbn": "978-9-3695-4076-2",
+    "title": "Guy including",
+    "autor": "Heather Rivera",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "E7A3427944B44EDD95D696426F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 370,
+            "user_id": "E7A3427944B44EDD95D696426F",
+            "regresado": false
+        }
+    ]
+}

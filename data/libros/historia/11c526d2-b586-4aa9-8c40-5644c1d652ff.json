@@ -1,0 +1,10 @@
+{
+    "libro_id": "11c526d2-b586-4aa9-8c40-5644c1d652ff",
+    "isbn": "978-3-3591-7912-6",
+    "title": "Development magazine long",
+    "autor": "Ronald Smith",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

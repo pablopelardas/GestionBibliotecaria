@@ -1,0 +1,10 @@
+{
+    "libro_id": "6596edcc-72f1-48fc-8ce7-99f2b694b546",
+    "isbn": "978-1-2924-9227-3",
+    "title": "While natural",
+    "autor": "Henry Roberson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

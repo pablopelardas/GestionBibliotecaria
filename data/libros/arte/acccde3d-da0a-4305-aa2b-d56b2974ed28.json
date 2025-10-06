@@ -1,0 +1,16 @@
+{
+    "libro_id": "acccde3d-da0a-4305-aa2b-d56b2974ed28",
+    "isbn": "978-1-9799-7334-5",
+    "title": "Represent body within",
+    "autor": "Donna Floyd",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 305,
+            "user_id": "82137750501443689CC522C719",
+            "regresado": true
+        }
+    ]
+}

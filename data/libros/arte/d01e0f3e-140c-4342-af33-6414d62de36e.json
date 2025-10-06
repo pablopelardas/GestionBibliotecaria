@@ -1,0 +1,10 @@
+{
+    "libro_id": "d01e0f3e-140c-4342-af33-6414d62de36e",
+    "isbn": "978-4-2824-4036-5",
+    "title": "Read art seat",
+    "autor": "John Fisher",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

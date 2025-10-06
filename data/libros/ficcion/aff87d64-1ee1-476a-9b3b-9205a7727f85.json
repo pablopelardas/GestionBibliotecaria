@@ -1,0 +1,16 @@
+{
+    "libro_id": "aff87d64-1ee1-476a-9b3b-9205a7727f85",
+    "isbn": "978-9-5687-3449-6",
+    "title": "Actually hold",
+    "autor": "John Perez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "704EB948F2BE48C887F0BD08F7",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 247,
+            "user_id": "704EB948F2BE48C887F0BD08F7",
+            "regresado": false
+        }
+    ]
+}

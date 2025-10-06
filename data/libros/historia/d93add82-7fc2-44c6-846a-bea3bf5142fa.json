@@ -1,0 +1,16 @@
+{
+    "libro_id": "d93add82-7fc2-44c6-846a-bea3bf5142fa",
+    "isbn": "978-7-3062-4733-4",
+    "title": "Face local",
+    "autor": "Justin Esparza",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "C9EBFA6B56A34F92978285D7B8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 316,
+            "user_id": "C9EBFA6B56A34F92978285D7B8",
+            "regresado": false
+        }
+    ]
+}

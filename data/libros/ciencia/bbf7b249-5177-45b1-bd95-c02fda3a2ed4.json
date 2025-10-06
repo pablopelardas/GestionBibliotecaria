@@ -1,0 +1,16 @@
+{
+    "libro_id": "bbf7b249-5177-45b1-bd95-c02fda3a2ed4",
+    "isbn": "978-7-2190-1977-2",
+    "title": "Society",
+    "autor": "Emma Henson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 199,
+            "user_id": "67527C3EE19B4E039649C02750",
+            "regresado": true
+        }
+    ]
+}

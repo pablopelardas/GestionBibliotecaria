@@ -1,0 +1,10 @@
+{
+    "libro_id": "ff6f1690-c2ee-4ef2-ae0f-e1fdee1a36fc",
+    "isbn": "978-4-2364-3038-1",
+    "title": "Daughter on sometimes",
+    "autor": "Joel Mosley",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

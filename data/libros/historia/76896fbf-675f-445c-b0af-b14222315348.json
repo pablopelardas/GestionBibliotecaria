@@ -1,0 +1,16 @@
+{
+    "libro_id": "76896fbf-675f-445c-b0af-b14222315348",
+    "isbn": "978-9-2436-5283-6",
+    "title": "Brother yet Congress",
+    "autor": "Rachel Santana",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "CB737D4F30B14C6F8BC7165613",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 189,
+            "user_id": "CB737D4F30B14C6F8BC7165613",
+            "regresado": false
+        }
+    ]
+}

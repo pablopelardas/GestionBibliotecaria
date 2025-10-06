@@ -1,0 +1,16 @@
+{
+    "libro_id": "c46490ea-69e6-423c-9d05-869efcfc3125",
+    "isbn": "978-5-9468-1657-4",
+    "title": "Really imagine",
+    "autor": "Sarah Lopez",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 424,
+            "user_id": "2AE0B28648194D61B4E88FB29D",
+            "regresado": true
+        }
+    ]
+}

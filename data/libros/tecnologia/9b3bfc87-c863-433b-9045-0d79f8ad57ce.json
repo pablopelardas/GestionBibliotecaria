@@ -1,0 +1,10 @@
+{
+    "libro_id": "9b3bfc87-c863-433b-9045-0d79f8ad57ce",
+    "isbn": "978-0-2753-1985-1",
+    "title": "Than",
+    "autor": "Michelle Maldonado",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "f0329813-dffd-4d52-8966-bc86f365a528",
+    "isbn": "978-1-5684-6175-1",
+    "title": "Election where",
+    "autor": "Nicole Thomas",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "05AE42E97CC2462F89AD9689C5",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 303,
+            "user_id": "05AE42E97CC2462F89AD9689C5",
+            "regresado": false
+        }
+    ]
+}

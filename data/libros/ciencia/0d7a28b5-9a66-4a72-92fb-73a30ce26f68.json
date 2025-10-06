@@ -1,0 +1,16 @@
+{
+    "libro_id": "0d7a28b5-9a66-4a72-92fb-73a30ce26f68",
+    "isbn": "978-3-1901-9616-3",
+    "title": "Make gas",
+    "autor": "Craig Norton",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "4A6DBB0378E14EF78D8B436E59",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 146,
+            "user_id": "4A6DBB0378E14EF78D8B436E59",
+            "regresado": false
+        }
+    ]
+}

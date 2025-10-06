@@ -1,0 +1,16 @@
+{
+    "libro_id": "3eb235df-f8d3-4d7d-812d-e96ab1da8bc0",
+    "isbn": "978-9-5124-2822-1",
+    "title": "Door this",
+    "autor": "Melissa Hansen",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "DFCE627A2B44481CB715B0287D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 321,
+            "user_id": "DFCE627A2B44481CB715B0287D",
+            "regresado": false
+        }
+    ]
+}

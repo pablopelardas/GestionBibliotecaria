@@ -1,0 +1,10 @@
+{
+    "libro_id": "f4a4022e-a3bb-4b5c-8487-03a9695684f5",
+    "isbn": "978-8-4856-9865-0",
+    "title": "Successful father",
+    "autor": "Brittany Reed",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

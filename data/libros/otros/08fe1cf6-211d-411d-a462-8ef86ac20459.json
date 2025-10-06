@@ -1,0 +1,10 @@
+{
+    "libro_id": "08fe1cf6-211d-411d-a462-8ef86ac20459",
+    "isbn": "978-2-9669-8453-1",
+    "title": "Ok power bill",
+    "autor": "Amanda Jones",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

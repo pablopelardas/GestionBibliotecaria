@@ -1,0 +1,16 @@
+{
+    "libro_id": "ad11bd0c-747a-40c2-9783-2474245a77f5",
+    "isbn": "978-4-7428-3791-4",
+    "title": "Bit",
+    "autor": "Jennifer Mills",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 171,
+            "user_id": "EBC4BC0DAA684D538B2FEFFB90",
+            "regresado": true
+        }
+    ]
+}

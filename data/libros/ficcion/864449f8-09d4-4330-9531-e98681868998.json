@@ -1,0 +1,16 @@
+{
+    "libro_id": "864449f8-09d4-4330-9531-e98681868998",
+    "isbn": "978-7-1376-4780-7",
+    "title": "Eight authority central",
+    "autor": "Antonio Lopez",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "4FC2E2040CE24D54A545F1DB15",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 180,
+            "user_id": "4FC2E2040CE24D54A545F1DB15",
+            "regresado": false
+        }
+    ]
+}

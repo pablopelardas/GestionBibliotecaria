@@ -1,0 +1,16 @@
+{
+    "libro_id": "d43aa4ac-236b-47d3-bdf8-76477cfeed4c",
+    "isbn": "978-3-3510-2728-1",
+    "title": "Control step",
+    "autor": "Jackie Williams",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "3B11AD87C01E4F299F74C182BF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 221,
+            "user_id": "3B11AD87C01E4F299F74C182BF",
+            "regresado": false
+        }
+    ]
+}

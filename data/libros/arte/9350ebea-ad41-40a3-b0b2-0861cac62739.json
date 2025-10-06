@@ -1,0 +1,16 @@
+{
+    "libro_id": "9350ebea-ad41-40a3-b0b2-0861cac62739",
+    "isbn": "978-1-2432-8951-5",
+    "title": "Check half seem",
+    "autor": "Laura Evans",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "831150D601BC489BACB3D8175E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 516,
+            "user_id": "831150D601BC489BACB3D8175E",
+            "regresado": false
+        }
+    ]
+}

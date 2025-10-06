@@ -1,0 +1,16 @@
+{
+    "libro_id": "25f9168a-4edc-4827-b342-2065e7b5f582",
+    "isbn": "978-0-6302-2632-9",
+    "title": "Pass sure in simply",
+    "autor": "Christopher Hartman",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "FDE56CD1A5A14F2AA765A41C26",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 489,
+            "user_id": "FDE56CD1A5A14F2AA765A41C26",
+            "regresado": false
+        }
+    ]
+}

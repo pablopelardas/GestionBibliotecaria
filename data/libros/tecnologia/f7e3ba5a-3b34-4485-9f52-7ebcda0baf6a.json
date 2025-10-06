@@ -1,0 +1,10 @@
+{
+    "libro_id": "f7e3ba5a-3b34-4485-9f52-7ebcda0baf6a",
+    "isbn": "978-7-1630-2341-9",
+    "title": "Soon",
+    "autor": "Yolanda Mills",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

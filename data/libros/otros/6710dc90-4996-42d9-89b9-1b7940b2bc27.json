@@ -1,0 +1,16 @@
+{
+    "libro_id": "6710dc90-4996-42d9-89b9-1b7940b2bc27",
+    "isbn": "978-9-8403-8600-6",
+    "title": "Far nearly all arm",
+    "autor": "Jaime Coleman",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "DCF6324C369440E0B0A08C402F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 113,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": false
+        }
+    ]
+}

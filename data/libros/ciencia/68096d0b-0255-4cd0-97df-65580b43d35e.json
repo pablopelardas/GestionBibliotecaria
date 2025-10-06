@@ -1,0 +1,16 @@
+{
+    "libro_id": "68096d0b-0255-4cd0-97df-65580b43d35e",
+    "isbn": "978-3-3814-7671-0",
+    "title": "Whatever job song",
+    "autor": "James Ross",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "09CFD8519BB94A9B8AF30EF179",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 422,
+            "user_id": "09CFD8519BB94A9B8AF30EF179",
+            "regresado": false
+        }
+    ]
+}

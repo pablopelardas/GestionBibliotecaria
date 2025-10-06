@@ -1,0 +1,10 @@
+{
+    "libro_id": "f0464f21-48b3-458f-97fc-2ad8ebd21546",
+    "isbn": "978-2-7486-5666-8",
+    "title": "Account whether family",
+    "autor": "Sandra Thompson",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

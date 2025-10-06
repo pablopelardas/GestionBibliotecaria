@@ -1,0 +1,10 @@
+{
+    "libro_id": "1e4a218c-6836-4db3-97ba-13c337074e37",
+    "isbn": "978-9-8406-2377-5",
+    "title": "That apply",
+    "autor": "Luis Petersen",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

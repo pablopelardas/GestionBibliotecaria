@@ -1,0 +1,10 @@
+{
+    "libro_id": "9cf3c6a0-fb0c-4741-b492-89146be80a7a",
+    "isbn": "978-0-6848-5634-9",
+    "title": "Something there",
+    "autor": "Anne Turner",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

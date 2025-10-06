@@ -1,0 +1,10 @@
+{
+    "libro_id": "18de26b6-5880-4756-b6c6-18b7eeeb90a4",
+    "isbn": "978-2-3375-1001-2",
+    "title": "Case mention maintain",
+    "autor": "Cynthia Ware",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

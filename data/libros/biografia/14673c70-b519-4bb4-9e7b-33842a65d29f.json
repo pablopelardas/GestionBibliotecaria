@@ -1,0 +1,10 @@
+{
+    "libro_id": "14673c70-b519-4bb4-9e7b-33842a65d29f",
+    "isbn": "978-2-9033-3939-6",
+    "title": "Another let add",
+    "autor": "Erik Wilkins",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

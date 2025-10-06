@@ -1,0 +1,10 @@
+{
+    "libro_id": "d727cc07-9bf0-4df8-ba2e-db3ca7a99c48",
+    "isbn": "978-3-4733-7318-9",
+    "title": "Traditional yeah",
+    "autor": "Melissa Gomez",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "66dc0c8e-aed3-40d4-84ca-6d637862f81a",
+    "isbn": "978-2-6554-6162-1",
+    "title": "First respond",
+    "autor": "Pamela Tran",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "E579286C01584AF99259994131",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 213,
+            "user_id": "E579286C01584AF99259994131",
+            "regresado": false
+        }
+    ]
+}

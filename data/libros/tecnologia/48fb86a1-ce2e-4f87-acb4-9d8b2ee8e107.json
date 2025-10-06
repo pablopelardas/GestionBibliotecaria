@@ -1,0 +1,10 @@
+{
+    "libro_id": "48fb86a1-ce2e-4f87-acb4-9d8b2ee8e107",
+    "isbn": "978-7-1749-8206-7",
+    "title": "Certain",
+    "autor": "Beth Mcmahon",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

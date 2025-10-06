@@ -1,0 +1,10 @@
+{
+    "libro_id": "66cceb32-8362-4bbe-ae0d-cf1407e2df32",
+    "isbn": "978-5-1694-3962-1",
+    "title": "Focus already",
+    "autor": "Mr. David Flores",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

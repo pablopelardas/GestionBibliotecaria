@@ -1,0 +1,16 @@
+{
+    "libro_id": "1ecbb2e8-31bd-4547-be65-566e98d5141c",
+    "isbn": "978-1-7940-5754-3",
+    "title": "Night Republican old",
+    "autor": "Peter Duke",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 314,
+            "user_id": "3E2745E39F774884B64485EAD9",
+            "regresado": true
+        }
+    ]
+}

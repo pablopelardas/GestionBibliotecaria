@@ -1,0 +1,16 @@
+{
+    "libro_id": "3cad84eb-2b13-4921-b05a-2eee8b56ae48",
+    "isbn": "978-8-5952-5539-1",
+    "title": "North down",
+    "autor": "Linda Moran",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "D4AAC231BC1E4E4B87D3FC0DDE",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 168,
+            "user_id": "D4AAC231BC1E4E4B87D3FC0DDE",
+            "regresado": false
+        }
+    ]
+}

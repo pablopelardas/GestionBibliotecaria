@@ -1,0 +1,10 @@
+{
+    "libro_id": "a1be0ec8-f1d4-481a-85b6-a084eecff904",
+    "isbn": "978-0-1301-5811-6",
+    "title": "Follow great help",
+    "autor": "Jonathan Weiss",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

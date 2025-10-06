@@ -1,0 +1,16 @@
+{
+    "libro_id": "85b1a8fb-0a1e-4457-a69f-b5eddc689836",
+    "isbn": "978-7-2385-9638-7",
+    "title": "Past join",
+    "autor": "Monique Rodriguez",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 98,
+            "user_id": "5960CD4DE33F45F6B182E12A84",
+            "regresado": true
+        }
+    ]
+}

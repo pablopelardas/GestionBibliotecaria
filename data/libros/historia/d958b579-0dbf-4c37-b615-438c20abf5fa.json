@@ -1,0 +1,16 @@
+{
+    "libro_id": "d958b579-0dbf-4c37-b615-438c20abf5fa",
+    "isbn": "978-9-8412-8489-6",
+    "title": "Glass sit president",
+    "autor": "Kathleen Gomez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "D48764B39ED64EC5BA33ABE086",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 356,
+            "user_id": "D48764B39ED64EC5BA33ABE086",
+            "regresado": false
+        }
+    ]
+}

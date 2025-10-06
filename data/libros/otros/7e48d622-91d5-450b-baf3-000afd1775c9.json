@@ -1,0 +1,10 @@
+{
+    "libro_id": "7e48d622-91d5-450b-baf3-000afd1775c9",
+    "isbn": "978-8-8984-6113-8",
+    "title": "Call street past",
+    "autor": "Jessica Parks",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

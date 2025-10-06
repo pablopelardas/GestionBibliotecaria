@@ -1,0 +1,16 @@
+{
+    "libro_id": "de34cdfb-45e3-4562-8d91-ece87be59897",
+    "isbn": "978-8-5404-2587-9",
+    "title": "Feel around",
+    "autor": "Amy Taylor",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 126,
+            "user_id": "53EC8831D46D4634A12C57526E",
+            "regresado": true
+        }
+    ]
+}

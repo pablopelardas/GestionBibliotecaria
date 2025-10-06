@@ -1,0 +1,10 @@
+{
+    "libro_id": "4cdf9ccc-bfa2-41ee-bb89-1c3c6e8123d6",
+    "isbn": "978-1-1453-7331-9",
+    "title": "Mrs traditional affect design",
+    "autor": "Scott Reilly",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

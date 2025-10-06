@@ -1,0 +1,10 @@
+{
+    "libro_id": "ed34cb48-dd1e-47da-9860-efe35cb3d895",
+    "isbn": "978-6-1967-2453-2",
+    "title": "Adult either two",
+    "autor": "Robert Brown",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

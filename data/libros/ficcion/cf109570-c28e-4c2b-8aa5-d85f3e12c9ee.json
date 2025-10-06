@@ -1,0 +1,10 @@
+{
+    "libro_id": "cf109570-c28e-4c2b-8aa5-d85f3e12c9ee",
+    "isbn": "978-1-1117-9044-9",
+    "title": "Garden they",
+    "autor": "Barbara Weaver",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

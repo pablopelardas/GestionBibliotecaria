@@ -1,0 +1,10 @@
+{
+    "libro_id": "c6ca2b8f-060c-4495-8039-487f7b598bdb",
+    "isbn": "978-4-3235-5169-3",
+    "title": "Sense meeting realize",
+    "autor": "Jose Flores",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

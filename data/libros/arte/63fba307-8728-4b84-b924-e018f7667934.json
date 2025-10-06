@@ -1,0 +1,10 @@
+{
+    "libro_id": "63fba307-8728-4b84-b924-e018f7667934",
+    "isbn": "978-3-2905-6447-0",
+    "title": "Involve read",
+    "autor": "Heather Gonzalez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

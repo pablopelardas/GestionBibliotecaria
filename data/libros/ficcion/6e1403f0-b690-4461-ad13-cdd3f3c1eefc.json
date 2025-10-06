@@ -1,0 +1,16 @@
+{
+    "libro_id": "6e1403f0-b690-4461-ad13-cdd3f3c1eefc",
+    "isbn": "978-6-3964-8110-1",
+    "title": "Dog",
+    "autor": "Brandon Hutchinson",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "C64060620B1D4FC1996C933714",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 22,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": false
+        }
+    ]
+}

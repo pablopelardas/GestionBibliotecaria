@@ -1,0 +1,10 @@
+{
+    "libro_id": "225dc43a-b6a0-4714-818c-3c25473d72f2",
+    "isbn": "978-8-6424-6279-9",
+    "title": "These information movie",
+    "autor": "Richard Smith",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

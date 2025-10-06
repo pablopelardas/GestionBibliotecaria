@@ -1,0 +1,16 @@
+{
+    "libro_id": "bbaf2714-bfad-479d-83a0-8e771959f6e0",
+    "isbn": "978-8-4458-4446-7",
+    "title": "Big manager",
+    "autor": "Heather Smith",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 551,
+            "user_id": "321D92B53BD0403EA4DDF3975C",
+            "regresado": true
+        }
+    ]
+}

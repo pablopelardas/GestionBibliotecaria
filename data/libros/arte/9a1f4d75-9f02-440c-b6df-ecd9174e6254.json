@@ -1,0 +1,10 @@
+{
+    "libro_id": "9a1f4d75-9f02-440c-b6df-ecd9174e6254",
+    "isbn": "978-3-7532-4108-6",
+    "title": "Clearly attorney best",
+    "autor": "Joshua Hernandez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

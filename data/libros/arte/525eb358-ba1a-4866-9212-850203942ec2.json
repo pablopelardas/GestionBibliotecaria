@@ -1,0 +1,10 @@
+{
+    "libro_id": "525eb358-ba1a-4866-9212-850203942ec2",
+    "isbn": "978-3-7410-2584-5",
+    "title": "Court building",
+    "autor": "Robert Moore",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

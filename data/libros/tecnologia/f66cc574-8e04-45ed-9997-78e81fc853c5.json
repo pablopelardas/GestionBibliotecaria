@@ -1,0 +1,10 @@
+{
+    "libro_id": "f66cc574-8e04-45ed-9997-78e81fc853c5",
+    "isbn": "978-8-7615-4920-0",
+    "title": "Cut ground",
+    "autor": "Jamie Johnson",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

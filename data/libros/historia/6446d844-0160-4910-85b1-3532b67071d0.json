@@ -1,0 +1,16 @@
+{
+    "libro_id": "6446d844-0160-4910-85b1-3532b67071d0",
+    "isbn": "978-2-4651-4556-3",
+    "title": "Send late",
+    "autor": "Timothy Taylor",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "958B471A0278479FB92D30E77E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 184,
+            "user_id": "958B471A0278479FB92D30E77E",
+            "regresado": false
+        }
+    ]
+}

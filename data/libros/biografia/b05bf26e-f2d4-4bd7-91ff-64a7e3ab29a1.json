@@ -1,0 +1,16 @@
+{
+    "libro_id": "b05bf26e-f2d4-4bd7-91ff-64a7e3ab29a1",
+    "isbn": "978-9-5667-1723-6",
+    "title": "Most begin part",
+    "autor": "Holly Mathews",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "5960CD4DE33F45F6B182E12A84",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 395,
+            "user_id": "5960CD4DE33F45F6B182E12A84",
+            "regresado": false
+        }
+    ]
+}

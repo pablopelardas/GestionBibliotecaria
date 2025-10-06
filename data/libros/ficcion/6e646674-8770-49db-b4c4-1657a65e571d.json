@@ -1,0 +1,16 @@
+{
+    "libro_id": "6e646674-8770-49db-b4c4-1657a65e571d",
+    "isbn": "978-8-2146-4567-8",
+    "title": "Usually fill",
+    "autor": "Michelle Cook",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 186,
+            "user_id": "7E914187DF814EB6B7DBA90919",
+            "regresado": true
+        }
+    ]
+}

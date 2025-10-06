@@ -1,0 +1,16 @@
+{
+    "libro_id": "4f06d01b-7ef5-40b6-b1d8-231daa82b731",
+    "isbn": "978-2-5759-3332-6",
+    "title": "Marriage discuss",
+    "autor": "Lisa Johnson",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "F03554AA86C344B39FD3C6567C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 376,
+            "user_id": "F03554AA86C344B39FD3C6567C",
+            "regresado": false
+        }
+    ]
+}

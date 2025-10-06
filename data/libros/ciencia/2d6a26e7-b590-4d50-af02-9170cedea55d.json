@@ -1,0 +1,10 @@
+{
+    "libro_id": "2d6a26e7-b590-4d50-af02-9170cedea55d",
+    "isbn": "978-8-2128-5601-1",
+    "title": "After base site",
+    "autor": "Rebecca Graham",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

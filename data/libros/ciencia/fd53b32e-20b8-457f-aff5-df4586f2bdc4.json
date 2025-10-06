@@ -1,0 +1,10 @@
+{
+    "libro_id": "fd53b32e-20b8-457f-aff5-df4586f2bdc4",
+    "isbn": "978-9-7075-2730-6",
+    "title": "Turn fly",
+    "autor": "Brandi Wilson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

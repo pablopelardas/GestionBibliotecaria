@@ -1,0 +1,16 @@
+{
+    "libro_id": "7d97b9d7-6ca5-422f-940d-6d0796bc6e99",
+    "isbn": "978-8-4590-6773-2",
+    "title": "Either trouble man",
+    "autor": "Robert Smith",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "4FEB63380CFF49AE9F9E18D258",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 322,
+            "user_id": "4FEB63380CFF49AE9F9E18D258",
+            "regresado": false
+        }
+    ]
+}

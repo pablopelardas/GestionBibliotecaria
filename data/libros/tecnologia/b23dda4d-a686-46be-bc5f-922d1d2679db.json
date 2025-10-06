@@ -1,0 +1,16 @@
+{
+    "libro_id": "b23dda4d-a686-46be-bc5f-922d1d2679db",
+    "isbn": "978-1-2867-1250-5",
+    "title": "Which few be",
+    "autor": "Francis Hardy DVM",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "F1A90A4DD07946FF8FC57E5554",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 266,
+            "user_id": "F1A90A4DD07946FF8FC57E5554",
+            "regresado": false
+        }
+    ]
+}

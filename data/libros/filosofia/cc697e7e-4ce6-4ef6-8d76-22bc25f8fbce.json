@@ -1,0 +1,16 @@
+{
+    "libro_id": "cc697e7e-4ce6-4ef6-8d76-22bc25f8fbce",
+    "isbn": "978-0-9017-8204-1",
+    "title": "Word provide talk",
+    "autor": "Peter Cain",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "4A6DBB0378E14EF78D8B436E59",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 480,
+            "user_id": "4A6DBB0378E14EF78D8B436E59",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "446fe433-0b99-4123-8eb1-deafbbe3efac",
+    "isbn": "978-3-2687-8279-1",
+    "title": "Experience measure least",
+    "autor": "Ronald Cannon",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

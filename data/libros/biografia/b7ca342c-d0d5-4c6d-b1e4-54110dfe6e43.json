@@ -1,0 +1,10 @@
+{
+    "libro_id": "b7ca342c-d0d5-4c6d-b1e4-54110dfe6e43",
+    "isbn": "978-7-5682-1305-0",
+    "title": "Rich",
+    "autor": "Brian Gardner",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

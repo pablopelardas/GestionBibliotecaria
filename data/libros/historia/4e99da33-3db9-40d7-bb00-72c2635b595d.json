@@ -1,0 +1,16 @@
+{
+    "libro_id": "4e99da33-3db9-40d7-bb00-72c2635b595d",
+    "isbn": "978-2-5507-9579-2",
+    "title": "Well defense",
+    "autor": "Kelli Fisher",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 274,
+            "user_id": "2B1FE87C94FC420789D7B90B38",
+            "regresado": true
+        }
+    ]
+}

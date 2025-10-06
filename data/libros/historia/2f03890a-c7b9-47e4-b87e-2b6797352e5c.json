@@ -1,0 +1,10 @@
+{
+    "libro_id": "2f03890a-c7b9-47e4-b87e-2b6797352e5c",
+    "isbn": "978-3-4380-1869-7",
+    "title": "Start partner",
+    "autor": "Tyler Freeman",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

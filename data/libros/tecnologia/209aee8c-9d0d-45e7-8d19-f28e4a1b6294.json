@@ -1,0 +1,10 @@
+{
+    "libro_id": "209aee8c-9d0d-45e7-8d19-f28e4a1b6294",
+    "isbn": "978-0-9398-6895-7",
+    "title": "Theory party",
+    "autor": "Jordan Gentry",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

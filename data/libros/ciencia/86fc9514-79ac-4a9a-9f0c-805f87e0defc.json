@@ -1,0 +1,10 @@
+{
+    "libro_id": "86fc9514-79ac-4a9a-9f0c-805f87e0defc",
+    "isbn": "978-0-7631-4427-7",
+    "title": "Matter eight happen",
+    "autor": "Tina Smith",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

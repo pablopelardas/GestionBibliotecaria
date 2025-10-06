@@ -1,0 +1,10 @@
+{
+    "libro_id": "447fbed6-20b9-4e12-a8af-279a56382812",
+    "isbn": "978-8-5291-9083-6",
+    "title": "Section news everybody",
+    "autor": "Tanya Richards",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

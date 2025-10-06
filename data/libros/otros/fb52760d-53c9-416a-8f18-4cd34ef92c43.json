@@ -1,0 +1,16 @@
+{
+    "libro_id": "fb52760d-53c9-416a-8f18-4cd34ef92c43",
+    "isbn": "978-0-6606-9194-0",
+    "title": "Environmental environmental",
+    "autor": "James Thompson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 326,
+            "user_id": "C7991018051D496482944B2727",
+            "regresado": true
+        }
+    ]
+}

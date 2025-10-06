@@ -1,0 +1,16 @@
+{
+    "libro_id": "6e3546d7-cb1c-4ec2-871a-47553004ca07",
+    "isbn": "978-1-3576-2831-7",
+    "title": "Ability man election",
+    "autor": "Keith Nichols",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 254,
+            "user_id": "C64060620B1D4FC1996C933714",
+            "regresado": true
+        }
+    ]
+}

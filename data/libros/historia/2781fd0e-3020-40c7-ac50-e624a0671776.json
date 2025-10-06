@@ -1,0 +1,16 @@
+{
+    "libro_id": "2781fd0e-3020-40c7-ac50-e624a0671776",
+    "isbn": "978-0-5718-2986-2",
+    "title": "Oil including stand",
+    "autor": "Gina Guerra",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 529,
+            "user_id": "2B083BB77C2F4F47A964ED1317",
+            "regresado": true
+        }
+    ]
+}

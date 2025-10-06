@@ -1,0 +1,16 @@
+{
+    "libro_id": "10a22446-2523-4cc6-b9c6-4b58f2ef2672",
+    "isbn": "978-9-3521-9203-5",
+    "title": "Trouble job",
+    "autor": "Andrea Taylor",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "B335749ED77C42D586B2E8F00B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 57,
+            "user_id": "B335749ED77C42D586B2E8F00B",
+            "regresado": false
+        }
+    ]
+}

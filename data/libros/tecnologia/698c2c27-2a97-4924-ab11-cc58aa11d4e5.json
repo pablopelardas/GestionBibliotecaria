@@ -1,0 +1,10 @@
+{
+    "libro_id": "698c2c27-2a97-4924-ab11-cc58aa11d4e5",
+    "isbn": "978-0-8412-6865-2",
+    "title": "Enjoy picture believe",
+    "autor": "Jeffrey Murray",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "62031844-7116-43fb-939f-2c11470eda2c",
+    "isbn": "978-5-7520-7144-8",
+    "title": "Necessary few soon",
+    "autor": "Heather Carrillo",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

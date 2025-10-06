@@ -1,0 +1,16 @@
+{
+    "libro_id": "3b5a1f79-d946-4920-ba3d-69329fcd048c",
+    "isbn": "978-3-3214-1984-1",
+    "title": "Turn",
+    "autor": "Nicholas Burton",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 287,
+            "user_id": "21C2FB58413049239B7EA16E3A",
+            "regresado": true
+        }
+    ]
+}

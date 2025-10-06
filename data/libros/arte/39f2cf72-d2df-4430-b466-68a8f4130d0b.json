@@ -1,0 +1,16 @@
+{
+    "libro_id": "39f2cf72-d2df-4430-b466-68a8f4130d0b",
+    "isbn": "978-6-9785-3716-1",
+    "title": "Around",
+    "autor": "Jessica Gill",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "C05B3753068D454DB1C59FAE9F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 508,
+            "user_id": "C05B3753068D454DB1C59FAE9F",
+            "regresado": false
+        }
+    ]
+}

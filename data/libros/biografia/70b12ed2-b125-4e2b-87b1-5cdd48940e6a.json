@@ -1,0 +1,16 @@
+{
+    "libro_id": "70b12ed2-b125-4e2b-87b1-5cdd48940e6a",
+    "isbn": "978-0-3499-5533-5",
+    "title": "Democratic shoulder",
+    "autor": "Wanda Ramsey",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "7B8D0DFB452C494F967F7D0DC9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 87,
+            "user_id": "7B8D0DFB452C494F967F7D0DC9",
+            "regresado": false
+        }
+    ]
+}

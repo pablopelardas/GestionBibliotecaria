@@ -1,0 +1,10 @@
+{
+    "libro_id": "2573eed3-303d-4d47-987b-8388bdbd2504",
+    "isbn": "978-4-2401-8602-5",
+    "title": "Newspaper seem if middle",
+    "autor": "Thomas Gibson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

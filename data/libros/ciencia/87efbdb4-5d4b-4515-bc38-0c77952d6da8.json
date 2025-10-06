@@ -1,0 +1,10 @@
+{
+    "libro_id": "87efbdb4-5d4b-4515-bc38-0c77952d6da8",
+    "isbn": "978-9-2385-6401-3",
+    "title": "Above",
+    "autor": "Donald Murray",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

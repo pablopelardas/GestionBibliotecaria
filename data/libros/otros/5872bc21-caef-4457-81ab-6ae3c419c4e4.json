@@ -1,0 +1,10 @@
+{
+    "libro_id": "5872bc21-caef-4457-81ab-6ae3c419c4e4",
+    "isbn": "978-1-5588-9818-5",
+    "title": "Design front almost",
+    "autor": "Diana Bush",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

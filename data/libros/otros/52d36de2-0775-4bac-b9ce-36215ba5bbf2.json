@@ -1,0 +1,16 @@
+{
+    "libro_id": "52d36de2-0775-4bac-b9ce-36215ba5bbf2",
+    "isbn": "978-5-9542-3336-0",
+    "title": "Beyond happy upon senior",
+    "autor": "Maria Fowler",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "A0869A2B4DF34F1B8C5AE67CE8",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 67,
+            "user_id": "A0869A2B4DF34F1B8C5AE67CE8",
+            "regresado": false
+        }
+    ]
+}

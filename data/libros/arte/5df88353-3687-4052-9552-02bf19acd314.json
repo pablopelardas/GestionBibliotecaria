@@ -1,0 +1,16 @@
+{
+    "libro_id": "5df88353-3687-4052-9552-02bf19acd314",
+    "isbn": "978-5-8950-8206-6",
+    "title": "Shake before",
+    "autor": "Tabitha Campbell",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 86,
+            "user_id": "C1F8C7B0CF3E4BBC9B330A1B5E",
+            "regresado": true
+        }
+    ]
+}

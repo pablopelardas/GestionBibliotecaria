@@ -1,0 +1,16 @@
+{
+    "libro_id": "9147ebc3-32e3-4754-8750-4cab9022d7ac",
+    "isbn": "978-6-1624-3215-7",
+    "title": "Believe daughter",
+    "autor": "April Tate",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 432,
+            "user_id": "7B8D0DFB452C494F967F7D0DC9",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e53d0009-131d-45af-8c39-bd6de7772958",
+    "isbn": "978-4-7164-8516-3",
+    "title": "Read expect",
+    "autor": "William Armstrong",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "E1EFA306232D41BD98827B22B3",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 531,
+            "user_id": "E1EFA306232D41BD98827B22B3",
+            "regresado": false
+        }
+    ]
+}

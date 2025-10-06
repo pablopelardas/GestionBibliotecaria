@@ -1,0 +1,16 @@
+{
+    "libro_id": "22086d20-ac10-45fd-9c4e-c56d7289cf3d",
+    "isbn": "978-4-3145-1302-1",
+    "title": "Hand body",
+    "autor": "James Collins",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 54,
+            "user_id": "7808AF18D8DF4901B044704416",
+            "regresado": true
+        }
+    ]
+}

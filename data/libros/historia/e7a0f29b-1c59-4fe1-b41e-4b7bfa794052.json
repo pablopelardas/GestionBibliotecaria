@@ -1,0 +1,16 @@
+{
+    "libro_id": "e7a0f29b-1c59-4fe1-b41e-4b7bfa794052",
+    "isbn": "978-5-5257-7790-4",
+    "title": "Your feel surface",
+    "autor": "Carmen Taylor",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "DD69C50E41CE4169ADFE72EF94",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 195,
+            "user_id": "DD69C50E41CE4169ADFE72EF94",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "dcbf36e3-19cd-44cc-ba5c-7b3682ed59e0",
+    "isbn": "978-9-9764-9094-2",
+    "title": "Bag",
+    "autor": "Laura Decker",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

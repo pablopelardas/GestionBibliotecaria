@@ -1,0 +1,10 @@
+{
+    "libro_id": "586dafe3-9f39-42df-971f-c4e96feec10c",
+    "isbn": "978-0-4532-6109-9",
+    "title": "Write series election",
+    "autor": "Richard Oneal",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

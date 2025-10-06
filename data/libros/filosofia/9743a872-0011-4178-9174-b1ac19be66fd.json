@@ -1,0 +1,10 @@
+{
+    "libro_id": "9743a872-0011-4178-9174-b1ac19be66fd",
+    "isbn": "978-7-9489-6485-0",
+    "title": "Fire could smile",
+    "autor": "Ronald Crawford",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

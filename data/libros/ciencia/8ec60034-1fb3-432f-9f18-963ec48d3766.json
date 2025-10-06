@@ -1,0 +1,10 @@
+{
+    "libro_id": "8ec60034-1fb3-432f-9f18-963ec48d3766",
+    "isbn": "978-2-8183-7950-0",
+    "title": "Most value week",
+    "autor": "Aaron Miller",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

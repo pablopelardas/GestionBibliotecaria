@@ -1,0 +1,16 @@
+{
+    "libro_id": "cabfabc2-1b41-4c21-bff6-6abdcf1ca634",
+    "isbn": "978-5-1513-4451-7",
+    "title": "Affect place",
+    "autor": "James Anderson",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 327,
+            "user_id": "B3AFD3ACAA744F6D88AE9288F4",
+            "regresado": true
+        }
+    ]
+}

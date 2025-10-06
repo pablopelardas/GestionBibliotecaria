@@ -1,0 +1,16 @@
+{
+    "libro_id": "81acba4f-da72-4513-8e25-9cc96e566217",
+    "isbn": "978-3-8319-7693-3",
+    "title": "Hold animal",
+    "autor": "Jacob Griffin Jr.",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "A3077F9069414431B0627C9C2E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 349,
+            "user_id": "A3077F9069414431B0627C9C2E",
+            "regresado": false
+        }
+    ]
+}

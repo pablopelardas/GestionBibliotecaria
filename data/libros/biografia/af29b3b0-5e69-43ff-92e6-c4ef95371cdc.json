@@ -1,0 +1,16 @@
+{
+    "libro_id": "af29b3b0-5e69-43ff-92e6-c4ef95371cdc",
+    "isbn": "978-6-8297-6464-3",
+    "title": "Similar public modern",
+    "autor": "Stephen Long",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 385,
+            "user_id": "CE5ECA51EAF54B11850C4DE8CD",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "46fd4e9c-4d8c-4abf-b414-6e4238ca3820",
+    "isbn": "978-7-5478-1666-4",
+    "title": "Home civil probably up",
+    "autor": "Nicole Williamson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

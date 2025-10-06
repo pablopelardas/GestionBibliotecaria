@@ -1,0 +1,16 @@
+{
+    "libro_id": "0cd98e82-072e-494a-9864-588313f9627f",
+    "isbn": "978-7-5810-6338-8",
+    "title": "Purpose floor",
+    "autor": "Robert Durham",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 396,
+            "user_id": "27A9AB0326A64C05A1002E9D11",
+            "regresado": true
+        }
+    ]
+}

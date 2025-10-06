@@ -1,0 +1,10 @@
+{
+    "libro_id": "a4e286b9-c084-4b54-bf66-dca5ab17e59c",
+    "isbn": "978-5-7126-8517-3",
+    "title": "Avoid admit fine",
+    "autor": "Susan Green",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e8a69f94-77b1-4ccc-8620-845c090ced6f",
+    "isbn": "978-4-1597-1021-6",
+    "title": "Can us ball",
+    "autor": "Keith Franklin",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "8DBEB2E4AFAB4B9193FD3EEE69",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 282,
+            "user_id": "8DBEB2E4AFAB4B9193FD3EEE69",
+            "regresado": false
+        }
+    ]
+}

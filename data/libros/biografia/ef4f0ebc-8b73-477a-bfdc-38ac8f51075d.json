@@ -1,0 +1,10 @@
+{
+    "libro_id": "ef4f0ebc-8b73-477a-bfdc-38ac8f51075d",
+    "isbn": "978-6-7362-2553-1",
+    "title": "Expect politics",
+    "autor": "Hunter Murphy",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

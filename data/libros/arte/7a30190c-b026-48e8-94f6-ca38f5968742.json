@@ -1,0 +1,16 @@
+{
+    "libro_id": "7a30190c-b026-48e8-94f6-ca38f5968742",
+    "isbn": "978-6-9839-3612-0",
+    "title": "Well small word",
+    "autor": "Jacob Campbell",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "6DF94BAD2DB9457AA5669F3525",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 407,
+            "user_id": "6DF94BAD2DB9457AA5669F3525",
+            "regresado": false
+        }
+    ]
+}

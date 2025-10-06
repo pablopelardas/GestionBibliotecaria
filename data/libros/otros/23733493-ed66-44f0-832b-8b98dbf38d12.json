@@ -1,0 +1,16 @@
+{
+    "libro_id": "23733493-ed66-44f0-832b-8b98dbf38d12",
+    "isbn": "978-3-5613-9065-2",
+    "title": "Fast address wife",
+    "autor": "Brian Fox",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "C4D07716B5A44255BB028C7A5B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 142,
+            "user_id": "C4D07716B5A44255BB028C7A5B",
+            "regresado": false
+        }
+    ]
+}

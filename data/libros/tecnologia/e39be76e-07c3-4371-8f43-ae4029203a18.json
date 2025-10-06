@@ -1,0 +1,10 @@
+{
+    "libro_id": "e39be76e-07c3-4371-8f43-ae4029203a18",
+    "isbn": "978-5-9210-5705-5",
+    "title": "Share how responsibility",
+    "autor": "Tyler Woods",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

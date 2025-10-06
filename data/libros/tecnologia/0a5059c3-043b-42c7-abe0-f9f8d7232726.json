@@ -1,0 +1,16 @@
+{
+    "libro_id": "0a5059c3-043b-42c7-abe0-f9f8d7232726",
+    "isbn": "978-3-4682-6989-9",
+    "title": "Analysis call far",
+    "autor": "Alec Ramos",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 306,
+            "user_id": "BE94F2A546D049C08351C8D6D9",
+            "regresado": true
+        }
+    ]
+}

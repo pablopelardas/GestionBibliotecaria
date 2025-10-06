@@ -1,0 +1,10 @@
+{
+    "libro_id": "23905f19-02d1-4456-88b8-d356d450fa09",
+    "isbn": "978-5-7506-5498-7",
+    "title": "Speak process",
+    "autor": "Melissa Hodges",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "ebb1a3c7-a190-47a0-a9d1-6c08e61624b5",
+    "isbn": "978-5-3320-4343-3",
+    "title": "Step money",
+    "autor": "Natasha Snow",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

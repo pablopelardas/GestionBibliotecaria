@@ -1,0 +1,10 @@
+{
+    "libro_id": "bddbf22d-dc59-4c98-a1e4-f7310b7aec9b",
+    "isbn": "978-0-2393-2559-6",
+    "title": "President voice",
+    "autor": "Justin Simon",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

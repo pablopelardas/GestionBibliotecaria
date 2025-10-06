@@ -1,0 +1,10 @@
+{
+    "libro_id": "0d79f19b-115f-4b5b-b94f-cbd8d5eb1aea",
+    "isbn": "978-0-6912-2211-7",
+    "title": "Stand way image",
+    "autor": "Darlene Williams",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

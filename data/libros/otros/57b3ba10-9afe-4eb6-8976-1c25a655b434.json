@@ -1,0 +1,16 @@
+{
+    "libro_id": "57b3ba10-9afe-4eb6-8976-1c25a655b434",
+    "isbn": "978-2-1748-3859-9",
+    "title": "Behind no",
+    "autor": "Laura Villanueva",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "66A2CF665E5C4BCCA384EE99C6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 242,
+            "user_id": "66A2CF665E5C4BCCA384EE99C6",
+            "regresado": false
+        }
+    ]
+}

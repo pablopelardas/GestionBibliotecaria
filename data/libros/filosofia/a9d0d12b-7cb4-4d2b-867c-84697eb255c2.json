@@ -1,0 +1,10 @@
+{
+    "libro_id": "a9d0d12b-7cb4-4d2b-867c-84697eb255c2",
+    "isbn": "978-6-2235-6405-4",
+    "title": "Compare often brother",
+    "autor": "Rose Johnson",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

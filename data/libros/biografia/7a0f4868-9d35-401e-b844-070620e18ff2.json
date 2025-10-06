@@ -1,0 +1,16 @@
+{
+    "libro_id": "7a0f4868-9d35-401e-b844-070620e18ff2",
+    "isbn": "978-2-3044-1782-4",
+    "title": "Thing total",
+    "autor": "Joshua Bartlett",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "C1466BFCBF2B458BAE2A9F2BDA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 15,
+            "user_id": "C1466BFCBF2B458BAE2A9F2BDA",
+            "regresado": false
+        }
+    ]
+}

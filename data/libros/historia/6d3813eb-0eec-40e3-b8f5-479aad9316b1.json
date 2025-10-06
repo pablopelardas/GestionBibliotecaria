@@ -1,0 +1,10 @@
+{
+    "libro_id": "6d3813eb-0eec-40e3-b8f5-479aad9316b1",
+    "isbn": "978-3-4879-8028-0",
+    "title": "Into real",
+    "autor": "Shawn Everett",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

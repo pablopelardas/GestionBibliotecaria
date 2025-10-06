@@ -1,0 +1,16 @@
+{
+    "libro_id": "33fab331-9c8c-46b6-9a79-a9ec7924ad23",
+    "isbn": "978-5-9245-1973-0",
+    "title": "Station eat",
+    "autor": "Jaime Morales",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "09F1275F903F4F1B8F53D77E11",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 496,
+            "user_id": "09F1275F903F4F1B8F53D77E11",
+            "regresado": false
+        }
+    ]
+}

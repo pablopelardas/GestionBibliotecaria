@@ -1,0 +1,10 @@
+{
+    "libro_id": "d81e19c2-90d8-48ec-9506-69e2d49a7c8f",
+    "isbn": "978-3-2259-2938-7",
+    "title": "Describe anyone time",
+    "autor": "Patrick Williams",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

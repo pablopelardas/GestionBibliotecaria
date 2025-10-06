@@ -1,0 +1,16 @@
+{
+    "libro_id": "432853aa-452f-4e65-b523-2ff8d20a551b",
+    "isbn": "978-1-4365-7869-0",
+    "title": "Successful we federal",
+    "autor": "Deanna Wolfe",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "4CF602AA596449B791F8E46E85",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 509,
+            "user_id": "4CF602AA596449B791F8E46E85",
+            "regresado": false
+        }
+    ]
+}

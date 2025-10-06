@@ -1,0 +1,10 @@
+{
+    "libro_id": "d1f99df8-fb34-46a4-932f-1abbeee2183a",
+    "isbn": "978-9-5304-7385-8",
+    "title": "Police amount",
+    "autor": "Robert Glenn",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

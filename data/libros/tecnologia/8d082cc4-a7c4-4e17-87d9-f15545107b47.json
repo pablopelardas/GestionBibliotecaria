@@ -1,0 +1,10 @@
+{
+    "libro_id": "8d082cc4-a7c4-4e17-87d9-f15545107b47",
+    "isbn": "978-2-9067-2796-5",
+    "title": "Good do worker",
+    "autor": "Rhonda Collins",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

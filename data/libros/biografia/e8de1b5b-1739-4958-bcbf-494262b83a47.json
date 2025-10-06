@@ -1,0 +1,16 @@
+{
+    "libro_id": "e8de1b5b-1739-4958-bcbf-494262b83a47",
+    "isbn": "978-6-8579-1386-6",
+    "title": "Throughout look",
+    "autor": "Erin Conner",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 362,
+            "user_id": "82137750501443689CC522C719",
+            "regresado": true
+        }
+    ]
+}

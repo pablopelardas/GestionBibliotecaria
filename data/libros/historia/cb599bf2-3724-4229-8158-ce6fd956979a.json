@@ -1,0 +1,16 @@
+{
+    "libro_id": "cb599bf2-3724-4229-8158-ce6fd956979a",
+    "isbn": "978-8-7660-9412-5",
+    "title": "Catch certainly economy",
+    "autor": "Peter Clarke",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 76,
+            "user_id": "D99F0399148E46CA8D60620FC9",
+            "regresado": true
+        }
+    ]
+}

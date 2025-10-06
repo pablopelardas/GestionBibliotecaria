@@ -1,0 +1,16 @@
+{
+    "libro_id": "224af07d-6e50-4584-86f1-c0a2752d134c",
+    "isbn": "978-7-7377-7750-9",
+    "title": "Leave thousand reveal",
+    "autor": "Heather Glass",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "3FD312DA7E3440D39355867DCF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 299,
+            "user_id": "3FD312DA7E3440D39355867DCF",
+            "regresado": false
+        }
+    ]
+}

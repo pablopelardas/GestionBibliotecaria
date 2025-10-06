@@ -1,0 +1,16 @@
+{
+    "libro_id": "ec94b3b9-e624-4217-af66-63dda0e913b9",
+    "isbn": "978-0-2165-3149-7",
+    "title": "Fact store analysis drop",
+    "autor": "Julie Robinson",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "BA4BA51D7CA641BC80DB50791C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 182,
+            "user_id": "BA4BA51D7CA641BC80DB50791C",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "5b3ccc59-1f4f-4820-8051-e00c3c4bd089",
+    "isbn": "978-4-2866-5331-9",
+    "title": "Whatever test",
+    "autor": "Rose Jones",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 226,
+            "user_id": "6140782966354FE886F6CAD740",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "ef33606a-a028-48bf-bc17-b1240efeb28c",
+    "isbn": "978-3-9970-2158-2",
+    "title": "Find daughter",
+    "autor": "Cindy Hanson",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 114,
+            "user_id": "DA4ED621CEBF4827986EBD3492",
+            "regresado": true
+        }
+    ]
+}

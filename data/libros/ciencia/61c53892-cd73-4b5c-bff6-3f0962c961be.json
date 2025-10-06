@@ -1,0 +1,16 @@
+{
+    "libro_id": "61c53892-cd73-4b5c-bff6-3f0962c961be",
+    "isbn": "978-4-9653-4409-8",
+    "title": "Small forward",
+    "autor": "Kelsey Woods",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "88AE5E7A138F4C32BD65E17FC6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 42,
+            "user_id": "88AE5E7A138F4C32BD65E17FC6",
+            "regresado": false
+        }
+    ]
+}

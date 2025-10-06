@@ -1,0 +1,16 @@
+{
+    "libro_id": "6af45f64-980b-43bb-8859-bc32495f2ea7",
+    "isbn": "978-0-7202-5857-6",
+    "title": "Discussion special summer",
+    "autor": "Diana Perry",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 476,
+            "user_id": "6705129255B94BFCBF7B93DAED",
+            "regresado": true
+        }
+    ]
+}

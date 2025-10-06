@@ -1,0 +1,10 @@
+{
+    "libro_id": "f42be6c2-c556-4c7f-a8ff-c5e9d792db6c",
+    "isbn": "978-8-1295-2089-4",
+    "title": "Push safe",
+    "autor": "Javier Russell",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

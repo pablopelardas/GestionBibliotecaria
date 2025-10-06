@@ -1,0 +1,16 @@
+{
+    "libro_id": "414ec790-0afe-43d2-a906-92dfab8a8f39",
+    "isbn": "978-4-2400-6662-4",
+    "title": "Create past popular",
+    "autor": "Lori Baker",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "DBD2703037B442CF882EAFE016",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 229,
+            "user_id": "DBD2703037B442CF882EAFE016",
+            "regresado": false
+        }
+    ]
+}

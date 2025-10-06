@@ -1,0 +1,16 @@
+{
+    "libro_id": "91aa89cb-21b7-4ea2-ba43-23400203ba3b",
+    "isbn": "978-1-5519-4855-8",
+    "title": "Major example pretty",
+    "autor": "Kathy Vasquez",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 381,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

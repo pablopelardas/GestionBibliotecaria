@@ -1,0 +1,10 @@
+{
+    "libro_id": "358e9d93-c5b4-45d9-9f54-6d7960e1ac46",
+    "isbn": "978-2-8277-9333-1",
+    "title": "Front line pass",
+    "autor": "Jared Newman",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

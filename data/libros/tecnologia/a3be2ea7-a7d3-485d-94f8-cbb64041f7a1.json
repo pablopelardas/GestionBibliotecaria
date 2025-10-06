@@ -1,0 +1,10 @@
+{
+    "libro_id": "a3be2ea7-a7d3-485d-94f8-cbb64041f7a1",
+    "isbn": "978-3-7756-9148-5",
+    "title": "Instead",
+    "autor": "Tyler Ayala",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

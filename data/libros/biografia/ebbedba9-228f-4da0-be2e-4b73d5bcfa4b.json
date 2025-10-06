@@ -1,0 +1,10 @@
+{
+    "libro_id": "ebbedba9-228f-4da0-be2e-4b73d5bcfa4b",
+    "isbn": "978-1-8991-9206-1",
+    "title": "Physical tough",
+    "autor": "Dustin Green",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

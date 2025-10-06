@@ -1,0 +1,16 @@
+{
+    "libro_id": "11cecfa4-9779-4625-8086-a488c3b372ee",
+    "isbn": "978-1-2784-6130-7",
+    "title": "Three rich student",
+    "autor": "Samuel Garrison",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "4FC2E2040CE24D54A545F1DB15",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 111,
+            "user_id": "4FC2E2040CE24D54A545F1DB15",
+            "regresado": false
+        }
+    ]
+}

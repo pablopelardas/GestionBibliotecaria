@@ -1,0 +1,16 @@
+{
+    "libro_id": "0e11a262-4eaa-4a6e-ac4f-3f744fd6fd3f",
+    "isbn": "978-2-9385-5068-5",
+    "title": "Leader know scene",
+    "autor": "Christopher Adams",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "13F6D0CBCE8C4CE7A8843E8034",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 499,
+            "user_id": "13F6D0CBCE8C4CE7A8843E8034",
+            "regresado": false
+        }
+    ]
+}

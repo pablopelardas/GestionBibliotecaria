@@ -1,0 +1,10 @@
+{
+    "libro_id": "35fd5b68-3eaa-4c75-af12-54479cd21d56",
+    "isbn": "978-4-3124-3902-0",
+    "title": "Positive",
+    "autor": "Kenneth Moore",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

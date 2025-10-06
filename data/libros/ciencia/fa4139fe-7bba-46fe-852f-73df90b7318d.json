@@ -1,0 +1,16 @@
+{
+    "libro_id": "fa4139fe-7bba-46fe-852f-73df90b7318d",
+    "isbn": "978-2-2877-7044-6",
+    "title": "Claim kid court",
+    "autor": "Jonathan Ryan",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "6DF94BAD2DB9457AA5669F3525",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 328,
+            "user_id": "6DF94BAD2DB9457AA5669F3525",
+            "regresado": false
+        }
+    ]
+}

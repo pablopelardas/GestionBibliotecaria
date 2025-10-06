@@ -1,0 +1,16 @@
+{
+    "libro_id": "316be416-bf0e-4458-ad78-3d6676d67b4d",
+    "isbn": "978-0-3416-7717-0",
+    "title": "Onto heavy",
+    "autor": "Anthony Wilcox",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 50,
+            "user_id": "686D7958B02D4DAE91C922769C",
+            "regresado": true
+        }
+    ]
+}

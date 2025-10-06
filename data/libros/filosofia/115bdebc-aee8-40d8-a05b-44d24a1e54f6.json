@@ -1,0 +1,10 @@
+{
+    "libro_id": "115bdebc-aee8-40d8-a05b-44d24a1e54f6",
+    "isbn": "978-6-4568-9698-3",
+    "title": "Rather man",
+    "autor": "Eric Cook",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

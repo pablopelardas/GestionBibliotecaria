@@ -1,0 +1,10 @@
+{
+    "libro_id": "02f83c4b-875d-457c-a2b5-4e5dadeeb103",
+    "isbn": "978-4-6692-5922-1",
+    "title": "Effect along majority",
+    "autor": "Elizabeth Newman",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

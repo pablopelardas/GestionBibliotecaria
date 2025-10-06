@@ -1,0 +1,10 @@
+{
+    "libro_id": "fa82cd65-a05b-430b-a9eb-48ae90345e71",
+    "isbn": "978-9-9084-2948-4",
+    "title": "Decision maintain",
+    "autor": "Gregory Turner",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

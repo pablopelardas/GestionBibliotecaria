@@ -1,0 +1,10 @@
+{
+    "libro_id": "9ce55ac3-4c37-41a6-aea6-af5387873a01",
+    "isbn": "978-0-2021-1546-6",
+    "title": "Lot sort type",
+    "autor": "Lisa Allen",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

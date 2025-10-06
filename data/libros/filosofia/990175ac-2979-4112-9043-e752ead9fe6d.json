@@ -1,0 +1,16 @@
+{
+    "libro_id": "990175ac-2979-4112-9043-e752ead9fe6d",
+    "isbn": "978-9-4093-3804-2",
+    "title": "Spring full door",
+    "autor": "Logan Long",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "649E9CBC00A94467BA4ADE7A19",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 345,
+            "user_id": "649E9CBC00A94467BA4ADE7A19",
+            "regresado": false
+        }
+    ]
+}

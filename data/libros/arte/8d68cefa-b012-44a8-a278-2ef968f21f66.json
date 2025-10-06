@@ -1,0 +1,16 @@
+{
+    "libro_id": "8d68cefa-b012-44a8-a278-2ef968f21f66",
+    "isbn": "978-3-4770-6947-0",
+    "title": "Piece grow",
+    "autor": "Brittany Mclaughlin",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "F8E6F6FAAF4C4FEAB8D37C02DD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 367,
+            "user_id": "F8E6F6FAAF4C4FEAB8D37C02DD",
+            "regresado": false
+        }
+    ]
+}

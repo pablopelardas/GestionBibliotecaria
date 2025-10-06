@@ -1,0 +1,16 @@
+{
+    "libro_id": "fdeeb3bd-9cd8-43c7-88e7-180d71ff9709",
+    "isbn": "978-0-4119-9415-9",
+    "title": "Run ago",
+    "autor": "Patrick Jenkins",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "831150D601BC489BACB3D8175E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 500,
+            "user_id": "831150D601BC489BACB3D8175E",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a1381f8f-892c-4f72-b68b-69753cda9a4a",
+    "isbn": "978-4-3268-8910-8",
+    "title": "Gas throughout",
+    "autor": "Janet Villanueva",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "CE5ECA51EAF54B11850C4DE8CD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 10,
+            "user_id": "CE5ECA51EAF54B11850C4DE8CD",
+            "regresado": false
+        }
+    ]
+}

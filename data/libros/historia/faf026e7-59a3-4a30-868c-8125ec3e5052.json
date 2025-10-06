@@ -1,0 +1,10 @@
+{
+    "libro_id": "faf026e7-59a3-4a30-868c-8125ec3e5052",
+    "isbn": "978-5-2100-8687-4",
+    "title": "Itself trip",
+    "autor": "Juan Riddle",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

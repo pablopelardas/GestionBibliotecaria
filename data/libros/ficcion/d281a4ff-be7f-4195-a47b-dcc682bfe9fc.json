@@ -1,0 +1,16 @@
+{
+    "libro_id": "d281a4ff-be7f-4195-a47b-dcc682bfe9fc",
+    "isbn": "978-2-1511-7349-6",
+    "title": "Me research against",
+    "autor": "Jeffery Strong",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 477,
+            "user_id": "8D06060BD9D14408BE8913AAD0",
+            "regresado": true
+        }
+    ]
+}

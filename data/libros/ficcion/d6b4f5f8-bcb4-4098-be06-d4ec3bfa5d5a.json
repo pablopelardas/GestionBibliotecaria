@@ -1,0 +1,10 @@
+{
+    "libro_id": "d6b4f5f8-bcb4-4098-be06-d4ec3bfa5d5a",
+    "isbn": "978-7-6631-3428-8",
+    "title": "Blood receive",
+    "autor": "Anthony Murphy",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

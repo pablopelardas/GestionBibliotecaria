@@ -1,0 +1,10 @@
+{
+    "libro_id": "fee252a2-ada0-4dbe-b71d-dc82f577740d",
+    "isbn": "978-6-5436-4916-3",
+    "title": "Support fight",
+    "autor": "Michael Wilson",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

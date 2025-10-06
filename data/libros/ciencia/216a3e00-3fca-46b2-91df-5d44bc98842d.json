@@ -1,0 +1,10 @@
+{
+    "libro_id": "216a3e00-3fca-46b2-91df-5d44bc98842d",
+    "isbn": "978-7-3925-6389-4",
+    "title": "Share",
+    "autor": "Allison Ross",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

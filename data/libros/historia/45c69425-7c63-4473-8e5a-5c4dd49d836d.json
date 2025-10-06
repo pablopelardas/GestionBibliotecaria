@@ -1,0 +1,16 @@
+{
+    "libro_id": "45c69425-7c63-4473-8e5a-5c4dd49d836d",
+    "isbn": "978-0-9646-3049-2",
+    "title": "Every meet near",
+    "autor": "James Parks",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "7360A345EB6049BAA219CBA365",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 404,
+            "user_id": "7360A345EB6049BAA219CBA365",
+            "regresado": false
+        }
+    ]
+}

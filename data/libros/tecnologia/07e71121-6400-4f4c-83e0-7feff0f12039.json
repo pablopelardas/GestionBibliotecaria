@@ -1,0 +1,10 @@
+{
+    "libro_id": "07e71121-6400-4f4c-83e0-7feff0f12039",
+    "isbn": "978-2-8074-1535-5",
+    "title": "Manage",
+    "autor": "Sean Robinson",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

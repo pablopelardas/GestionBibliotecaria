@@ -1,0 +1,16 @@
+{
+    "libro_id": "93ae3781-2db1-448e-b028-297f0602a7bc",
+    "isbn": "978-8-6212-4835-7",
+    "title": "Development upon",
+    "autor": "Ms. Brooke Thompson",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "0242BCA1DB194B0E851B0DAC5F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 261,
+            "user_id": "0242BCA1DB194B0E851B0DAC5F",
+            "regresado": false
+        }
+    ]
+}

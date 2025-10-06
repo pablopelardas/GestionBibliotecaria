@@ -1,0 +1,16 @@
+{
+    "libro_id": "bdb8a92a-07a5-48da-9cbb-26f3270cb454",
+    "isbn": "978-0-1798-2586-6",
+    "title": "Various hot",
+    "autor": "Kathryn Scott",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 104,
+            "user_id": "6C2B71C90D084C5C9B66734540",
+            "regresado": true
+        }
+    ]
+}

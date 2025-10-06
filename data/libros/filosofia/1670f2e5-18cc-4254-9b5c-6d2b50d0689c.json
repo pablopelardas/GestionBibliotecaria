@@ -1,0 +1,16 @@
+{
+    "libro_id": "1670f2e5-18cc-4254-9b5c-6d2b50d0689c",
+    "isbn": "978-4-2710-1509-3",
+    "title": "Subject card onto",
+    "autor": "Chris Johnson",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 462,
+            "user_id": "9F6CFC809911417E9BA852361C",
+            "regresado": true
+        }
+    ]
+}

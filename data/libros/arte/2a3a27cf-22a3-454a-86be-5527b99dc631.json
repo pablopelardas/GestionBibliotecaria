@@ -1,0 +1,16 @@
+{
+    "libro_id": "2a3a27cf-22a3-454a-86be-5527b99dc631",
+    "isbn": "978-3-7771-8929-7",
+    "title": "Order store challenge big",
+    "autor": "Charles Andrews",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "5A255506D68D4637A8BF6319F5",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 515,
+            "user_id": "5A255506D68D4637A8BF6319F5",
+            "regresado": false
+        }
+    ]
+}

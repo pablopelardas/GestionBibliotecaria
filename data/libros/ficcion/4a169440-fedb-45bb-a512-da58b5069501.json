@@ -1,0 +1,10 @@
+{
+    "libro_id": "4a169440-fedb-45bb-a512-da58b5069501",
+    "isbn": "978-5-4615-7091-5",
+    "title": "Test have example",
+    "autor": "Ashley Hill",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

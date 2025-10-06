@@ -1,0 +1,16 @@
+{
+    "libro_id": "62b7cbb1-2f34-43bf-9cdb-8214aab7ca21",
+    "isbn": "978-8-3779-3377-3",
+    "title": "Pressure wish arm",
+    "autor": "Taylor Allen",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "99A8EE7ABC4C46C0826AEF5B4E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 538,
+            "user_id": "99A8EE7ABC4C46C0826AEF5B4E",
+            "regresado": false
+        }
+    ]
+}

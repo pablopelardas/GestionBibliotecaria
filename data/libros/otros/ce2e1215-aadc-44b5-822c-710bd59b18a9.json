@@ -1,0 +1,10 @@
+{
+    "libro_id": "ce2e1215-aadc-44b5-822c-710bd59b18a9",
+    "isbn": "978-3-5099-2299-9",
+    "title": "Condition south",
+    "autor": "Isabel Patterson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "d5120505-e009-42f8-bd0c-9a521575acd8",
+    "isbn": "978-1-5296-1653-0",
+    "title": "Picture receive collection",
+    "autor": "Ryan Ramos",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "DA4ED621CEBF4827986EBD3492",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 263,
+            "user_id": "DA4ED621CEBF4827986EBD3492",
+            "regresado": false
+        }
+    ]
+}

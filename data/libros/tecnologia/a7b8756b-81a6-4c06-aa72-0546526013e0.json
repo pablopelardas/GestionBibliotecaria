@@ -1,0 +1,10 @@
+{
+    "libro_id": "a7b8756b-81a6-4c06-aa72-0546526013e0",
+    "isbn": "978-0-5662-7391-3",
+    "title": "Catch about",
+    "autor": "Bethany Sharp",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

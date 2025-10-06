@@ -1,0 +1,16 @@
+{
+    "libro_id": "d7b9a3a8-45a9-4a5f-9569-c910bb51c5c5",
+    "isbn": "978-6-5607-7926-8",
+    "title": "House wall",
+    "autor": "Joshua Mcgee",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 548,
+            "user_id": "EBC4BC0DAA684D538B2FEFFB90",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a8d76126-92aa-4df4-a37e-c233fd28177b",
+    "isbn": "978-4-7382-7526-7",
+    "title": "Police after get first",
+    "autor": "Joshua Turner",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "53EC8831D46D4634A12C57526E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 393,
+            "user_id": "53EC8831D46D4634A12C57526E",
+            "regresado": false
+        }
+    ]
+}

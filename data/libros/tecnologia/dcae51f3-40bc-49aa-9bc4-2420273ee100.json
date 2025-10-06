@@ -1,0 +1,16 @@
+{
+    "libro_id": "dcae51f3-40bc-49aa-9bc4-2420273ee100",
+    "isbn": "978-7-5029-9996-6",
+    "title": "Treat see win",
+    "autor": "April Douglas MD",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "0EB50A92A8EE4AD284DC6114EC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 133,
+            "user_id": "0EB50A92A8EE4AD284DC6114EC",
+            "regresado": false
+        }
+    ]
+}

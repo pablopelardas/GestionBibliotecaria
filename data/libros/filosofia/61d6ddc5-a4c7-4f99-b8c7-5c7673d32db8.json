@@ -1,0 +1,10 @@
+{
+    "libro_id": "61d6ddc5-a4c7-4f99-b8c7-5c7673d32db8",
+    "isbn": "978-1-8590-3648-8",
+    "title": "Within news water",
+    "autor": "Douglas Garcia",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

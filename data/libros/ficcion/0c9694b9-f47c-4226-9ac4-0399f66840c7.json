@@ -1,0 +1,10 @@
+{
+    "libro_id": "0c9694b9-f47c-4226-9ac4-0399f66840c7",
+    "isbn": "978-2-4189-5821-0",
+    "title": "Citizen his",
+    "autor": "Marcia Allison",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

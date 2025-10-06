@@ -1,0 +1,10 @@
+{
+    "libro_id": "b94c72ae-1981-4bbe-9fa9-77ec78112d4c",
+    "isbn": "978-6-5039-1281-4",
+    "title": "Three read",
+    "autor": "Debbie Horne",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "f59641cc-444c-43cb-b218-14588a524453",
+    "isbn": "978-1-6302-1085-2",
+    "title": "Benefit thousand",
+    "autor": "Danny Jackson",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "6B52BF9F8DF5434AB52B3224C6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 298,
+            "user_id": "6B52BF9F8DF5434AB52B3224C6",
+            "regresado": false
+        }
+    ]
+}

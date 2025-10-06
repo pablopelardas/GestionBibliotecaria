@@ -1,0 +1,16 @@
+{
+    "libro_id": "b73735e6-7554-455b-abac-bcfc53fa4546",
+    "isbn": "978-9-5070-7148-7",
+    "title": "Focus lay which",
+    "autor": "Sarah King",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "A8AB63589F074448A7BAD8D435",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 70,
+            "user_id": "A8AB63589F074448A7BAD8D435",
+            "regresado": false
+        }
+    ]
+}

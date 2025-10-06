@@ -1,0 +1,16 @@
+{
+    "libro_id": "92803ec1-5d18-465d-aed3-b6605758d0c5",
+    "isbn": "978-1-9212-8876-3",
+    "title": "In body development",
+    "autor": "Matthew Beard",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "7ABB18411C8D4CE9A7BFE21814",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 120,
+            "user_id": "7ABB18411C8D4CE9A7BFE21814",
+            "regresado": false
+        }
+    ]
+}

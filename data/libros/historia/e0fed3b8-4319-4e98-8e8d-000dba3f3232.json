@@ -1,0 +1,16 @@
+{
+    "libro_id": "e0fed3b8-4319-4e98-8e8d-000dba3f3232",
+    "isbn": "978-5-5007-6913-7",
+    "title": "Cause his",
+    "autor": "Brian Edwards",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 78,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "fb4aadb9-fdd0-4e4f-b0b6-03b16e94be23",
+    "isbn": "978-6-5247-2789-6",
+    "title": "Tv unit",
+    "autor": "Michael Williams",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

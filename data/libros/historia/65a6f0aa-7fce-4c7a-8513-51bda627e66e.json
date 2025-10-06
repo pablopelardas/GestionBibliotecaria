@@ -1,0 +1,16 @@
+{
+    "libro_id": "65a6f0aa-7fce-4c7a-8513-51bda627e66e",
+    "isbn": "978-1-9253-5981-1",
+    "title": "Gas team make",
+    "autor": "Michael Brooks",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 352,
+            "user_id": "DCF6324C369440E0B0A08C402F",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "c9fab2c0-c2b8-4206-bd0d-90929749dd0a",
+    "isbn": "978-9-5559-9500-4",
+    "title": "Surface lawyer indicate",
+    "autor": "Diana Mccall",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 334,
+            "user_id": "EED0E1E29E924015AE1376397D",
+            "regresado": true
+        }
+    ]
+}

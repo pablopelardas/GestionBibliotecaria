@@ -1,0 +1,16 @@
+{
+    "libro_id": "b0751fbc-3953-4cb5-b322-fc9ac37cb8df",
+    "isbn": "978-6-4827-3417-6",
+    "title": "Fund today pay",
+    "autor": "Christopher Burke",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 163,
+            "user_id": "1A11C25A506D4998A5B864FDF9",
+            "regresado": true
+        }
+    ]
+}

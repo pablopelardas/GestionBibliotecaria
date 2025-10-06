@@ -1,0 +1,16 @@
+{
+    "libro_id": "b98cab09-ee0a-4b89-9b36-1a6bd5cfc202",
+    "isbn": "978-8-7837-3878-3",
+    "title": "Team realize",
+    "autor": "Justin Daugherty",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "6DF94BAD2DB9457AA5669F3525",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 375,
+            "user_id": "6DF94BAD2DB9457AA5669F3525",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "e697b7e0-cf26-4a0f-8027-86e39e72d019",
+    "isbn": "978-6-9752-2670-4",
+    "title": "Share from address",
+    "autor": "Shannon Thompson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

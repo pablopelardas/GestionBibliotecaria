@@ -1,0 +1,16 @@
+{
+    "libro_id": "b0850838-f7ea-4568-a8c8-e16108b0691e",
+    "isbn": "978-1-3003-1350-1",
+    "title": "Know part best",
+    "autor": "Nathan Burke",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "9F6CFC809911417E9BA852361C",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 290,
+            "user_id": "9F6CFC809911417E9BA852361C",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "97c0fe72-a43e-49b2-acc3-efb20db6fd17",
+    "isbn": "978-0-2647-6204-7",
+    "title": "Matter per",
+    "autor": "Karen Stark",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "9FF77BBEC0CF466A8C9B44DE0E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 154,
+            "user_id": "9FF77BBEC0CF466A8C9B44DE0E",
+            "regresado": false
+        }
+    ]
+}

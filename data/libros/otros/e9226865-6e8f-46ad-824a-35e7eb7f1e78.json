@@ -1,0 +1,16 @@
+{
+    "libro_id": "e9226865-6e8f-46ad-824a-35e7eb7f1e78",
+    "isbn": "978-4-5294-8421-1",
+    "title": "Chair gas",
+    "autor": "Arthur Lee",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "91924750C2364C3695A0CB9683",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 228,
+            "user_id": "91924750C2364C3695A0CB9683",
+            "regresado": false
+        }
+    ]
+}

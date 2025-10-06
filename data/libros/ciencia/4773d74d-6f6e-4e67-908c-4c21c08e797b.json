@@ -1,0 +1,16 @@
+{
+    "libro_id": "4773d74d-6f6e-4e67-908c-4c21c08e797b",
+    "isbn": "978-0-8151-1772-0",
+    "title": "Summer attention",
+    "autor": "Steve Garner",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "7771DBFE8E274790A529D84472",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 264,
+            "user_id": "7771DBFE8E274790A529D84472",
+            "regresado": false
+        }
+    ]
+}

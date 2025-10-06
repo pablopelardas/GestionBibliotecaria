@@ -1,0 +1,16 @@
+{
+    "libro_id": "343752b0-b400-4255-91ce-5ec1e3e25adb",
+    "isbn": "978-4-3148-3729-2",
+    "title": "Expect happen five",
+    "autor": "Courtney Brown",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "6C2B71C90D084C5C9B66734540",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 219,
+            "user_id": "6C2B71C90D084C5C9B66734540",
+            "regresado": false
+        }
+    ]
+}

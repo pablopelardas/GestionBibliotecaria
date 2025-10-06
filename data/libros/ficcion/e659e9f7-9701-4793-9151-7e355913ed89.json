@@ -1,0 +1,10 @@
+{
+    "libro_id": "e659e9f7-9701-4793-9151-7e355913ed89",
+    "isbn": "978-9-7173-5205-3",
+    "title": "Leader entire director",
+    "autor": "Paige Williams",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "a215bd03-2c12-480c-ab05-ec3be10a3eb2",
+    "isbn": "978-1-9715-1252-8",
+    "title": "Development baby recognize",
+    "autor": "Vincent Graham",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "5960CD4DE33F45F6B182E12A84",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 300,
+            "user_id": "5960CD4DE33F45F6B182E12A84",
+            "regresado": false
+        }
+    ]
+}

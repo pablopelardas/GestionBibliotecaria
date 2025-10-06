@@ -1,0 +1,10 @@
+{
+    "libro_id": "ff67d953-4fb4-4a04-be0d-a2ab97012abb",
+    "isbn": "978-9-8664-1207-5",
+    "title": "Arrive east",
+    "autor": "Ashlee Miller",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

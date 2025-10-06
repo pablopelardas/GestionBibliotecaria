@@ -1,0 +1,16 @@
+{
+    "libro_id": "182cb626-56c6-42f7-9a5f-fdf7bb14a84b",
+    "isbn": "978-3-1055-7173-7",
+    "title": "Good return treatment",
+    "autor": "Catherine Chapman",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 443,
+            "user_id": "C3208025555C436F9F89A7BE3D",
+            "regresado": true
+        }
+    ]
+}

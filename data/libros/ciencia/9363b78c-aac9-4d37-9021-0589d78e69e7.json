@@ -1,0 +1,10 @@
+{
+    "libro_id": "9363b78c-aac9-4d37-9021-0589d78e69e7",
+    "isbn": "978-8-4694-4425-6",
+    "title": "Fish away",
+    "autor": "Daniel Ramirez",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

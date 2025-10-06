@@ -1,0 +1,16 @@
+{
+    "libro_id": "16f07c1b-ffdf-4a40-9f88-8f476030d0ef",
+    "isbn": "978-9-7144-8374-2",
+    "title": "Some always box",
+    "autor": "Micheal Wheeler",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 224,
+            "user_id": "B2E3F18B364B4E2EBB6CC376AA",
+            "regresado": true
+        }
+    ]
+}

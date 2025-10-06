@@ -1,0 +1,16 @@
+{
+    "libro_id": "a58897b2-7d20-4f0e-8daf-5667da680164",
+    "isbn": "978-6-3965-5389-0",
+    "title": "Consider opportunity central",
+    "autor": "Ian Brandt",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "E9F242D70BE340B9A8F9478C04",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 354,
+            "user_id": "E9F242D70BE340B9A8F9478C04",
+            "regresado": false
+        }
+    ]
+}

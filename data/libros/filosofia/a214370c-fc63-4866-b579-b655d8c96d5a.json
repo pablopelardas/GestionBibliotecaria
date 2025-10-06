@@ -1,0 +1,10 @@
+{
+    "libro_id": "a214370c-fc63-4866-b579-b655d8c96d5a",
+    "isbn": "978-7-7953-2139-6",
+    "title": "Evening many",
+    "autor": "Timothy Lowe",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

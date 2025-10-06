@@ -1,0 +1,10 @@
+{
+    "libro_id": "26527296-df3b-4c65-8e39-dba4746c701d",
+    "isbn": "978-3-1580-8779-4",
+    "title": "Right whatever",
+    "autor": "Gerald Bell",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

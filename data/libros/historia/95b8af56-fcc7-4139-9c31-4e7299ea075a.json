@@ -1,0 +1,10 @@
+{
+    "libro_id": "95b8af56-fcc7-4139-9c31-4e7299ea075a",
+    "isbn": "978-7-7888-8283-3",
+    "title": "President according sometimes",
+    "autor": "Ryan Cline",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

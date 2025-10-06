@@ -1,0 +1,16 @@
+{
+    "libro_id": "efdb1540-083f-403f-8096-0b3656f51a46",
+    "isbn": "978-7-7306-3972-9",
+    "title": "Hundred alone",
+    "autor": "Todd Adams",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 295,
+            "user_id": "DB5A26EDFD5C4C1DBD4DDA3D3A",
+            "regresado": false
+        }
+    ]
+}

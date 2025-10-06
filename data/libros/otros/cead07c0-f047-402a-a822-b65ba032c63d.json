@@ -1,0 +1,16 @@
+{
+    "libro_id": "cead07c0-f047-402a-a822-b65ba032c63d",
+    "isbn": "978-6-5605-8766-3",
+    "title": "Save land character",
+    "autor": "Anna Webb",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "3FD312DA7E3440D39355867DCF",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 503,
+            "user_id": "3FD312DA7E3440D39355867DCF",
+            "regresado": false
+        }
+    ]
+}

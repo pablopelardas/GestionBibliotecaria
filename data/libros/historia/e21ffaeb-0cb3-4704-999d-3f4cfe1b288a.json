@@ -1,0 +1,16 @@
+{
+    "libro_id": "e21ffaeb-0cb3-4704-999d-3f4cfe1b288a",
+    "isbn": "978-9-3859-8123-6",
+    "title": "Heavy tough develop",
+    "autor": "Mark Roy",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "28CAEBF9A8FD4D039DF20A7F1B",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 75,
+            "user_id": "28CAEBF9A8FD4D039DF20A7F1B",
+            "regresado": false
+        }
+    ]
+}

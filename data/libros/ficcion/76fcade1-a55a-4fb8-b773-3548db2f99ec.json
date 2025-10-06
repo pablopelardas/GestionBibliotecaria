@@ -1,0 +1,10 @@
+{
+    "libro_id": "76fcade1-a55a-4fb8-b773-3548db2f99ec",
+    "isbn": "978-9-1337-6743-1",
+    "title": "Director",
+    "autor": "Sean Kennedy",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

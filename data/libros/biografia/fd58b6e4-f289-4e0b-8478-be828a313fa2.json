@@ -1,0 +1,16 @@
+{
+    "libro_id": "fd58b6e4-f289-4e0b-8478-be828a313fa2",
+    "isbn": "978-8-1966-6189-3",
+    "title": "Carry relationship audience imagine",
+    "autor": "Tina Willis",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "0368C46F5677429AA8C97AA2E6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 187,
+            "user_id": "0368C46F5677429AA8C97AA2E6",
+            "regresado": false
+        }
+    ]
+}

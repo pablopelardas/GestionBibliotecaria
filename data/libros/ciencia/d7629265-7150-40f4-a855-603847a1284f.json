@@ -1,0 +1,16 @@
+{
+    "libro_id": "d7629265-7150-40f4-a855-603847a1284f",
+    "isbn": "978-5-3386-2113-0",
+    "title": "Help parent lose",
+    "autor": "Keith Lee",
+    "genero": "ciencia",
+    "disponible": false,
+    "prestamo_actual": "6DF94BAD2DB9457AA5669F3525",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 43,
+            "user_id": "6DF94BAD2DB9457AA5669F3525",
+            "regresado": false
+        }
+    ]
+}

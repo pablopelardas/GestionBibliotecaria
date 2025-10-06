@@ -1,0 +1,16 @@
+{
+    "libro_id": "2c0a4d4d-e4ca-4742-b345-76be232fd5dd",
+    "isbn": "978-3-3382-7393-6",
+    "title": "Wish feeling",
+    "autor": "Manuel Wise",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "54D4E2A7E73641778B83DB1E0F",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 85,
+            "user_id": "54D4E2A7E73641778B83DB1E0F",
+            "regresado": false
+        }
+    ]
+}

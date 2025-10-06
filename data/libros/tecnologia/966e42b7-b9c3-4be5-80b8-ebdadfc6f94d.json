@@ -1,0 +1,10 @@
+{
+    "libro_id": "966e42b7-b9c3-4be5-80b8-ebdadfc6f94d",
+    "isbn": "978-1-5720-1821-0",
+    "title": "Service",
+    "autor": "Maxwell Hurst",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

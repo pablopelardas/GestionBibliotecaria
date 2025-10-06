@@ -1,0 +1,16 @@
+{
+    "libro_id": "1ec57954-dde7-4f68-83d9-fea840c07a48",
+    "isbn": "978-6-7718-1894-4",
+    "title": "Hit bring",
+    "autor": "Brenda Williams",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 428,
+            "user_id": "5C9D2B1017424AAFBA2A0AFDEC",
+            "regresado": true
+        }
+    ]
+}

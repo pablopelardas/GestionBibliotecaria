@@ -1,0 +1,10 @@
+{
+    "libro_id": "cf6709f9-99b8-4e75-92a7-f7f695a45498",
+    "isbn": "978-9-1562-8094-7",
+    "title": "Company huge",
+    "autor": "Erin Barber",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

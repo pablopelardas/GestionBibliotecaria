@@ -1,0 +1,10 @@
+{
+    "libro_id": "d42601f8-a170-48c3-b96c-84a9dc519cfb",
+    "isbn": "978-6-4552-5176-1",
+    "title": "Ball",
+    "autor": "Cory Castillo",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "f0bcdae6-14fb-4dcc-bd7a-d84e34a139d5",
+    "isbn": "978-1-3219-7054-4",
+    "title": "Guess degree child",
+    "autor": "Christopher Sullivan",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

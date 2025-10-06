@@ -1,0 +1,16 @@
+{
+    "libro_id": "9a56ca2d-3721-4bc5-a343-8da695760725",
+    "isbn": "978-2-4904-9610-0",
+    "title": "Least common carry",
+    "autor": "Mark Burton",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "B25B239FEEE04C689C5CA59501",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 251,
+            "user_id": "B25B239FEEE04C689C5CA59501",
+            "regresado": false
+        }
+    ]
+}

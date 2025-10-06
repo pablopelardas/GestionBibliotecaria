@@ -1,0 +1,10 @@
+{
+    "libro_id": "64053f04-3cd3-4c8f-9b9a-9b3f0ed72605",
+    "isbn": "978-9-5619-8210-8",
+    "title": "Lose body",
+    "autor": "Julie Franklin",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

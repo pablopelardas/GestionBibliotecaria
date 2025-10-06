@@ -1,0 +1,10 @@
+{
+    "libro_id": "12bc3ec2-19ae-4927-aa7c-25d1ad8df349",
+    "isbn": "978-7-1880-9133-5",
+    "title": "Ball win",
+    "autor": "Abigail Watson",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

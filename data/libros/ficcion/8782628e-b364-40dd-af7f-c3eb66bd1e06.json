@@ -1,0 +1,10 @@
+{
+    "libro_id": "8782628e-b364-40dd-af7f-c3eb66bd1e06",
+    "isbn": "978-1-1863-6955-8",
+    "title": "Trade bring establish",
+    "autor": "Daniel Brewer",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

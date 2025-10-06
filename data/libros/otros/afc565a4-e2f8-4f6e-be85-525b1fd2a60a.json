@@ -1,0 +1,10 @@
+{
+    "libro_id": "afc565a4-e2f8-4f6e-be85-525b1fd2a60a",
+    "isbn": "978-5-5949-6657-5",
+    "title": "Operation least",
+    "autor": "Brandon Stephens",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

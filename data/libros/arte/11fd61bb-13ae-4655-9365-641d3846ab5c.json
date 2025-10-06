@@ -1,0 +1,10 @@
+{
+    "libro_id": "11fd61bb-13ae-4655-9365-641d3846ab5c",
+    "isbn": "978-8-1736-2117-6",
+    "title": "Order finish billion",
+    "autor": "Jacob Ward",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

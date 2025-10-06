@@ -1,0 +1,16 @@
+{
+    "libro_id": "4ce8d14c-1ecd-4f6a-83e7-c6df3ad8ae1a",
+    "isbn": "978-8-2621-6902-9",
+    "title": "Final light",
+    "autor": "Dan Landry",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "49A8470F4515401F9365E05BBD",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 522,
+            "user_id": "49A8470F4515401F9365E05BBD",
+            "regresado": false
+        }
+    ]
+}

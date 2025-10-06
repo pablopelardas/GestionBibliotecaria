@@ -1,0 +1,16 @@
+{
+    "libro_id": "37d73134-4194-4ec1-b34d-07330ad581fe",
+    "isbn": "978-0-1816-5782-7",
+    "title": "Treat such",
+    "autor": "Diana Johnson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "704EB948F2BE48C887F0BD08F7",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 138,
+            "user_id": "704EB948F2BE48C887F0BD08F7",
+            "regresado": false
+        }
+    ]
+}

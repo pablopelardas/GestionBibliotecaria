@@ -1,0 +1,16 @@
+{
+    "libro_id": "aecefdac-9725-4a99-8471-7247f5200c19",
+    "isbn": "978-2-6138-6529-1",
+    "title": "Maintain once",
+    "autor": "John Welch",
+    "genero": "ficcion",
+    "disponible": false,
+    "prestamo_actual": "5A6B35B7BE074985BB5ADACFA4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 289,
+            "user_id": "5A6B35B7BE074985BB5ADACFA4",
+            "regresado": false
+        }
+    ]
+}

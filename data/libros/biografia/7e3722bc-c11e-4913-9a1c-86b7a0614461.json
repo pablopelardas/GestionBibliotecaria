@@ -1,0 +1,16 @@
+{
+    "libro_id": "7e3722bc-c11e-4913-9a1c-86b7a0614461",
+    "isbn": "978-0-9293-4649-5",
+    "title": "President action note",
+    "autor": "Sarah Mcdowell",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "E1BBA4F46CC9474F8E9F99FAA7",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 4,
+            "user_id": "E1BBA4F46CC9474F8E9F99FAA7",
+            "regresado": false
+        }
+    ]
+}

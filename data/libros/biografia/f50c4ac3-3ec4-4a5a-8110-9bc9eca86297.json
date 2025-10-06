@@ -1,0 +1,16 @@
+{
+    "libro_id": "f50c4ac3-3ec4-4a5a-8110-9bc9eca86297",
+    "isbn": "978-1-1962-2746-0",
+    "title": "Guy art",
+    "autor": "Ashley Peterson",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "3C30677A01AB41C0B01896AD0E",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 89,
+            "user_id": "3C30677A01AB41C0B01896AD0E",
+            "regresado": false
+        }
+    ]
+}

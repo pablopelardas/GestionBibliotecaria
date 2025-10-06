@@ -1,0 +1,16 @@
+{
+    "libro_id": "4b869621-7ced-45ab-b1da-f34862bf2037",
+    "isbn": "978-8-2071-2296-9",
+    "title": "Floor door",
+    "autor": "Melissa Morgan",
+    "genero": "arte",
+    "disponible": false,
+    "prestamo_actual": "6140782966354FE886F6CAD740",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 238,
+            "user_id": "6140782966354FE886F6CAD740",
+            "regresado": false
+        }
+    ]
+}

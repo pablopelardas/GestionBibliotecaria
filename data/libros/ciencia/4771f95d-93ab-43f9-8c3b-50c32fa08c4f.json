@@ -1,0 +1,16 @@
+{
+    "libro_id": "4771f95d-93ab-43f9-8c3b-50c32fa08c4f",
+    "isbn": "978-6-5038-8720-7",
+    "title": "Visit during professional",
+    "autor": "Larry Nolan",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 467,
+            "user_id": "DB9076ABB1344166B6FF4CB433",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "3abe4f31-d7b1-44b4-a286-eac9a0752834",
+    "isbn": "978-0-7780-3324-1",
+    "title": "Bed able",
+    "autor": "Kimberly Sellers",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "53D6288C01A14C2E8783181ADA",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 105,
+            "user_id": "53D6288C01A14C2E8783181ADA",
+            "regresado": false
+        }
+    ]
+}

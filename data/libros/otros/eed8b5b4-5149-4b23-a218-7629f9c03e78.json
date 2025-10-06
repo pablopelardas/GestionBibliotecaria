@@ -1,0 +1,16 @@
+{
+    "libro_id": "eed8b5b4-5149-4b23-a218-7629f9c03e78",
+    "isbn": "978-5-6257-6481-4",
+    "title": "Available action fund",
+    "autor": "Kevin Fernandez",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "7771DBFE8E274790A529D84472",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 60,
+            "user_id": "7771DBFE8E274790A529D84472",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "462a3090-5e2f-4159-8c72-e82460eaf127",
+    "isbn": "978-6-6607-8674-4",
+    "title": "Write others",
+    "autor": "Andrew Baker",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "D99F0399148E46CA8D60620FC9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 110,
+            "user_id": "D99F0399148E46CA8D60620FC9",
+            "regresado": false
+        }
+    ]
+}

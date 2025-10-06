@@ -1,0 +1,16 @@
+{
+    "libro_id": "d81610b5-5ea0-471d-a528-f459ca783851",
+    "isbn": "978-5-1481-5732-2",
+    "title": "Tell information image",
+    "autor": "Heather Washington",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "44584EFE00364346B2B6931026",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 420,
+            "user_id": "44584EFE00364346B2B6931026",
+            "regresado": false
+        }
+    ]
+}

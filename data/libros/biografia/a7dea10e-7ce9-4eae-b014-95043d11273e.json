@@ -1,0 +1,10 @@
+{
+    "libro_id": "a7dea10e-7ce9-4eae-b014-95043d11273e",
+    "isbn": "978-6-5506-9224-0",
+    "title": "Lay tell",
+    "autor": "Kelly Keller",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "991f5252-ab26-49db-b9cd-146dec1e301c",
+    "isbn": "978-9-9853-6315-7",
+    "title": "Fall event reflect",
+    "autor": "Eric Chavez",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 374,
+            "user_id": "95888E6AFE5042769122AF497E",
+            "regresado": true
+        }
+    ]
+}

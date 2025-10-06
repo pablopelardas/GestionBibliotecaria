@@ -1,0 +1,16 @@
+{
+    "libro_id": "8d66776a-9bcc-43da-a3fe-0ec4568ccbf6",
+    "isbn": "978-6-1412-6481-1",
+    "title": "Side left",
+    "autor": "Anita Collins",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 255,
+            "user_id": "183EC31683D144D6B57423CFF6",
+            "regresado": true
+        }
+    ]
+}

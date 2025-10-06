@@ -1,0 +1,16 @@
+{
+    "libro_id": "32ce138e-08f8-444e-aac7-27c8849ee5ce",
+    "isbn": "978-8-7871-3992-3",
+    "title": "Least property radio",
+    "autor": "Jorge Thompson",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "DAFC9282C85941DC97DAC043E9",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 83,
+            "user_id": "DAFC9282C85941DC97DAC043E9",
+            "regresado": false
+        }
+    ]
+}

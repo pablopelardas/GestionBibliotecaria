@@ -1,0 +1,16 @@
+{
+    "libro_id": "61f4dde9-c292-45d7-a27f-54ec8fbe3717",
+    "isbn": "978-5-2827-1550-5",
+    "title": "Find",
+    "autor": "Amber Horton",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 71,
+            "user_id": "DFCE627A2B44481CB715B0287D",
+            "regresado": true
+        }
+    ]
+}

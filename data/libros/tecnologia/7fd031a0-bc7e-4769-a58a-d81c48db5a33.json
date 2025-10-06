@@ -1,0 +1,10 @@
+{
+    "libro_id": "7fd031a0-bc7e-4769-a58a-d81c48db5a33",
+    "isbn": "978-9-2087-2131-8",
+    "title": "Film present",
+    "autor": "Dr. Alyssa Brown",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

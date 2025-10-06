@@ -1,0 +1,16 @@
+{
+    "libro_id": "4612f10f-6229-4775-9c3e-6d997f08b523",
+    "isbn": "978-6-9935-8960-2",
+    "title": "Almost",
+    "autor": "Jaime Snyder",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "EED0E1E29E924015AE1376397D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 307,
+            "user_id": "EED0E1E29E924015AE1376397D",
+            "regresado": false
+        }
+    ]
+}

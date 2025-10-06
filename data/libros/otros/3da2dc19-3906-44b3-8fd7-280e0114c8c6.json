@@ -1,0 +1,10 @@
+{
+    "libro_id": "3da2dc19-3906-44b3-8fd7-280e0114c8c6",
+    "isbn": "978-1-5222-3685-5",
+    "title": "Provide color them",
+    "autor": "Kathryn Kelley",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

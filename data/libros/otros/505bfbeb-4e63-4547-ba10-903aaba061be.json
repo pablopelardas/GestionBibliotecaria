@@ -1,0 +1,16 @@
+{
+    "libro_id": "505bfbeb-4e63-4547-ba10-903aaba061be",
+    "isbn": "978-6-8477-6066-6",
+    "title": "Western whom",
+    "autor": "Corey Stewart",
+    "genero": "otros",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 444,
+            "user_id": "8DBEB2E4AFAB4B9193FD3EEE69",
+            "regresado": true
+        }
+    ]
+}

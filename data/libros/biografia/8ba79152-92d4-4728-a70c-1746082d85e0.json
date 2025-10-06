@@ -1,0 +1,10 @@
+{
+    "libro_id": "8ba79152-92d4-4728-a70c-1746082d85e0",
+    "isbn": "978-0-6058-3487-5",
+    "title": "Have special just",
+    "autor": "Kevin Rivera",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "f3b0a3d0-f959-4e10-a00c-84a568d84bce",
+    "isbn": "978-6-9774-1065-5",
+    "title": "Rock best many",
+    "autor": "Sean Brown",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

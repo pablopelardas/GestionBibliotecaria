@@ -1,0 +1,16 @@
+{
+    "libro_id": "e049ef26-54b4-455c-b2f7-b00b69755591",
+    "isbn": "978-8-5685-4216-4",
+    "title": "Standard grow author",
+    "autor": "Christina Hamilton",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 494,
+            "user_id": "22587A21665E488D9C41E2D1F8",
+            "regresado": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "b69f6ef0-147e-436f-ab44-a4f07533b614",
+    "isbn": "978-2-3283-5266-9",
+    "title": "Table development",
+    "autor": "Christopher Lewis",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

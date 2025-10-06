@@ -1,0 +1,10 @@
+{
+    "libro_id": "4cc1c971-1ffb-43a6-a661-8bbacf03f9fe",
+    "isbn": "978-0-3156-4478-0",
+    "title": "Store economic ten",
+    "autor": "Brian Beck",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

@@ -1,0 +1,10 @@
+{
+    "libro_id": "2da0edf9-92bf-43ea-9ebe-a4b8dd2483ae",
+    "isbn": "978-3-1045-4920-1",
+    "title": "Anyone one",
+    "autor": "Donna Trevino",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

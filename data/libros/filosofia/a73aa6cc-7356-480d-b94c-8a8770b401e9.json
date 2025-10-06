@@ -1,0 +1,16 @@
+{
+    "libro_id": "a73aa6cc-7356-480d-b94c-8a8770b401e9",
+    "isbn": "978-4-5772-6004-8",
+    "title": "Join human from",
+    "autor": "Madison Bradley",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "AE18A863D5E84C179840249EE4",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 218,
+            "user_id": "AE18A863D5E84C179840249EE4",
+            "regresado": false
+        }
+    ]
+}

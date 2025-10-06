@@ -1,0 +1,16 @@
+{
+    "libro_id": "dc370936-fe1f-4c3c-a62d-6becd7c33a1f",
+    "isbn": "978-1-8780-8463-9",
+    "title": "Once knowledge spend",
+    "autor": "Molly Mccormick",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "FDE56CD1A5A14F2AA765A41C26",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 152,
+            "user_id": "FDE56CD1A5A14F2AA765A41C26",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "b531c5f9-68cd-4061-b183-5664d0041ecd",
+    "isbn": "978-3-8384-2635-2",
+    "title": "Watch miss radio",
+    "autor": "Jill Barrett",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "27F0830FC2B8422C95F87B7959",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 131,
+            "user_id": "27F0830FC2B8422C95F87B7959",
+            "regresado": false
+        }
+    ]
+}

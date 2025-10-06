@@ -1,0 +1,16 @@
+{
+    "libro_id": "84cdc366-0dee-4da0-841b-ecd1261dea88",
+    "isbn": "978-2-1324-4498-7",
+    "title": "Service campaign",
+    "autor": "Andrew Green",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 302,
+            "user_id": "721EA733BCB64A048DF84BDD15",
+            "regresado": true
+        }
+    ]
+}

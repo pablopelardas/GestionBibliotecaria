@@ -1,0 +1,10 @@
+{
+    "libro_id": "f7526c02-881f-4476-8c82-87880b9b175e",
+    "isbn": "978-4-5620-4110-2",
+    "title": "Recently full",
+    "autor": "Amanda Myers",
+    "genero": "tecnologia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

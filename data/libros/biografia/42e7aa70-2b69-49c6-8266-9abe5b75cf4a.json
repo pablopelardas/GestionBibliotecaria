@@ -1,0 +1,16 @@
+{
+    "libro_id": "42e7aa70-2b69-49c6-8266-9abe5b75cf4a",
+    "isbn": "978-0-7787-2295-4",
+    "title": "Guess seat set",
+    "autor": "Robert Mcneil",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "B218C2FBACAF4F4E858008BB2D",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 220,
+            "user_id": "B218C2FBACAF4F4E858008BB2D",
+            "regresado": false
+        }
+    ]
+}

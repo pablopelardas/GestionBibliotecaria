@@ -1,0 +1,16 @@
+{
+    "libro_id": "b96a6091-729e-45fc-a521-498071b1d6c0",
+    "isbn": "978-3-8845-2161-0",
+    "title": "Know meet hit hot",
+    "autor": "Amanda Francis",
+    "genero": "filosofia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 45,
+            "user_id": "3BD8AC8B8CD84FA885FEE6163F",
+            "regresado": true
+        }
+    ]
+}

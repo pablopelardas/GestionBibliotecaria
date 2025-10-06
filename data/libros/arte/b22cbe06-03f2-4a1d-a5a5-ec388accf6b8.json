@@ -1,0 +1,10 @@
+{
+    "libro_id": "b22cbe06-03f2-4a1d-a5a5-ec388accf6b8",
+    "isbn": "978-7-2486-8901-9",
+    "title": "Five memory",
+    "autor": "Brittany Watson",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

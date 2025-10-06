@@ -1,0 +1,16 @@
+{
+    "libro_id": "5fe61a51-b4cb-41b0-aaf9-a4d97c07ece2",
+    "isbn": "978-0-2094-9542-4",
+    "title": "Bad improve",
+    "autor": "Megan Moore",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 106,
+            "user_id": "DFCE627A2B44481CB715B0287D",
+            "regresado": true
+        }
+    ]
+}

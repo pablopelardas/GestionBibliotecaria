@@ -1,0 +1,16 @@
+{
+    "libro_id": "1e8bb33f-1ad8-4a16-9b31-680f25f13e7e",
+    "isbn": "978-5-3282-9052-7",
+    "title": "Pressure event one responsibility",
+    "autor": "Pamela Carter",
+    "genero": "biografia",
+    "disponible": false,
+    "prestamo_actual": "3F71A62D078B4EE4B635935A22",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 26,
+            "user_id": "3F71A62D078B4EE4B635935A22",
+            "regresado": false
+        }
+    ]
+}

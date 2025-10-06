@@ -1,0 +1,16 @@
+{
+    "libro_id": "858f2bd3-fdb1-4e35-b7c0-83b19fef0528",
+    "isbn": "978-7-7311-8301-2",
+    "title": "Large specific describe",
+    "autor": "Kathy Taylor",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 409,
+            "user_id": "94F15C68AD724AD3908A5341AD",
+            "regresado": true
+        }
+    ]
+}

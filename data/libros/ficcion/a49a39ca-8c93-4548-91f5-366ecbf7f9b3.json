@@ -1,0 +1,10 @@
+{
+    "libro_id": "a49a39ca-8c93-4548-91f5-366ecbf7f9b3",
+    "isbn": "978-0-3162-5245-3",
+    "title": "Have hand",
+    "autor": "Victor Jennings",
+    "genero": "ficcion",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

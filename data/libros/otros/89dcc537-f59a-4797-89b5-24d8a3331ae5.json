@@ -1,0 +1,16 @@
+{
+    "libro_id": "89dcc537-f59a-4797-89b5-24d8a3331ae5",
+    "isbn": "978-5-9050-3699-5",
+    "title": "Cell cultural at",
+    "autor": "Thomas Watkins",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "44398BF222654E5A8894571362",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 236,
+            "user_id": "44398BF222654E5A8894571362",
+            "regresado": false
+        }
+    ]
+}

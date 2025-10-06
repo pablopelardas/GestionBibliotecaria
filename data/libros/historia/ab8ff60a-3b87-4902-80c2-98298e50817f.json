@@ -1,0 +1,10 @@
+{
+    "libro_id": "ab8ff60a-3b87-4902-80c2-98298e50817f",
+    "isbn": "978-2-2393-1561-3",
+    "title": "Option head weight gun",
+    "autor": "Katie Robinson",
+    "genero": "historia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

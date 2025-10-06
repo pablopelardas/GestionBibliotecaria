@@ -1,0 +1,16 @@
+{
+    "libro_id": "875b5718-5884-44a4-9a86-159debc12b32",
+    "isbn": "978-6-7201-4880-1",
+    "title": "Under indicate expert",
+    "autor": "Crystal Melendez",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "824DDCFAC49F45499B0DE679D6",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 455,
+            "user_id": "824DDCFAC49F45499B0DE679D6",
+            "regresado": false
+        }
+    ]
+}

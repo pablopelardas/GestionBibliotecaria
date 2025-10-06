@@ -1,0 +1,16 @@
+{
+    "libro_id": "bbbe2f28-65fc-4253-93a6-96f90d4a5e00",
+    "isbn": "978-8-9254-7579-2",
+    "title": "Seat sit",
+    "autor": "Michael Hamilton",
+    "genero": "otros",
+    "disponible": false,
+    "prestamo_actual": "64F7E05A514044D4A972A7B200",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 178,
+            "user_id": "64F7E05A514044D4A972A7B200",
+            "regresado": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libro_id": "e69bf6cc-687a-4af1-917e-b136852184c8",
+    "isbn": "978-5-4790-6020-7",
+    "title": "Indeed want",
+    "autor": "Jennifer Phillips",
+    "genero": "ciencia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 412,
+            "user_id": "AD894D53D0074D63B302C59C5C",
+            "regresado": true
+        }
+    ]
+}

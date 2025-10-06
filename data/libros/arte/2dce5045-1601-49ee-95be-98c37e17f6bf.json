@@ -1,0 +1,10 @@
+{
+    "libro_id": "2dce5045-1601-49ee-95be-98c37e17f6bf",
+    "isbn": "978-9-2285-3932-4",
+    "title": "Bill idea",
+    "autor": "Maria Byrd",
+    "genero": "arte",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": []
+}

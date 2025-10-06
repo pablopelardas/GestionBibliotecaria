@@ -1,0 +1,16 @@
+{
+    "libro_id": "8e50dd36-82fa-4dee-a3bd-933b9748ffdf",
+    "isbn": "978-2-7436-3226-2",
+    "title": "Raise however admit",
+    "autor": "Leah Hernandez",
+    "genero": "historia",
+    "disponible": false,
+    "prestamo_actual": "A0B6BFBA155643468D79C4AE59",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 517,
+            "user_id": "A0B6BFBA155643468D79C4AE59",
+            "regresado": false
+        }
+    ]
+}

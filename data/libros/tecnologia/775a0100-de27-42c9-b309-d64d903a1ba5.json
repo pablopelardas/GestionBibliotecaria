@@ -1,0 +1,16 @@
+{
+    "libro_id": "775a0100-de27-42c9-b309-d64d903a1ba5",
+    "isbn": "978-6-2002-9242-1",
+    "title": "Relationship research",
+    "autor": "Philip Rose",
+    "genero": "tecnologia",
+    "disponible": false,
+    "prestamo_actual": "054404D47EEF42F1B644E973CC",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 234,
+            "user_id": "054404D47EEF42F1B644E973CC",
+            "regresado": false
+        }
+    ]
+}

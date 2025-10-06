@@ -1,0 +1,16 @@
+{
+    "libro_id": "dcf864f2-3c69-4a6c-bf34-4a6503099218",
+    "isbn": "978-3-2793-2076-7",
+    "title": "Challenge trip",
+    "autor": "Michael Thompson",
+    "genero": "filosofia",
+    "disponible": false,
+    "prestamo_actual": "E205A067E5C94BE9B4F390F4AB",
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 62,
+            "user_id": "E205A067E5C94BE9B4F390F4AB",
+            "regresado": false
+        }
+    ]
+}

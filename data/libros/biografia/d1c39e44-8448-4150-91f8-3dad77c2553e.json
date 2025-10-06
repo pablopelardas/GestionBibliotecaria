@@ -1,0 +1,16 @@
+{
+    "libro_id": "d1c39e44-8448-4150-91f8-3dad77c2553e",
+    "isbn": "978-8-1011-2661-9",
+    "title": "Here simply",
+    "autor": "Aaron Perry",
+    "genero": "biografia",
+    "disponible": true,
+    "prestamo_actual": null,
+    "historial_prestamos": [
+        {
+            "prestamo_numero": 441,
+            "user_id": "A31ACCD3BF72403EBCEC21AF2C",
+            "regresado": true
+        }
+    ]
+}

@@ -12,7 +12,7 @@ class ReportGenerator:
     def report_totals(self, export=False):
         total_users = len(self.users)
         total_books = len(self.books)
-        active_loans = sum(1 for loan in self.loans.values() if loan["status"] == "active")
+        active_loans = sum(1 for loan in self.loans.values() if loan["regresado"] == False)
 
         report = {
             "Total Users": total_users,
@@ -47,7 +47,7 @@ class ReportGenerator:
 
         report = []
         for uid, count in sorted_users[:top_n]:
-            report.append({"User": self.users[uid]["name"], "Books Borrowed": count})
+            report.append({"User": self.users[uid]["nombre"], "Books Borrowed": count})
 
         self._print_table("Top Users by Borrowed Books", report)
 

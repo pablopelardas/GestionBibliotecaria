@@ -13,6 +13,12 @@ from presentation.usuarios import (
     ejecutar_eliminar_usuario,
     ejecutar_listar_usuarios
 )
+from presentation.libros import (
+    ejecutar_agregar_libro,
+    ejecutar_modificar_libro,
+    ejecutar_eliminar_libro,
+    ejecutar_listar_libros
+)
 
 def menu_principal():
     while True:
@@ -86,30 +92,25 @@ def menu_libros():
         print("2. Modificar libro")
         print("3. Eliminar libro")
         print("4. Listar libros")
-        print("5. Buscar libro")
         print("0. Volver al menú principal")
 
-        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=5)
+        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=4)
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de alta de libro")
+            ejecutar_agregar_libro()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de modificar libro")
+            ejecutar_modificar_libro()
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de eliminar libro")
+            ejecutar_eliminar_libro()
             pausar()
         elif opcion == 4:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de listar libros")
-            pausar()
-        elif opcion == 5:
-            limpiar_consola()
-            print("👉 Aquí iría la lógica de búsqueda de libro")
+            ejecutar_listar_libros()
             pausar()
         elif opcion == 0:
             return

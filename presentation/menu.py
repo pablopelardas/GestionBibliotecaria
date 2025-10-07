@@ -2,7 +2,8 @@
 import sys
 from utils.input import input_numero
 from utils.consola import limpiar_consola, pausar
-from utils.reportes import ReportGenerator as reportes
+from utils.reportes import ReportGenerator
+reportes = ReportGenerator()
 from presentation.busquedas import (
     ejecutar_busqueda_isbn,
     ejecutar_busqueda_texto,

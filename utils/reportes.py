@@ -11,6 +11,8 @@ class ReportGenerator:
         Carga automáticamente los datos desde los archivos.
         """
         self.base_dir = Path(__file__).parent.parent
+        self.reports_dir = self.base_dir / 'reports'
+        self.reports_dir.mkdir(exist_ok=True)
         self.users = self._cargar_usuarios()
         self.books = self._cargar_libros()
         self.loans = self._cargar_prestamos()
@@ -37,6 +39,26 @@ class ReportGenerator:
         libros = {}
 
         # Recorrer todos los directorios de géneros
+        # Leer archivos en la raíz (p.ej. libros.json, indice_isbn.json) si existen
+        for raiz_file in ['libros.json', 'indice_isbn.json']:
+            archivo_raiz = dir_libros / raiz_file
+            if archivo_raiz.exists() and archivo_raiz.suffix == '.json':
+                try:
+                    with open(archivo_raiz, 'r', encoding='utf-8') as f:
+                        contenido = json.load(f)
+                        # Si es lista, iterar; si es dict, combinar
+                        if isinstance(contenido, list):
+                            for libro in contenido:
+                                libro_id = libro.get('libro_id')
+                                if libro_id:
+                                    libros[libro_id] = libro
+                        elif isinstance(contenido, dict):
+                            for libro_id, libro in contenido.items():
+                                if isinstance(libro, dict):
+                                    libros[libro_id] = libro
+                except json.JSONDecodeError:
+                    pass
+
         for genero_dir in dir_libros.iterdir():
             if genero_dir.is_dir():
                 # Leer todos los archivos JSON del género
@@ -47,7 +69,7 @@ class ReportGenerator:
                             libro_id = libro.get('libro_id')
                             if libro_id:
                                 libros[libro_id] = libro
-                    except (json.JSONDecodeError, KeyError):
+                    except json.JSONDecodeError:
                         pass
 
         return libros
@@ -74,7 +96,7 @@ class ReportGenerator:
     def report_totals(self, export=False):
         total_users = len(self.users)
         total_books = len(self.books)
-        active_loans = sum(1 for loan in self.loans.values() if loan["regresado"] == False)
+        active_loans = sum(1 for loan in self.loans.values() if not loan.get("regresado", False))
 
         report = {
             "Total de Usuarios": total_users,
@@ -88,8 +110,13 @@ class ReportGenerator:
             self._export_to_csv("report_totals.csv", report)
 
     # 2. Most Borrowed Books
-    def report_most_borrowed_books(self, top_n=5, export=False):
-        borrowed_books = [loan["libro_id"] for loan in self.loans.values()]
+    def report_most_borrowed_books(self, top_n=5, export=False, only_active=False):
+        # Si only_active=True, contar solo préstamos no devueltos
+        borrowed_books = [
+            loan.get("libro_id")
+            for loan in self.loans.values()
+            if loan.get("libro_id") and (not only_active or not loan.get("regresado", False))
+        ]
         counter = Counter(borrowed_books)
 
         report = []
@@ -113,7 +140,9 @@ class ReportGenerator:
         # Contar préstamos por usuario (histórico)
         user_counts = {}
         for loan in self.loans.values():
-            user_id = loan["user_id"]
+            user_id = loan.get("user_id")
+            if not user_id:
+                continue
             user_counts[user_id] = user_counts.get(user_id, 0) + 1
 
         sorted_users = sorted(user_counts.items(), key=lambda x: x[1], reverse=True)
@@ -128,7 +157,7 @@ class ReportGenerator:
                 "Libros Actuales": libros_actuales
             })
 
-        self._print_table("Usuarios con Más Préstamos", report)
+        self._print_table("Usuarios con Más Préstamos", report, headers=["Usuario", "Préstamos Totales", "Libros Actuales"])
 
         if export:
             self._export_list_to_csv("report_top_users.csv", report)
@@ -137,7 +166,7 @@ class ReportGenerator:
 
     # 4. Books Available vs Borrowed
     def report_books_status(self, export=False):
-        available = sum(1 for b in self.books.values() if b["disponible"])
+        available = sum(1 for b in self.books.values() if b.get("disponible", False))
         borrowed = len(self.books) - available
 
         report = {
@@ -158,31 +187,38 @@ class ReportGenerator:
         for key, value in data.items():
             print(f"{key}: {value}")
 
-    def _print_table(self, title, rows: list):
+    def _print_table(self, title, rows: list, headers: list = None):
         print(f"\n=== {title} ===")
         if not rows:
             print("No data available.")
             return
-        headers = rows[0].keys()
+        # Si se proporcionan headers explícitos (lista), úsalos; si no, toma keys del primer row
+        if isinstance(rows, dict):
+            rows = [rows]
+        if headers is None:
+            headers = list(rows[0].keys())
         print(" | ".join(headers))
         print("-" * 40)
         for row in rows:
-            print(" | ".join(str(v) for v in row.values()))
+            print(" | ".join(str(row.get(h, '')) for h in headers))
 
     def _export_to_csv(self, filename, data: dict):
-        with open(filename, mode="w", newline="", encoding="utf-8") as file:
+        path = self.reports_dir / filename
+        with open(path, mode="w", newline="", encoding="utf-8") as file:
             writer = csv.writer(file)
             writer.writerow(["Metric", "Value"])
             for key, value in data.items():
                 writer.writerow([key, value])
-        print(f"CSV report saved as {filename}")
+        print(f"CSV report saved as {path}")
 
     def _export_list_to_csv(self, filename, data: list):
         if not data:
             print("No data to export.")
             return
-        with open(filename, mode="w", newline="", encoding="utf-8") as file:
-            writer = csv.DictWriter(file, fieldnames=data[0].keys())
+        path = self.reports_dir / filename
+        with open(path, mode="w", newline="", encoding="utf-8") as file:
+            fieldnames = list(data[0].keys())
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(data)
-        print(f"CSV report saved as {filename}")
+        print(f"CSV report saved as {path}")

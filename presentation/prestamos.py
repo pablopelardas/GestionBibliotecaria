@@ -1,6 +1,6 @@
 from utils.consola import pausar
 from utils.input import input_numero
-from negocio import prestamo_service as svc
+from negocio import prestamos_service as svc
 
 
 def ejecutar_registrar_prestamo():

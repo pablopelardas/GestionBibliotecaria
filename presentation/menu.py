@@ -2,6 +2,7 @@
 import sys
 from utils.input import input_numero
 from utils.consola import limpiar_consola, pausar
+from utils.reportes import ReportGenerator as reportes
 from presentation.busquedas import (
     ejecutar_busqueda_isbn,
     ejecutar_busqueda_texto,
@@ -19,6 +20,8 @@ from presentation.prestamos import (
     ejecutar_registrar_devolucion,
     ejecutar_listar_prestamos_vigentes
 )
+
+
 
 def menu_principal():
     while True:
@@ -163,11 +166,11 @@ def menu_reportes():
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de reporte de libros más prestados")
+            reportes.report_most_borrowed_books()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de usuarios con más préstamos")
+            reportes.report_top_users()
             pausar()
         elif opcion == 3:
             limpiar_consola()

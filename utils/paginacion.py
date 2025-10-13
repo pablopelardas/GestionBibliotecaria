@@ -46,8 +46,8 @@ def mostrar_resultados_paginados(resultados, funcion_mostrar_item, titulo="Resul
         print(f"{'='*60}")
 
         # Mostrar resultados de la página actual
-        for i, item in enumerate(resultados[inicio:fin], inicio + 1):
-            funcion_mostrar_item(item, i)
+        for i in range(inicio, fin):
+            funcion_mostrar_item(resultados[i], i + 1)
             print()  # Línea en blanco entre items
 
         # Mostrar opciones de navegación

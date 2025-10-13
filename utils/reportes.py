@@ -83,9 +83,24 @@ class ReportGenerator:
         # Convertir a diccionario con prestamo_numero como clave
         prestamos = {}
         for prestamo_data in prestamos_lista:
-            prestamo_num = prestamo_data['prestamo_numero']
-            prestamo = prestamo_data['prestamo'].copy()
-            prestamo['prestamo_numero'] = prestamo_num
+            # Verificar que el elemento tenga la estructura correcta
+            if not isinstance(prestamo_data, dict):
+                continue
+
+            # Puede venir en dos formatos: con 'prestamo' anidado o directo
+            if 'prestamo_numero' in prestamo_data and 'prestamo' in prestamo_data:
+                # Formato: {"prestamo_numero": 1, "prestamo": {...}}
+                prestamo_num = prestamo_data['prestamo_numero']
+                prestamo = prestamo_data['prestamo'].copy()
+                prestamo['prestamo_numero'] = prestamo_num
+            elif 'prestamo_numero' in prestamo_data:
+                # Formato directo: {"prestamo_numero": 1, "user_id": ..., "libro_id": ...}
+                prestamo = prestamo_data.copy()
+                prestamo_num = prestamo['prestamo_numero']
+            else:
+                # Elemento sin prestamo_numero, ignorar
+                continue
+
             # Agregar campo 'status' para compatibilidad
             prestamo['status'] = 'returned' if prestamo.get('regresado', False) else 'active'
             prestamos[prestamo_num] = prestamo
@@ -222,3 +237,70 @@ class ReportGenerator:
             writer.writeheader()
             writer.writerows(data)
         print(f"CSV report saved as {path}")
+
+    # 5. Estadísticas por Género (usando MATRIZ)
+    def report_estadisticas_por_genero(self):
+        """
+        Genera un reporte de estadísticas por género usando una MATRIZ.
+        La matriz tiene:
+        - Filas: cada género
+        - Columnas: Total, Disponibles, Prestados, % Disponibilidad
+
+        Returns:
+            list: Matriz con las estadísticas por género
+        """
+        # Obtener lista de géneros únicos
+        generos = set()
+        for libro in self.books.values():
+            genero = libro.get('genero', 'otros')
+            generos.add(genero)
+
+        generos = sorted(list(generos))
+
+        # Crear matriz vacía: filas = géneros, columnas = [Total, Disponibles, Prestados, % Disponibilidad]
+        # Inicializar matriz con ceros
+        matriz = []
+        for i in range(len(generos)):
+            # [total, disponibles, prestados, porcentaje_disponibilidad]
+            matriz.append([0, 0, 0, 0.0])
+
+        # Llenar la matriz con los datos
+        for i in range(len(generos)):
+            genero = generos[i]
+            for libro in self.books.values():
+                if libro.get('genero', 'otros') == genero:
+                    matriz[i][0] += 1  # Total
+                    if libro.get('disponible', False):
+                        matriz[i][1] += 1  # Disponibles
+                    else:
+                        matriz[i][2] += 1  # Prestados
+
+            # Calcular porcentaje de disponibilidad
+            if matriz[i][0] > 0:
+                matriz[i][3] = (matriz[i][1] / matriz[i][0]) * 100
+
+        # Imprimir la matriz en formato tabla
+        print("\n=== Estadísticas por Género (Matriz) ===")
+        print(f"{'Género':<15} | {'Total':>8} | {'Disponibles':>12} | {'Prestados':>10} | {'% Disponib.':>12}")
+        print("-" * 75)
+
+        for i in range(len(generos)):
+            genero = generos[i]
+            print(f"{genero.capitalize():<15} | {matriz[i][0]:>8} | {matriz[i][1]:>12} | {matriz[i][2]:>10} | {matriz[i][3]:>11.1f}%")
+
+        # Calcular totales usando ciclos tradicionales
+        total_libros = 0
+        total_disponibles = 0
+        total_prestados = 0
+
+        for i in range(len(matriz)):
+            total_libros += matriz[i][0]
+            total_disponibles += matriz[i][1]
+            total_prestados += matriz[i][2]
+
+        porcentaje_total = (total_disponibles / total_libros * 100) if total_libros > 0 else 0
+
+        print("-" * 75)
+        print(f"{'TOTAL':<15} | {total_libros:>8} | {total_disponibles:>12} | {total_prestados:>10} | {porcentaje_total:>11.1f}%")
+
+        return matriz

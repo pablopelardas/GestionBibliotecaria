@@ -46,8 +46,9 @@ def ejecutar_busqueda_isbn():
         # Preguntar si quiere ver detalles
         ver_detalles = input("\n¿Desea ver detalles de los ejemplares? (s/n): ").strip().lower()
         if ver_detalles == 's':
-            for i, ejemplar in enumerate(resultado['ejemplares'], 1):
-                print(f"\n  Ejemplar {i}:")
+            for i in range(len(resultado['ejemplares'])):
+                ejemplar = resultado['ejemplares'][i]
+                print(f"\n  Ejemplar {i + 1}:")
                 print(f"    ID: {ejemplar['libro_id']}")
                 print(f"    Disponible: {'Sí' if ejemplar['disponible'] else 'No'}")
                 if not ejemplar['disponible']:
@@ -76,8 +77,9 @@ def ejecutar_busqueda_texto():
 
         # Si hay pocos resultados, mostrar todos
         if len(resultados) <= 10:
-            for i, libro in enumerate(resultados, 1):
-                print(f"\n{i}. {libro['title']}")
+            for i in range(len(resultados)):
+                libro = resultados[i]
+                print(f"\n{i + 1}. {libro['title']}")
                 print(f"   Autor: {libro['autor']}")
                 print(f"   ISBN: {libro['isbn']}")
                 print(f"   Género: {libro['genero']}")
@@ -89,8 +91,10 @@ def ejecutar_busqueda_texto():
                 mostrar_resultados_paginados(resultados, mostrar_item_libro, "Resultados de Búsqueda", por_pagina=10)
             else:
                 # Mostrar solo los primeros
-                for i, libro in enumerate(resultados[:10], 1):
-                    print(f"\n{i}. {libro['title']}")
+                primeros_10 = resultados[:10]
+                for i in range(len(primeros_10)):
+                    libro = primeros_10[i]
+                    print(f"\n{i + 1}. {libro['title']}")
                     print(f"   Autor: {libro['autor']}")
                     print(f"   ISBN: {libro['isbn']}")
                     print(f"   Género: {libro['genero']}")
@@ -107,8 +111,8 @@ def ejecutar_busqueda_genero():
     # Mostrar géneros disponibles
     generos = listar_generos()
     print("\nGéneros disponibles:")
-    for i, genero in enumerate(generos, 1):
-        print(f"  {i}. {genero.capitalize()}")
+    for i in range(len(generos)):
+        print(f"  {i + 1}. {generos[i].capitalize()}")
 
     # Seleccionar género
     opcion = input_numero("\nSeleccione un género (número): ", minimo=1, maximo=len(generos))
@@ -171,8 +175,10 @@ def ejecutar_busqueda_por_id():
             print(f"\n  Historial de préstamos: {len(libro['historial_prestamos'])} préstamos")
             ver_historial = input("\n¿Desea ver el historial completo? (s/n): ").strip().lower()
             if ver_historial == 's':
-                for i, prestamo in enumerate(libro['historial_prestamos'], 1):
-                    print(f"\n  Préstamo {i}:")
+                historial = libro['historial_prestamos']
+                for i in range(len(historial)):
+                    prestamo = historial[i]
+                    print(f"\n  Préstamo {i + 1}:")
                     print(f"    Usuario: {prestamo.get('user_id', 'N/A')}")
                     print(f"    Fecha: {prestamo.get('fecha_prestamo', 'N/A')}")
                     if prestamo.get('fecha_devolucion'):

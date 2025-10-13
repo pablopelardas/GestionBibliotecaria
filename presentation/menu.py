@@ -159,13 +159,14 @@ def menu_reportes():
         print("\n--- Reportes y Búsquedas ---")
         print("1. Libros más prestados")
         print("2. Usuarios con más préstamos")
-        print("3. Búsqueda por ISBN")
-        print("4. Búsqueda por texto libre")
-        print("5. Búsqueda por género")
-        print("6. Búsqueda por ID de ejemplar")
+        print("3. Estadísticas por género (Matriz)")
+        print("4. Búsqueda por ISBN")
+        print("5. Búsqueda por texto libre")
+        print("6. Búsqueda por género")
+        print("7. Búsqueda por ID de ejemplar")
         print("0. Volver al menú principal")
 
-        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=6)
+        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=7)
 
         if opcion == 1:
             limpiar_consola()
@@ -177,17 +178,21 @@ def menu_reportes():
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            ejecutar_busqueda_isbn()
+            reportes.report_estadisticas_por_genero()
             pausar()
         elif opcion == 4:
             limpiar_consola()
-            ejecutar_busqueda_texto()
+            ejecutar_busqueda_isbn()
             pausar()
         elif opcion == 5:
             limpiar_consola()
-            ejecutar_busqueda_genero()
+            ejecutar_busqueda_texto()
             pausar()
         elif opcion == 6:
+            limpiar_consola()
+            ejecutar_busqueda_genero()
+            pausar()
+        elif opcion == 7:
             limpiar_consola()
             ejecutar_busqueda_por_id()
             pausar()

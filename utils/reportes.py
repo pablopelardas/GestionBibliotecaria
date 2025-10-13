@@ -39,26 +39,6 @@ class ReportGenerator:
         libros = {}
 
         # Recorrer todos los directorios de géneros
-        # Leer archivos en la raíz (p.ej. libros.json, indice_isbn.json) si existen
-        for raiz_file in ['libros.json', 'indice_isbn.json']:
-            archivo_raiz = dir_libros / raiz_file
-            if archivo_raiz.exists() and archivo_raiz.suffix == '.json':
-                try:
-                    with open(archivo_raiz, 'r', encoding='utf-8') as f:
-                        contenido = json.load(f)
-                        # Si es lista, iterar; si es dict, combinar
-                        if isinstance(contenido, list):
-                            for libro in contenido:
-                                libro_id = libro.get('libro_id')
-                                if libro_id:
-                                    libros[libro_id] = libro
-                        elif isinstance(contenido, dict):
-                            for libro_id, libro in contenido.items():
-                                if isinstance(libro, dict):
-                                    libros[libro_id] = libro
-                except json.JSONDecodeError:
-                    pass
-
         for genero_dir in dir_libros.iterdir():
             if genero_dir.is_dir():
                 # Leer todos los archivos JSON del género

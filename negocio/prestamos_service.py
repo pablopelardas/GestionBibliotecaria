@@ -53,7 +53,29 @@ def obtener_prestamos_usuario(user_id: str):
         p for p in prestamos_lista 
         if p.get("prestamo", {}).get("user_id", "").upper() == user_id.upper()
     ]
-
+    
+def obtener_historial_prestamos_usuario_con_info(user_id: str):
+    prestamos_usuario_anidados = obtener_prestamos_usuario(user_id) 
+    metadata_libros = _obtener_metadata_libros()
+    historial_con_info = []
+    for item in prestamos_usuario_anidados:
+        p = item.get('prestamo', {})
+        libro_id = p.get('libro_id')
+        if libro_id and libro_id in metadata_libros:
+            libro_meta = metadata_libros[libro_id]
+            
+            historial_con_info.append({
+                "prestamo_numero": item.get('prestamo_numero'),
+                "libro_id": libro_id,
+                "genero": libro_meta['genero'],
+                "title": libro_meta['title'],
+                "user_id": p.get('user_id'),
+                "fecha_prestamo": p.get('fecha_prestamo'),
+                "regresado": p.get('regresado', False),
+                "fecha_devolucion": p.get('fecha_devolucion')
+            })
+            
+    return historial_con_info
 
 def obtener_prestamos_activos_usuario_con_info(user_id: str):
     # Usa la función de historial y filtra por los que NO han sido regresados
@@ -126,3 +148,4 @@ def obtener_prestamos_activos():
     """Retorna una lista de todos los préstamos vigentes (solo el diccionario interno)."""
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
     return [p.get("prestamo") for p in prestamos if not p.get("prestamo", {}).get("regresado", False)]
+

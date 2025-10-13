@@ -235,3 +235,39 @@ def listar_generos():
             generos.append(item.name)
 
     return sorted(generos)
+
+
+def buscar_por_libro_id(libro_id):
+    """
+    Busca un ejemplar específico por su libro_id usando el índice ISBN.
+
+    Args:
+        libro_id (str): ID único del ejemplar a buscar
+
+    Returns:
+        dict: Diccionario con 'libro' (datos completos del libro), 'isbn' y 'ruta' (path del archivo),
+              o None si no se encuentra
+    """
+    indice = cargar_indice_isbn()
+
+    # Recorrer cada entrada del índice ISBN
+    for entrada in indice:
+        # Buscar en los ejemplares de esta entrada
+        for ejemplar in entrada['ejemplares']:
+            if ejemplar['libro_id'] == libro_id:
+                # Encontrado! Cargar datos completos del archivo
+                base_dir = obtener_directorio_base()
+                ruta = base_dir / ejemplar['ruta']
+
+                if ruta.exists():
+                    with open(ruta, 'r', encoding='utf-8') as f:
+                        libro = json.load(f)
+
+                    return {
+                        'libro': libro,
+                        'isbn': entrada['isbn'],
+                        'ruta': str(ruta)
+                    }
+
+    # No se encontró el libro_id
+    return None

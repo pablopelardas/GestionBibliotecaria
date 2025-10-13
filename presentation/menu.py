@@ -7,7 +7,8 @@ reportes = ReportGenerator()
 from presentation.busquedas import (
     ejecutar_busqueda_isbn,
     ejecutar_busqueda_texto,
-    ejecutar_busqueda_genero
+    ejecutar_busqueda_genero,
+    ejecutar_busqueda_por_id
 )
 from presentation.usuarios import (
     ejecutar_agregar_usuario,
@@ -161,9 +162,10 @@ def menu_reportes():
         print("3. Búsqueda por ISBN")
         print("4. Búsqueda por texto libre")
         print("5. Búsqueda por género")
+        print("6. Búsqueda por ID de ejemplar")
         print("0. Volver al menú principal")
 
-        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=5)
+        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=6)
 
         if opcion == 1:
             limpiar_consola()
@@ -184,6 +186,11 @@ def menu_reportes():
         elif opcion == 5:
             limpiar_consola()
             ejecutar_busqueda_genero()
+            pausar()
+        elif opcion == 6:
+            limpiar_consola()
+            ejecutar_busqueda_por_id()
+            pausar()
         elif opcion == 0:
             return
 

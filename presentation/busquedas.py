@@ -9,7 +9,8 @@ from negocio.buscador_service import (
     busqueda_binaria_isbn,
     busqueda_recursiva_texto,
     buscar_por_genero,
-    listar_generos
+    listar_generos,
+    buscar_por_libro_id
 )
 from negocio.usuario_service import obtener_nombre_usuario
 from utils.input import input_numero
@@ -134,3 +135,54 @@ def ejecutar_busqueda_genero():
             mostrar_resultados_paginados(resultados, mostrar_item_libro, f"Libros de {genero_seleccionado.capitalize()}")
     else:
         print(f"\n❌ No se encontraron libros del género: {genero_seleccionado}")
+
+
+def ejecutar_busqueda_por_id():
+    """Ejecuta búsqueda por ID de ejemplar"""
+    print("\n=== Búsqueda por ID de Ejemplar ===")
+    libro_id = input("Ingrese el ID del ejemplar a buscar: ").strip()
+
+    if not libro_id:
+        print("❌ Debe ingresar un ID")
+        return
+
+    print(f"\nBuscando ejemplar con ID '{libro_id}'...")
+    resultado = buscar_por_libro_id(libro_id)
+
+    if resultado:
+        libro = resultado['libro']
+        print(f"\n✓ Ejemplar encontrado:")
+        print(f"  ID: {libro['libro_id']}")
+        print(f"  ISBN: {resultado['isbn']}")
+        print(f"  Título: {libro['title']}")
+        print(f"  Autor: {libro['autor']}")
+        print(f"  Género: {libro['genero']}")
+        print(f"  Disponible: {'Sí' if libro['disponible'] else 'No'}")
+
+        # Si está prestado, mostrar información
+        if not libro['disponible']:
+            nombre_usuario = obtener_nombre_usuario(libro['prestamo_actual'])
+            print(f"  Prestado a: {nombre_usuario} ({libro['prestamo_actual']})")
+            if 'fecha_prestamo' in libro:
+                print(f"  Fecha de préstamo: {libro['fecha_prestamo']}")
+
+        # Mostrar historial de préstamos
+        if 'historial_prestamos' in libro and libro['historial_prestamos']:
+            print(f"\n  Historial de préstamos: {len(libro['historial_prestamos'])} préstamos")
+            ver_historial = input("\n¿Desea ver el historial completo? (s/n): ").strip().lower()
+            if ver_historial == 's':
+                for i, prestamo in enumerate(libro['historial_prestamos'], 1):
+                    print(f"\n  Préstamo {i}:")
+                    print(f"    Usuario: {prestamo.get('user_id', 'N/A')}")
+                    print(f"    Fecha: {prestamo.get('fecha_prestamo', 'N/A')}")
+                    if prestamo.get('fecha_devolucion'):
+                        print(f"    Devolución: {prestamo['fecha_devolucion']}")
+                    else:
+                        print(f"    Devolución: Préstamo activo")
+
+        # Mostrar ruta del archivo (útil para desarrolladores/administradores)
+        mostrar_ruta = input("\n¿Desea ver la ubicación del archivo? (s/n): ").strip().lower()
+        if mostrar_ruta == 's':
+            print(f"\n  Archivo: {resultado['ruta']}")
+    else:
+        print(f"\n❌ No se encontró ningún ejemplar con ID: {libro_id}")

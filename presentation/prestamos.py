@@ -69,7 +69,7 @@ def ejecutar_registrar_prestamo():
         pausar()
         return
         
-    # Muestra y seleccionar ejemplar
+    # Muestra y selecciona ejemplar
     print(f"\n--- Ejemplares disponibles para '{resultado_busqueda['title']}' (Género: {resultado_busqueda['genero']}) ---")
     
     for i, ejemplar in enumerate(ejemplares_disponibles, 1):
@@ -206,4 +206,5 @@ def ejecutar_listar_prestamos_activos_usuario():
         print(f"         Fecha Préstamo: {fecha_prestamo}")
         
     pausar()
+
 

@@ -2,10 +2,13 @@
 import sys
 from utils.input import input_numero
 from utils.consola import limpiar_consola, pausar
+from utils.reportes import ReportGenerator
+reportes = ReportGenerator()
 from presentation.busquedas import (
     ejecutar_busqueda_isbn,
     ejecutar_busqueda_texto,
-    ejecutar_busqueda_genero
+    ejecutar_busqueda_genero,
+    ejecutar_busqueda_por_id
 )
 from presentation.usuarios import (
     ejecutar_agregar_usuario,
@@ -19,6 +22,14 @@ from presentation.libros import (
     ejecutar_eliminar_libro,
     ejecutar_listar_libros
 )
+
+from presentation.prestamos import (
+    ejecutar_registrar_prestamo,
+    ejecutar_registrar_devolucion,
+    ejecutar_listar_prestamos_vigentes
+)
+
+
 
 def menu_principal():
     while True:
@@ -129,15 +140,15 @@ def menu_prestamos():
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de registrar préstamo")
+            ejecutar_registrar_prestamo()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de registrar devolución")
+            ejecutar_registrar_devolucion()
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de listar préstamos")
+            ejecutar_listar_prestamos_vigentes()
             pausar()
         elif opcion == 0:
             return
@@ -149,32 +160,43 @@ def menu_reportes():
         print("\n--- Reportes y Búsquedas ---")
         print("1. Libros más prestados")
         print("2. Usuarios con más préstamos")
-        print("3. Búsqueda por ISBN")
-        print("4. Búsqueda por texto libre")
-        print("5. Búsqueda por género")
+        print("3. Estadísticas por género (Matriz)")
+        print("4. Búsqueda por ISBN")
+        print("5. Búsqueda por texto libre")
+        print("6. Búsqueda por género")
+        print("7. Búsqueda por ID de ejemplar")
         print("0. Volver al menú principal")
 
-        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=5)
+        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=7)
 
         if opcion == 1:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de reporte de libros más prestados")
+            reportes.report_most_borrowed_books()
             pausar()
         elif opcion == 2:
             limpiar_consola()
-            print("👉 Aquí iría la lógica de usuarios con más préstamos")
+            reportes.report_top_users()
             pausar()
         elif opcion == 3:
             limpiar_consola()
-            ejecutar_busqueda_isbn()
+            reportes.report_estadisticas_por_genero()
             pausar()
         elif opcion == 4:
             limpiar_consola()
-            ejecutar_busqueda_texto()
+            ejecutar_busqueda_isbn()
             pausar()
         elif opcion == 5:
             limpiar_consola()
+            ejecutar_busqueda_texto()
+            pausar()
+        elif opcion == 6:
+            limpiar_consola()
             ejecutar_busqueda_genero()
+            pausar()
+        elif opcion == 7:
+            limpiar_consola()
+            ejecutar_busqueda_por_id()
+            pausar()
         elif opcion == 0:
             return
 

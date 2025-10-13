@@ -9,7 +9,8 @@ from negocio.buscador_service import (
     busqueda_binaria_isbn,
     busqueda_recursiva_texto,
     buscar_por_genero,
-    listar_generos
+    listar_generos,
+    buscar_por_libro_id
 )
 from negocio.usuario_service import obtener_nombre_usuario
 from utils.input import input_numero
@@ -45,8 +46,9 @@ def ejecutar_busqueda_isbn():
         # Preguntar si quiere ver detalles
         ver_detalles = input("\n¿Desea ver detalles de los ejemplares? (s/n): ").strip().lower()
         if ver_detalles == 's':
-            for i, ejemplar in enumerate(resultado['ejemplares'], 1):
-                print(f"\n  Ejemplar {i}:")
+            for i in range(len(resultado['ejemplares'])):
+                ejemplar = resultado['ejemplares'][i]
+                print(f"\n  Ejemplar {i + 1}:")
                 print(f"    ID: {ejemplar['libro_id']}")
                 print(f"    Disponible: {'Sí' if ejemplar['disponible'] else 'No'}")
                 if not ejemplar['disponible']:
@@ -75,8 +77,9 @@ def ejecutar_busqueda_texto():
 
         # Si hay pocos resultados, mostrar todos
         if len(resultados) <= 10:
-            for i, libro in enumerate(resultados, 1):
-                print(f"\n{i}. {libro['title']}")
+            for i in range(len(resultados)):
+                libro = resultados[i]
+                print(f"\n{i + 1}. {libro['title']}")
                 print(f"   Autor: {libro['autor']}")
                 print(f"   ISBN: {libro['isbn']}")
                 print(f"   Género: {libro['genero']}")
@@ -88,8 +91,10 @@ def ejecutar_busqueda_texto():
                 mostrar_resultados_paginados(resultados, mostrar_item_libro, "Resultados de Búsqueda", por_pagina=10)
             else:
                 # Mostrar solo los primeros
-                for i, libro in enumerate(resultados[:10], 1):
-                    print(f"\n{i}. {libro['title']}")
+                primeros_10 = resultados[:10]
+                for i in range(len(primeros_10)):
+                    libro = primeros_10[i]
+                    print(f"\n{i + 1}. {libro['title']}")
                     print(f"   Autor: {libro['autor']}")
                     print(f"   ISBN: {libro['isbn']}")
                     print(f"   Género: {libro['genero']}")
@@ -106,8 +111,8 @@ def ejecutar_busqueda_genero():
     # Mostrar géneros disponibles
     generos = listar_generos()
     print("\nGéneros disponibles:")
-    for i, genero in enumerate(generos, 1):
-        print(f"  {i}. {genero.capitalize()}")
+    for i in range(len(generos)):
+        print(f"  {i + 1}. {generos[i].capitalize()}")
 
     # Seleccionar género
     opcion = input_numero("\nSeleccione un género (número): ", minimo=1, maximo=len(generos))
@@ -134,3 +139,56 @@ def ejecutar_busqueda_genero():
             mostrar_resultados_paginados(resultados, mostrar_item_libro, f"Libros de {genero_seleccionado.capitalize()}")
     else:
         print(f"\n❌ No se encontraron libros del género: {genero_seleccionado}")
+
+
+def ejecutar_busqueda_por_id():
+    """Ejecuta búsqueda por ID de ejemplar"""
+    print("\n=== Búsqueda por ID de Ejemplar ===")
+    libro_id = input("Ingrese el ID del ejemplar a buscar: ").strip()
+
+    if not libro_id:
+        print("❌ Debe ingresar un ID")
+        return
+
+    print(f"\nBuscando ejemplar con ID '{libro_id}'...")
+    resultado = buscar_por_libro_id(libro_id)
+
+    if resultado:
+        libro = resultado['libro']
+        print(f"\n✓ Ejemplar encontrado:")
+        print(f"  ID: {libro['libro_id']}")
+        print(f"  ISBN: {resultado['isbn']}")
+        print(f"  Título: {libro['title']}")
+        print(f"  Autor: {libro['autor']}")
+        print(f"  Género: {libro['genero']}")
+        print(f"  Disponible: {'Sí' if libro['disponible'] else 'No'}")
+
+        # Si está prestado, mostrar información
+        if not libro['disponible']:
+            nombre_usuario = obtener_nombre_usuario(libro['prestamo_actual'])
+            print(f"  Prestado a: {nombre_usuario} ({libro['prestamo_actual']})")
+            if 'fecha_prestamo' in libro:
+                print(f"  Fecha de préstamo: {libro['fecha_prestamo']}")
+
+        # Mostrar historial de préstamos
+        if 'historial_prestamos' in libro and libro['historial_prestamos']:
+            print(f"\n  Historial de préstamos: {len(libro['historial_prestamos'])} préstamos")
+            ver_historial = input("\n¿Desea ver el historial completo? (s/n): ").strip().lower()
+            if ver_historial == 's':
+                historial = libro['historial_prestamos']
+                for i in range(len(historial)):
+                    prestamo = historial[i]
+                    print(f"\n  Préstamo {i + 1}:")
+                    print(f"    Usuario: {prestamo.get('user_id', 'N/A')}")
+                    print(f"    Fecha: {prestamo.get('fecha_prestamo', 'N/A')}")
+                    if prestamo.get('fecha_devolucion'):
+                        print(f"    Devolución: {prestamo['fecha_devolucion']}")
+                    else:
+                        print(f"    Devolución: Préstamo activo")
+
+        # Mostrar ruta del archivo (útil para desarrolladores/administradores)
+        mostrar_ruta = input("\n¿Desea ver la ubicación del archivo? (s/n): ").strip().lower()
+        if mostrar_ruta == 's':
+            print(f"\n  Archivo: {resultado['ruta']}")
+    else:
+        print(f"\n❌ No se encontró ningún ejemplar con ID: {libro_id}")

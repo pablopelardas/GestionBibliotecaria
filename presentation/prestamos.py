@@ -27,7 +27,7 @@ def _mostrar_item_prestamo_activo(prestamo, numero):
 
 def ejecutar_registrar_prestamo():
     limpiar_consola()
-    print("=== Registrar préstamo por ISBN ===")
+    print("=== Registrar préstamo ===")
     
     # Solicita ID de Usuario y validar existencia
     user_id = input("ID de usuario: ").strip().upper()
@@ -101,8 +101,8 @@ def ejecutar_registrar_prestamo():
 
 def ejecutar_registrar_devolucion():
     limpiar_consola()
-    print("=== Registrar Devolución por Usuario ===")
-    user_id = input("Ingrese el ID del usuario que devuelve el libro: ").strip().upper()
+    print("=== Registrar Devolución ===")
+    user_id = input("Ingrese el ID del usuario: ").strip().upper()
     user_data = obtener_usuario_completo(user_id)
     if user_data is None:
         print("❌ Error: No se encontró el usuario con el ID proporcionado.")
@@ -206,3 +206,4 @@ def ejecutar_listar_prestamos_activos_usuario():
         print(f"         Fecha Préstamo: {fecha_prestamo}")
         
     pausar()
+

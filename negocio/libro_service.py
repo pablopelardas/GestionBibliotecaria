@@ -1,89 +1,139 @@
+"""
+Servicio de libros.
+Funciones para agregar, modificar, eliminar o listar libros.
+"""
 import json
 import os
 import uuid
-from pathlib import Path
 
-DATA_DIR = Path(__file__).parent.parent / "data" / "libros"
-INDICE_FILE = DATA_DIR / "indice_isbn.json"
+# Carpeta base de todos los géneros
+RUTA_BASE = os.path.join("data", "libros")
 
-def _guardar_json(ruta, datos):
-    with open(ruta, "w", encoding="utf-8") as f:
-        json.dump(datos, f, ensure_ascii=False, indent=4)
 
-def _cargar_json(ruta):
-    if not ruta.exists():
-        return None
-    with open(ruta, "r", encoding="utf-8") as f:
-        return json.load(f)
+# Funciones AUXILIARES
 
-def alta_libro(titulo, autor, isbn, genero):
+def guardar_json(ruta, datos):
+    """Guarda un archivo JSON en la ruta indicada."""
+    with open(ruta, "w", encoding="utf-8") as archivo:
+        json.dump(datos, archivo, indent=4, ensure_ascii=False)
+
+def cargar_json(ruta):
+    """Carga y devuelve los datos de un archivo JSON."""
+    if os.path.exists(ruta):
+        with open(ruta, "r", encoding="utf-8") as archivo:
+            return json.load(archivo)
+    return None
+
+def obtener_ruta_genero(genero):
+    """Devuelve la ruta completa para un género determinado."""
+    return os.path.join(RUTA_BASE, genero)
+
+
+# Funciones PRINCIPALES
+
+def agregar_libro(datos):
     """
-    Crea un nuevo ejemplar JSON dentro de data/libros/{genero}/
-    y actualiza el índice ISBN.
+    Agrega un nuevo libro a la biblioteca.
+    
+    Args:
+        datos (dict): contiene 'isbn', 'title', 'autor' y 'genero'
+    
+    Returns:
+        str: ID único del libro agregado
     """
-    genero_dir = DATA_DIR / genero
-    genero_dir.mkdir(parents=True, exist_ok=True)
+    genero = datos.get("genero", "").lower()
+    carpeta_genero = obtener_ruta_genero(genero)
 
+    # Creamos la carpeta del género si no existe ya
+    os.makedirs(carpeta_genero, exist_ok=True)
+
+    # Generamos el ID único para el nuevo libro
     libro_id = str(uuid.uuid4())
-    nuevo_libro = {
-        "id": libro_id,
-        "title": titulo,
-        "autor": autor,
-        "isbn": isbn,
+
+    libro = {
+        "libro_id": libro_id,
+        "isbn": datos["isbn"],
+        "title": datos["title"],
+        "autor": datos["autor"],
         "genero": genero,
-        "disponible": True
+        "disponible": True,
+        "prestamo_actual": None,
+        "historial_prestamos": []
     }
 
-    ruta_archivo = genero_dir / f"{libro_id}.json"
-    _guardar_json(ruta_archivo, nuevo_libro)
+    ruta_archivo = os.path.join(carpeta_genero, f"{libro_id}.json")
+    guardar_json(ruta_archivo, libro)
 
-    _actualizar_indice_isbn(isbn, titulo, autor, genero, str(ruta_archivo))
-    return nuevo_libro
+    return libro_id
 
 
-def modificar_libro(genero, libro_id, nuevos_datos):
+def modificar_libro(libro_id, nuevos_datos):
     """
-    Modifica los datos de un libro existente.
-    """
-    ruta_archivo = DATA_DIR / genero / f"{libro_id}.json"
-    if not ruta_archivo.exists():
-        return None
+    Modifica un libro buscando el archivo en todas las carpetas de géneros.
 
-    libro = _cargar_json(ruta_archivo)
-    libro.update(nuevos_datos)
-    _guardar_json(ruta_archivo, libro)
-    return libro
-
-
-def eliminar_libro(genero, libro_id):
+    Args:
+        libro_id (str): ID del libro a modificar
+        nuevos_datos (dict): datos a actualizar
+    
+    Returns:
+        bool: True si se modificó correctamente, False si no se encontró
     """
-    Elimina el archivo JSON de un libro.
-    """
-    ruta_archivo = DATA_DIR / genero / f"{libro_id}.json"
-    if ruta_archivo.exists():
-        os.remove(ruta_archivo)
-        return True
+    for genero in os.listdir(RUTA_BASE):
+        carpeta_genero = obtener_ruta_genero(genero)
+        archivo = os.path.join(carpeta_genero, f"{libro_id}.json")
+
+        if os.path.exists(archivo):
+            libro = cargar_json(archivo)
+            libro.update(nuevos_datos)
+            guardar_json(archivo, libro)
+            return True
+
     return False
 
 
-def _actualizar_indice_isbn(isbn, titulo, autor, genero, ruta):
+def eliminar_libro(libro_id):
     """
-    Agrega el nuevo libro al índice de ISBN.
+    Elimina el archivo JSON del libro correspondiente.
+
+    Args:
+        libro_id (str): ID del libro a eliminar
+    
+    Returns:
+        bool: True si se eliminó correctamente, False si no se encontró
     """
-    indice = _cargar_json(INDICE_FILE) or []
+    for genero in os.listdir(RUTA_BASE):
+        carpeta_genero = obtener_ruta_genero(genero)
+        archivo = os.path.join(carpeta_genero, f"{libro_id}.json")
 
-    # Buscar si ya existe el ISBN
-    for entrada in indice:
-        if entrada["isbn"] == isbn:
-            entrada["ejemplares"].append({"ruta": ruta})
-            break
-    else:
-        indice.append({
-            "isbn": isbn,
-            "title": titulo,
-            "autor": autor,
-            "genero": genero,
-            "ejemplares": [{"ruta": ruta}]
-        })
+        if os.path.exists(archivo):
+            os.remove(archivo)
+            return True
 
-    _guardar_json(INDICE_FILE, indice)
+    return False
+
+
+def listar_libros() -> list[dict]:
+    """
+    Retorna una lista con todos los libros que haya registrados en la biblioteca.
+
+    Recorre las carpetas por género dentro de data/libros/
+    y carga la información de cada archivo JSON.
+
+    Returns:
+        list[dict]: lista de libros en formato diccionario
+    """
+    libros = []
+    try:
+        for genero in os.listdir(RUTA_BASE):
+            ruta_genero = os.path.join(RUTA_BASE, genero)
+            if os.path.isdir(ruta_genero):
+                for archivo in os.listdir(ruta_genero):
+                    if archivo.endswith(".json"):
+                        ruta_archivo = os.path.join(ruta_genero, archivo)
+                        with open(ruta_archivo, "r", encoding="utf-8") as f:
+                            libro = json.load(f)
+                            libros.append(libro)
+        return libros
+    except Exception as e:
+        print(f"Error al listar libros: {e}")
+        return []

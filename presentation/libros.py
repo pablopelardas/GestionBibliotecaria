@@ -1,46 +1,75 @@
-from negocio import libro_service as svc
+"""
+Funciones de presentación para el módulo de libros.
+Maneja la interacción con el usuario para las diferentes opciones.
+"""
+
 from utils.consola import limpiar_consola, pausar
+from negocio.libro_service import (
+    agregar_libro,
+    modificar_libro,
+    eliminar_libro,
+    listar_libros
+)
 
-def ejecutar_menu_libros():
-    while True:
-        limpiar_consola()
-        print("\n--- Gestión de Libros ---")
-        print("1. Alta de libro")
-        print("2. Modificar libro")
-        print("3. Eliminar libro")
-        print("0. Volver al menú principal")
+# ALTA DE LIBRO
+def ejecutar_agregar_libro():
+    """Ejecuta agregar libro"""
+    print("\n--- Alta de libro ---")
 
-        opcion = input("Seleccione una opción: ").strip()
+    datos = {}
+    datos["isbn"] = input("Ingrese el ISBN: ")
+    datos["title"] = input("Ingrese el título: ")
+    datos["autor"] = input("Ingrese el autor: ")
+    datos["genero"] = input("Ingrese el género: ")
 
-        if opcion == "1":
-            titulo = input("Título: ").strip()
-            autor = input("Autor: ").strip()
-            isbn = input("ISBN: ").strip()
-            genero = input("Género: ").strip()
+    libro_id = agregar_libro(datos)
+    print(f"\n✅ Libro agregado correctamente con ID: {libro_id}")
 
-            libro = svc.alta_libro(titulo, autor, isbn, genero)
-            print("✅ Libro agregado correctamente:", libro)
-            pausar()
+# MODIFICAR LIBRO
+def ejecutar_modificar_libro():
+    """Ejecuta modificar libro"""
+    print("\n--- Modificar libro ---")
 
-        elif opcion == "2":
-            genero = input("Género: ").strip()
-            libro_id = input("ID del libro: ").strip()
-            campo = input("Campo a modificar (title/autor/isbn/genero): ").strip()
-            valor = input("Nuevo valor: ").strip()
+    libro_id = input("Ingrese el ID del libro que desea modificar: ")
+    
+    nuevos_datos = {}
+    
+    nuevo_titulo = input("Nuevo título (deje vacío para mantener el actual): ")
+    if nuevo_titulo.strip() != "":
+        nuevos_datos["title"] = nuevo_titulo
 
-            resultado = svc.modificar_libro(genero, libro_id, {campo: valor})
-            if resultado:
-                print("✅ Libro actualizado:", resultado)
-            else:
-                print("❌ No se encontró el libro.")
-            pausar()
+    nuevo_autor = input("Nuevo autor (deje vacío para mantener el actual): ")
+    if nuevo_autor.strip() != "":
+        nuevos_datos["autor"] = nuevo_autor
 
-        elif opcion == "3":
-            genero = input("Género: ").strip()
-            libro_id = input("ID del libro: ").strip()
-            ok = svc.eliminar_libro(genero, libro_id)
-            print("✅ Libro eliminado." if ok else "❌ No se encontró el libro.")
-            pausar()
+    if modificar_libro(libro_id, nuevos_datos):
+        print("\n✅ Libro modificado correctamente.")
+    else:
+        print("\n❌ No se encontró el libro con el ID ingresado.")
 
-        elif opcion == "0":
-            break
+# ELIMINAR LIBRO
+def ejecutar_eliminar_libro():
+    """Ejecuta eliminar libro"""
+    print("\n--- Eliminar libro ---")
+
+    libro_id = input("Ingrese el ID del libro que desea eliminar: ")
+
+    if eliminar_libro(libro_id):
+        print("\n✅ Libro eliminado correctamente.")
+    else:
+        print("\n❌ No se encontró el libro con el ID ingresado.")
+
+# LISTAR LIBROS
+def ejecutar_listar_libros():
+    """Ejecuta el listado de libros y muestra los resultados"""
+    print("\n---📚 Listado de libros 📚---")
+
+    libros = listar_libros()
+
+    if not libros:
+        print("❌ No hay libros registrados.")
+    else:
+        for libro in libros:
+            print(f"- {libro['title']} - {libro['autor']} | {libro['genero']}")
+
+    pausar()

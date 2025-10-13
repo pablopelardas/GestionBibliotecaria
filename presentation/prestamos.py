@@ -7,10 +7,9 @@ def ejecutar_registrar_prestamo():
     print("=== Registrar préstamo ===")
     user_id = input("ID de usuario: ").strip()
     libro_id = input("ID del libro: ").strip()
-    genero = input("Género del libro: ")
 
     try:
-        ok = svc.registrar_prestamo(genero, libro_id, user_id) 
+        ok = svc.registrar_prestamo(libro_id, user_id) 
         if ok:
             print("✅ Préstamo registrado correctamente.")
         else:
@@ -51,4 +50,5 @@ def ejecutar_listar_prestamos_vigentes():
         f_prestamo = p.get("fecha_prestamo", "s/f")
         f_venc = p.get("fecha_vencimiento", "s/f")
         print(f"- Libro: {libro_id} | Usuario: {user_id} | Prestado: {f_prestamo} | Vence: {f_venc}")
+
 

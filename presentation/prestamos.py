@@ -20,7 +20,6 @@ def _mostrar_item_ejemplar_disponible(ejemplar, numero, disponible):
         
 
 def _mostrar_item_prestamo_activo(prestamo, numero):
-    """Muestra la información esencial de un préstamo activo para devolución."""
     nombre_usuario = obtener_nombre_usuario(prestamo['user_id'])
     print(f"  [{numero}]. Título: {prestamo['title']} (Género: {prestamo['genero'].capitalize()})")
     print(f"         ID Libro: {prestamo['libro_id']} | Prestado a: {nombre_usuario}")
@@ -30,7 +29,7 @@ def ejecutar_registrar_prestamo():
     limpiar_consola()
     print("=== Registrar préstamo por ISBN ===")
     
-    # 1. Solicitar ID de Usuario y validar existencia
+    # Solicita ID de Usuario y validar existencia
     user_id = input("ID de usuario: ").strip().upper()
     user_data = obtener_usuario_completo(user_id)
     if user_data is None:
@@ -40,8 +39,10 @@ def ejecutar_registrar_prestamo():
     
     nombre_usuario = obtener_nombre_usuario(user_id)
         
+    # Solicita ISBN
     isbn = input("ISBN del libro: ").strip()
 
+    # Busca por ISBN (usa busqueda_binaria_isbn del servicio de búsqueda)
     resultado_busqueda = busqueda_binaria_isbn(isbn)
 
     if not resultado_busqueda:
@@ -49,10 +50,12 @@ def ejecutar_registrar_prestamo():
         pausar()
         return
     
+    # Filtra ejemplares disponibles
     ejemplares_disponibles = [
         ejemplar for ejemplar in resultado_busqueda['ejemplares'] if ejemplar.get('disponible', False)
     ]
     
+    # Si no hay disponibles, informa y sale
     if not ejemplares_disponibles:
         print(f"❌ El libro '{resultado_busqueda['title']}' no tiene ejemplares disponibles para préstamo.")
         
@@ -66,6 +69,7 @@ def ejecutar_registrar_prestamo():
         pausar()
         return
         
+    # Muestra y seleccionar ejemplar
     print(f"\n--- Ejemplares disponibles para '{resultado_busqueda['title']}' (Género: {resultado_busqueda['genero']}) ---")
     
     for i, ejemplar in enumerate(ejemplares_disponibles, 1):
@@ -77,11 +81,13 @@ def ejecutar_registrar_prestamo():
     else:
         seleccion = input_numero("\nSeleccione el número del ejemplar a prestar: ", minimo=1, maximo=len(ejemplares_disponibles))
     
+    # Obtener datos del ejemplar seleccionado
     ejemplar_seleccionado = ejemplares_disponibles[seleccion - 1]
     libro_id = ejemplar_seleccionado['libro_id']
     genero = resultado_busqueda['genero']
     
     print(f"\nIntentando prestar el libro ID {libro_id} ('{resultado_busqueda['title']}') al usuario {nombre_usuario}...")
+
     try:
         ok = svc.registrar_prestamo(genero, libro_id, user_id) 
         if ok:
@@ -95,9 +101,8 @@ def ejecutar_registrar_prestamo():
 
 def ejecutar_registrar_devolucion():
     limpiar_consola()
-    print("=== Registrar Devolución  ===")
-
-    user_id = input("Ingrese el ID del usuario: ").strip().upper()
+    print("=== Registrar Devolución por Usuario ===")
+    user_id = input("Ingrese el ID del usuario que devuelve el libro: ").strip().upper()
     user_data = obtener_usuario_completo(user_id)
     if user_data is None:
         print("❌ Error: No se encontró el usuario con el ID proporcionado.")
@@ -125,12 +130,12 @@ def ejecutar_registrar_devolucion():
         seleccion = input_numero("\nSeleccione el número del libro a devolver: ", minimo=1, maximo=len(prestamos_activos))
 
     prestamo_a_devolver = prestamos_activos[seleccion - 1]
+    genero = prestamo_a_devolver['genero']
     libro_id = prestamo_a_devolver['libro_id']
     
     print(f"\nConfirmando devolución para '{prestamo_a_devolver['title']}' (ID: {libro_id})...")
 
     try:
-        # La función de negocio registrar_devolucion ahora recibe el genero y libro_id
         ok = svc.registrar_devolucion(genero, libro_id) 
         if ok:
             print(f"✅ Devolución de '{prestamo_a_devolver['title']}' registrada correctamente.")
@@ -143,7 +148,7 @@ def ejecutar_registrar_devolucion():
 
 def ejecutar_listar_prestamos_vigentes():
     limpiar_consola()
-    print("=== Préstamos vigentes ===")
+    print("=== Préstamos vigentes (todos los usuarios) ===")
     try:
         prestamos = svc.obtener_prestamos_activos()      
     except Exception as e:
@@ -161,6 +166,43 @@ def ejecutar_listar_prestamos_vigentes():
         f_prestamo = p.get("fecha_prestamo", "s/f")
         f_venc = p.get("fecha_vencimiento", "s/f")
         nombre_usuario = obtener_nombre_usuario(user_id)
-        # Mostrar solo la información esencial
         print(f"- Libro ID: {libro_id} | Usuario: {nombre_usuario} (ID: {user_id}) | Prestado: {f_prestamo}")
+    pausar()
+    
+
+def ejecutar_listar_prestamos_activos_usuario():
+    limpiar_consola()
+    print("=== Préstamos activos por usuario ===")
+    
+    user_id = input("Ingrese el ID del usuario para ver los préstamos activos: ").strip().upper()
+    user_data = obtener_usuario_completo(user_id)
+    if user_data is None:
+        print("❌ Error: No se encontró el usuario con el ID proporcionado.")
+        pausar()
+        return
+
+    nombre_usuario = obtener_nombre_usuario(user_id)
+    
+    try:
+        # Llama a la función que filtra por activos
+        prestamos_activos = svc.obtener_prestamos_activos_usuario_con_info(user_id)
+    except Exception as e:
+        print(f"❌ Error al obtener los préstamos activos: {e}")
+        pausar()
+        return
+
+    if not prestamos_activos:
+        print(f"El usuario '{nombre_usuario}' no tiene préstamos activos.")
+        pausar()
+        return
+
+    print(f"\n--- Préstamos activos de {nombre_usuario} ({user_id}) ---")
+    
+    for i, p in enumerate(prestamos_activos, 1):
+        fecha_prestamo = p['fecha_prestamo'].split('T')[0] if p.get('fecha_prestamo') else 's/f'
+        
+        print(f"\n[{i}]. {p['title']} (Género: {p['genero'].capitalize()})")
+        print(f"         ID Libro: {p['libro_id']}")
+        print(f"         Fecha Préstamo: {fecha_prestamo}")
+        
     pausar()

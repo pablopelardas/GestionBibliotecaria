@@ -9,25 +9,33 @@ PRESTAMOS_DIR.mkdir(parents=True, exist_ok=True)
 PRESTAMOS_FILE = PRESTAMOS_DIR / "prestamos.json"
 
 
-def _cargar_json(ruta, por_defecto):
+def _cargar_json(ruta: Path, por_defecto):
     if not ruta.exists():
         return por_defecto
-    with open(ruta, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(ruta, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        return por_defecto
 
-def _guardar_json(ruta, datos):
+def _guardar_json(ruta: Path, datos):
     with open(ruta, "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=4)
 
+
 def registrar_prestamo(genero: str, libro_id: str, user_id: str) -> bool:
     ruta_libro = LIBROS_DIR / genero / f"{libro_id}.json"
+    
     if not ruta_libro.exists():
         return False
 
     libro = _cargar_json(ruta_libro, {})
+
     if not libro or not libro.get("disponible", True):
         return False
+    
     libro["disponible"] = False
+    libro["prestamo_actual"] = user_id
     _guardar_json(ruta_libro, libro)
 
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
@@ -51,7 +59,7 @@ def registrar_devolucion(genero: str, libro_id: str) -> bool:
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
     encontrado = False
     for p in prestamos:
-        if p["libro_id"] == libro_id and not p["devuelto"]:
+        if p["libro_id"] == libro_id and not p.get("devuelto", True):
             p["devuelto"] = True
             p["fecha_devolucion"] = datetime.now().isoformat(timespec="seconds")
             encontrado = True
@@ -59,18 +67,23 @@ def registrar_devolucion(genero: str, libro_id: str) -> bool:
 
     if not encontrado:
         return False
+
     libro = _cargar_json(ruta_libro, {})
     libro["disponible"] = True
+    libro["prestamo_actual"] = None
+    
     _guardar_json(ruta_libro, libro)
     _guardar_json(PRESTAMOS_FILE, prestamos)
     return True
 
 
 def obtener_prestamos_activos():
+    """Retorna una lista de todos los préstamos vigentes."""
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
     return [p for p in prestamos if not p.get("devuelto", False)]
 
 
 def obtener_prestamos_usuario(user_id: str):
+    """Retorna los préstamos activos y no activos de un usuario."""
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
-    return [p for p in prestamos if p.get("user_id") == user_id]
+    return [p for p in prestamos if p.get("user_id", "").upper() == user_id.upper()]

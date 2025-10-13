@@ -6,8 +6,10 @@ import os
 DATA_DIR = Path(__file__).parent.parent / "data"
 LIBROS_DIR = DATA_DIR / "libros"
 PRESTAMOS_DIR = DATA_DIR / "prestamos"
+USUARIOS_DIR = DATA_DIR / "usuarios"
 PRESTAMOS_DIR.mkdir(parents=True, exist_ok=True)
 PRESTAMOS_FILE = PRESTAMOS_DIR / "prestamos.json"
+USUARIOS_FILE = USUARIOS_DIR / "usuarios.json"
 
 
 def _cargar_json(ruta: Path, por_defecto):
@@ -27,7 +29,7 @@ def _guardar_json(ruta: Path, datos):
 def _obtener_metadata_libros():
     metadata = {}
     dir_libros = Path(__file__).parent.parent / "data" / "libros"
-    
+
     if dir_libros.exists():
         for genero_dir in dir_libros.iterdir():
             if genero_dir.is_dir():
@@ -44,6 +46,46 @@ def _obtener_metadata_libros():
                     except (json.JSONDecodeError, KeyError, AttributeError, FileNotFoundError):
                         pass
     return metadata
+
+
+def _actualizar_usuario_agregar_libro(user_id: str, libro_id: str):
+    """Agrega un libro_id a la lista de libros_prestados del usuario"""
+    usuarios = _cargar_json(USUARIOS_FILE, [])
+
+    for i in range(len(usuarios)):
+        if usuarios[i].get('user_id') == user_id:
+            usuario = usuarios[i].get('user', {})
+            libros_prestados = usuario.get('libros_prestados', [])
+
+            # Solo agregar si no está ya en la lista
+            if libro_id not in libros_prestados:
+                libros_prestados.append(libro_id)
+                usuario['libros_prestados'] = libros_prestados
+                usuarios[i]['user'] = usuario
+                _guardar_json(USUARIOS_FILE, usuarios)
+            return True
+
+    return False
+
+
+def _actualizar_usuario_quitar_libro(user_id: str, libro_id: str):
+    """Quita un libro_id de la lista de libros_prestados del usuario"""
+    usuarios = _cargar_json(USUARIOS_FILE, [])
+
+    for i in range(len(usuarios)):
+        if usuarios[i].get('user_id') == user_id:
+            usuario = usuarios[i].get('user', {})
+            libros_prestados = usuario.get('libros_prestados', [])
+
+            # Quitar el libro si está en la lista
+            if libro_id in libros_prestados:
+                libros_prestados.remove(libro_id)
+                usuario['libros_prestados'] = libros_prestados
+                usuarios[i]['user'] = usuario
+                _guardar_json(USUARIOS_FILE, usuarios)
+            return True
+
+    return False
 
 
 def obtener_prestamos_usuario(user_id: str):
@@ -85,19 +127,21 @@ def obtener_prestamos_activos_usuario_con_info(user_id: str):
 
 def registrar_prestamo(genero: str, libro_id: str, user_id: str) -> bool:
     ruta_libro = LIBROS_DIR / genero / f"{libro_id}.json"
-    
+
     if not ruta_libro.exists():
         return False
 
     libro = _cargar_json(ruta_libro, {})
-    
+
     if not libro or not libro.get("disponible", True):
         return False
-    
+
+    # 1. Actualizar el libro (marcar como no disponible)
     libro["disponible"] = False
     libro["prestamo_actual"] = user_id
     _guardar_json(ruta_libro, libro)
 
+    # 2. Registrar el préstamo
     prestamos = _cargar_json(PRESTAMOS_FILE, [])
     prestamos.append({
         "prestamo_numero": len(prestamos) + 1, # Generar número de préstamo
@@ -111,6 +155,10 @@ def registrar_prestamo(genero: str, libro_id: str, user_id: str) -> bool:
         }
     })
     _guardar_json(PRESTAMOS_FILE, prestamos)
+
+    # 3. Actualizar el usuario (agregar libro a libros_prestados)
+    _actualizar_usuario_agregar_libro(user_id, libro_id)
+
     return True
 
 
@@ -123,24 +171,33 @@ def registrar_devolucion(genero: str, libro_id: str) -> bool:
     # 1. Actualizar estado del préstamo
     prestamos_lista = _cargar_json(PRESTAMOS_FILE, [])
     encontrado = False
-    
+    user_id_prestamo = None
+
     for item in prestamos_lista:
         p = item.get("prestamo", {})
         # Buscar el préstamo ACTIVO (regresado: false) con el ID del libro
         if p.get("libro_id") == libro_id and not p.get("regresado", True):
             p["regresado"] = True
             p["fecha_devolucion"] = datetime.now().isoformat(timespec="seconds")
+            user_id_prestamo = p.get("user_id")
             encontrado = True
             break
 
     if not encontrado:
         return False
+
+    # 2. Actualizar el libro (marcar como disponible)
     libro = _cargar_json(ruta_libro, {})
     libro["disponible"] = True
     libro["prestamo_actual"] = None
-    
+
     _guardar_json(ruta_libro, libro)
     _guardar_json(PRESTAMOS_FILE, prestamos_lista)
+
+    # 3. Actualizar el usuario (quitar libro de libros_prestados)
+    if user_id_prestamo:
+        _actualizar_usuario_quitar_libro(user_id_prestamo, libro_id)
+
     return True
 
 

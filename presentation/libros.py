@@ -10,20 +10,39 @@ from negocio.libro_service import (
     eliminar_libro,
     listar_libros
 )
+from negocio.buscador_service import busqueda_binaria_isbn
 
 # ALTA DE LIBRO
 def ejecutar_agregar_libro():
     """Ejecuta agregar libro"""
     print("\n--- Alta de libro ---")
 
-    datos = {}
-    datos["isbn"] = input("Ingrese el ISBN: ")
-    datos["title"] = input("Ingrese el título: ")
-    datos["autor"] = input("Ingrese el autor: ")
-    datos["genero"] = input("Ingrese el género: ")
+    isbn = input("Ingrese el ISBN: ").strip()
 
-    libro_id = agregar_libro(datos)
-    print(f"\n✅ Libro agregado correctamente con ID: {libro_id}")
+    #Chequeamos si ya existe el ISBN
+    libro_existente = busqueda_binaria_isbn(isbn)
+
+    if libro_existente:
+        # Ya existe asi que agregamos un nuevo ejemplar automáticamente
+        libro_id = agregar_libro({
+            "isbn": isbn,
+            "title": libro_existente["title"],
+            "autor": libro_existente["autor"],
+            "genero": libro_existente["genero"]
+        })
+        print(f"\nEl ISBN ya existe → nuevo ejemplar agregado con ID: {libro_id}")
+
+    else:
+        #No existe asi que pedimos datos del nuevo libro
+        datos = {
+            "isbn": isbn,
+            "title": input("Ingrese el título: ").strip(),
+            "autor": input("Ingrese el autor: ").strip(),
+            "genero": input("Ingrese el género: ").strip().lower()
+        }
+
+        libro_id = agregar_libro(datos)
+        print(f"\nNuevo libro agregado correctamente con ID: {libro_id}")
 
 # MODIFICAR LIBRO
 def ejecutar_modificar_libro():

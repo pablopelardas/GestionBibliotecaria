@@ -7,10 +7,6 @@ import json
 from pathlib import Path
 
 
-# Variable global para cachear usuarios en memoria
-_usuarios_cache = None
-
-
 def obtener_directorio_base():
     """Obtiene el directorio base del proyecto"""
     return Path(__file__).parent.parent
@@ -19,26 +15,24 @@ def obtener_directorio_base():
 def cargar_usuarios():
     """
     Carga los usuarios desde usuarios.json.
+    Lee siempre desde disco para garantizar datos actualizados.
 
     Returns:
         dict: Diccionario con user_id como clave y datos del usuario como valor
     """
-    global _usuarios_cache
+    base_dir = obtener_directorio_base()
+    archivo_usuarios = base_dir / 'data' / 'usuarios' / 'usuarios.json'
 
-    if _usuarios_cache is None:
-        base_dir = obtener_directorio_base()
-        archivo_usuarios = base_dir / 'data' / 'usuarios' / 'usuarios.json'
+    usuarios_dict = {}
 
-        _usuarios_cache = {}
+    with open(archivo_usuarios, 'r', encoding='utf-8') as f:
+        usuarios = json.load(f)
 
-        with open(archivo_usuarios, 'r', encoding='utf-8') as f:
-            usuarios = json.load(f)
+    for usuario_data in usuarios:
+        user_id = usuario_data['user_id']
+        usuarios_dict[user_id] = usuario_data['user']
 
-        for usuario_data in usuarios:
-            user_id = usuario_data['user_id']
-            _usuarios_cache[user_id] = usuario_data['user']
-
-    return _usuarios_cache
+    return usuarios_dict
 
 
 def obtener_nombre_usuario(user_id):
@@ -99,22 +93,21 @@ def agregar_usuario(datos: dict) -> bool:
     Agrega un nuevo usuario al sistema.
 
     Args:
-        datos (dict): Diccionario con los datos del usuario. 
+        datos (dict): Diccionario con los datos del usuario.
                       Debe contener 'user_id' y 'user'.
 
     Returns:
         bool: True si se agregó correctamente, False en caso de error
     """
     try:
-        global _usuarios_cache
         usuarios = cargar_usuarios()
 
         user_id = datos.get("user_id")
         user_data = datos.get("user")
 
         if not user_id or not user_data:
-            return False 
-        
+            return False
+
         usuarios[user_id] = user_data
 
         base_dir = obtener_directorio_base()
@@ -142,7 +135,6 @@ def modificar_usuario(user_id: str, datos: dict) -> bool:
         bool: True si se modificó correctamente, False si no se encontró o hubo error.
     """
     try:
-        global _usuarios_cache
         usuarios = cargar_usuarios()
 
         if user_id not in usuarios:
@@ -174,7 +166,6 @@ def eliminar_usuario(user_id: str) -> bool:
         bool: True si se eliminó correctamente, False si no existe o hubo error.
     """
     try:
-        global _usuarios_cache
         usuarios = cargar_usuarios()
 
         if user_id not in usuarios:

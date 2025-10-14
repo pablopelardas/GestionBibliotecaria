@@ -1,10 +1,13 @@
 """
 Servicio de búsqueda de libros.
 Implementa búsqueda binaria por ISBN y búsqueda recursiva por texto libre.
+Gestiona el índice ISBN para optimizar las búsquedas.
 """
 
 import json
+import os
 from pathlib import Path
+from utils.isbn import normalizar_isbn
 
 
 # Variable global para cachear el índice en memoria
@@ -19,6 +22,13 @@ def obtener_directorio_base():
 def obtener_directorio_libros():
     """Obtiene el directorio donde están los libros"""
     return obtener_directorio_base() / 'data' / 'libros'
+
+
+def _guardar_indice_isbn(indice):
+    """Guarda el índice ISBN en disco."""
+    archivo_indice = obtener_directorio_libros() / 'indice_isbn.json'
+    with open(archivo_indice, 'w', encoding='utf-8') as f:
+        json.dump(indice, f, ensure_ascii=False, indent=4)
 
 
 def cargar_indice_isbn():
@@ -38,17 +48,113 @@ def cargar_indice_isbn():
     return _indice_isbn_cache
 
 
+def invalidar_cache_indice():
+    """
+    Invalida el caché del índice ISBN para forzar una recarga en la próxima búsqueda.
+    Debe llamarse cuando se agregan, modifican o eliminan libros del índice.
+    """
+    global _indice_isbn_cache
+    _indice_isbn_cache = None
+
+
+def reconstruir_indice_isbn():
+    """
+    Reconstruye el índice ISBN desde cero leyendo todos los archivos de libros.
+    Esto garantiza que el índice esté sincronizado con los archivos reales.
+
+    Se debe llamar al inicio de la aplicación para asegurar consistencia.
+    """
+    print("Reconstruyendo índice ISBN...")
+
+    # Diccionario temporal para agrupar ejemplares por ISBN
+    indice_temp = {}
+
+    dir_libros = obtener_directorio_libros()
+
+    try:
+        # Recorrer todos los géneros
+        for genero in os.listdir(dir_libros):
+            ruta_genero = dir_libros / genero
+
+            # Solo procesar directorios, saltar archivos como indice_isbn.json
+            if not ruta_genero.is_dir():
+                continue
+
+            # Recorrer todos los archivos JSON del género
+            for archivo in os.listdir(ruta_genero):
+                if not archivo.endswith(".json"):
+                    continue
+
+                ruta_archivo = ruta_genero / archivo
+
+                try:
+                    with open(ruta_archivo, "r", encoding="utf-8") as f:
+                        libro = json.load(f)
+
+                    # Extraer datos necesarios
+                    isbn = libro.get("isbn")
+                    libro_id = libro.get("libro_id")
+                    title = libro.get("title")
+                    autor = libro.get("autor")
+
+                    # Validar que tenga los campos mínimos
+                    if not isbn or not libro_id:
+                        continue
+
+                    # Normalizar ISBN
+                    isbn_normalizado = normalizar_isbn(isbn)
+
+                    # Si el ISBN no existe en el diccionario temporal, crearlo
+                    if isbn_normalizado not in indice_temp:
+                        indice_temp[isbn_normalizado] = {
+                            "isbn": isbn_normalizado,
+                            "title": title,
+                            "autor": autor,
+                            "genero": genero,
+                            "ejemplares": []
+                        }
+
+                    # Agregar el ejemplar
+                    ruta_relativa = os.path.join("data", "libros", genero, f"{libro_id}.json")
+                    indice_temp[isbn_normalizado]["ejemplares"].append({
+                        "libro_id": libro_id,
+                        "ruta": ruta_relativa
+                    })
+
+                except (json.JSONDecodeError, KeyError, IOError):
+                    # Ignorar archivos con errores
+                    continue
+
+        # Convertir el diccionario a lista y ordenar por ISBN normalizado
+        indice_lista = list(indice_temp.values())
+        indice_lista.sort(key=lambda x: normalizar_isbn(x["isbn"]))
+
+        # Guardar el índice reconstruido
+        _guardar_indice_isbn(indice_lista)
+
+        # Invalidar caché para que se recargue
+        invalidar_cache_indice()
+
+        print(f"✓ Índice reconstruido: {len(indice_lista)} ISBNs registrados")
+
+    except Exception as e:
+        print(f"Error al reconstruir índice: {e}")
+
+
 def busqueda_binaria_isbn(isbn_buscado):
     """
     Búsqueda binaria ITERATIVA por ISBN en el índice ordenado.
     Esta es la versión principal para la entrega (sin recursión).
 
     Args:
-        isbn_buscado (str): ISBN a buscar
+        isbn_buscado (str): ISBN a buscar (puede venir con o sin guiones)
 
     Returns:
         dict: Información del libro con todos sus ejemplares, o None si no se encuentra
     """
+    # Normalizar el ISBN buscado
+    isbn_buscado_normalizado = normalizar_isbn(isbn_buscado)
+
     # Cargar índice
     indice = cargar_indice_isbn()
 
@@ -59,14 +165,14 @@ def busqueda_binaria_isbn(isbn_buscado):
     while izquierda <= derecha:
         # Calcular punto medio
         medio = (izquierda + derecha) // 2
-        isbn_medio = indice[medio]['isbn']
+        isbn_medio = normalizar_isbn(indice[medio]['isbn'])
 
         # Verificar si encontramos el ISBN
-        if isbn_medio == isbn_buscado:
+        if isbn_medio == isbn_buscado_normalizado:
             return cargar_detalles_ejemplares(indice[medio])
 
         # Si el ISBN buscado es menor, buscar en la mitad izquierda
-        elif isbn_medio > isbn_buscado:
+        elif isbn_medio > isbn_buscado_normalizado:
             derecha = medio - 1
 
         # Si el ISBN buscado es mayor, buscar en la mitad derecha
@@ -83,16 +189,19 @@ def busqueda_binaria_isbn_recursiva(isbn_buscado):
     Versión alternativa que usa recursividad.
 
     Args:
-        isbn_buscado (str): ISBN a buscar
+        isbn_buscado (str): ISBN a buscar (puede venir con o sin guiones)
 
     Returns:
         dict: Información del libro con todos sus ejemplares, o None si no se encuentra
     """
+    # Normalizar el ISBN buscado
+    isbn_buscado_normalizado = normalizar_isbn(isbn_buscado)
+
     # Cargar índice
     indice = cargar_indice_isbn()
 
     # Llamar a la función recursiva
-    return _busqueda_binaria_recursiva(indice, isbn_buscado, 0, len(indice) - 1)
+    return _busqueda_binaria_recursiva(indice, isbn_buscado_normalizado, 0, len(indice) - 1)
 
 
 def _busqueda_binaria_recursiva(indice, isbn_buscado, izquierda, derecha):
@@ -101,7 +210,7 @@ def _busqueda_binaria_recursiva(indice, isbn_buscado, izquierda, derecha):
 
     Args:
         indice (list): Lista ordenada de libros por ISBN
-        isbn_buscado (str): ISBN a buscar
+        isbn_buscado (str): ISBN a buscar (ya normalizado)
         izquierda (int): Índice izquierdo del rango de búsqueda
         derecha (int): Índice derecho del rango de búsqueda
 
@@ -114,7 +223,7 @@ def _busqueda_binaria_recursiva(indice, isbn_buscado, izquierda, derecha):
 
     # Calcular punto medio
     medio = (izquierda + derecha) // 2
-    isbn_medio = indice[medio]['isbn']
+    isbn_medio = normalizar_isbn(indice[medio]['isbn'])
 
     # Caso base: se encontró el ISBN
     if isbn_medio == isbn_buscado:

@@ -20,7 +20,9 @@ from presentation.libros import (
     ejecutar_agregar_libro,
     ejecutar_modificar_libro,
     ejecutar_eliminar_libro,
-    ejecutar_listar_libros
+    ejecutar_listar_libros,
+    ejecutar_listar_generos,
+    ejecutar_listar_autores
 )
 
 from presentation.prestamos import (
@@ -103,9 +105,11 @@ def menu_libros():
         print("2. Modificar libro")
         print("3. Eliminar libro")
         print("4. Listar libros")
+        print("5. Listar géneros")
+        print("6. Listar autores")
         print("0. Volver al menú principal")
 
-        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=4)
+        opcion = input_numero("Seleccione una opción: ", minimo=0, maximo=6)
 
         if opcion == 1:
             limpiar_consola()
@@ -122,6 +126,14 @@ def menu_libros():
         elif opcion == 4:
             limpiar_consola()
             ejecutar_listar_libros()
+            pausar()
+        elif opcion == 5:
+            limpiar_consola()
+            ejecutar_listar_generos()
+            pausar()
+        elif opcion == 6:
+            limpiar_consola()
+            ejecutar_listar_autores()
             pausar()
         elif opcion == 0:
             return

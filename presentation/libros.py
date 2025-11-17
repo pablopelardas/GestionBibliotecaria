@@ -11,6 +11,10 @@ from negocio.libro_service import (
     listar_libros
 )
 from negocio.buscador_service import busqueda_binaria_isbn
+from utils.conjuntos import (
+    obtener_generos_unicos, 
+    obtener_autores_unicos
+)
 
 # ALTA DE LIBRO
 def ejecutar_agregar_libro():
@@ -92,3 +96,23 @@ def ejecutar_listar_libros():
             print(f"- {libro['title']} - {libro['autor']} | {libro['genero']}")
 
     pausar()
+
+# LISTAR GENEROS
+def ejecutar_listar_generos():
+    """Ejecuta el listado de géneros y muestra los resultados"""
+    libros = listar_libros()
+    generos = obtener_generos_unicos(libros)
+
+    print("\n---📚 Listado de géneros 📚---")
+    for g in sorted(generos):
+        print(f" - {g}")
+
+# LISTAR AUTORES
+def ejecutar_listar_autores():
+    """Ejecuta el listado de autores y muestra los resultados"""
+    libros = listar_libros()
+    autores = obtener_autores_unicos(libros)
+
+    print("\n---📚 Listado de autores 📚---")
+    for a in sorted(autores):
+        print(f" - {a}")

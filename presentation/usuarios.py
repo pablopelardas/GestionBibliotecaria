@@ -39,11 +39,14 @@ def generar_user_id() -> str:
 
 
 def input_nombre(prompt: str) -> str:
-    """Pide un nombre solo con letras y espacios"""
+    """Pide un nombre solo con letras y espacios y mínimo 3 caracteres"""
     while True:
         valor = input(prompt).strip()
+
         if not valor:
             print("❌ El nombre no puede estar vacío.")
+        elif len(valor.replace(" ", "")) < 3:  # Contar solo letras reales
+            print("❌ El nombre debe tener al menos 3 letras.")
         elif not all(c.isalpha() or c.isspace() for c in valor):
             print("❌ El nombre solo puede contener letras y espacios.")
         else:

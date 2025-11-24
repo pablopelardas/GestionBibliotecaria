@@ -16,12 +16,25 @@ from utils.conjuntos import (
     obtener_autores_unicos
 )
 
+# Validación de caracteres
+def input_texto_min(mensaje, minimo=2):
+    """Pide un texto con mínimo de caracteres, siendo 2 el valor por defecto"""
+    while True:
+        valor = input(mensaje).strip()
+        if len(valor) < minimo:
+            print(f"❌ Debe tener al menos {minimo} caracteres.")
+        else:
+            return valor
+
 # ALTA DE LIBRO
 def ejecutar_agregar_libro():
     """Ejecuta agregar libro"""
     print("\n--- Alta de libro ---")
 
     isbn = input("Ingrese el ISBN: ").strip()
+    while len(isbn) < 5:
+        print("❌ El ISBN es demasiado corto.")
+        isbn = input("Ingrese el ISBN: ").strip()
 
     #Chequeamos si ya existe el ISBN
     libro_existente = busqueda_binaria_isbn(isbn)
@@ -40,9 +53,9 @@ def ejecutar_agregar_libro():
         #No existe asi que pedimos datos del nuevo libro
         datos = {
             "isbn": isbn,
-            "title": input("Ingrese el título: ").strip(),
-            "autor": input("Ingrese el autor: ").strip(),
-            "genero": input("Ingrese el género: ").strip().lower()
+            "title": input_texto_min("Ingrese el título: ", minimo=3),
+            "autor": input_texto_min("Ingrese el autor: ", minimo=3),
+            "genero": input_texto_min("Ingrese el género: ", minimo=3).lower()
         }
 
         libro_id = agregar_libro(datos)
@@ -95,15 +108,13 @@ def ejecutar_listar_libros():
         for libro in libros:
             print(f"- {libro['title']} - {libro['autor']} | {libro['genero']}")
 
-    pausar()
-
 # LISTAR GENEROS
 def ejecutar_listar_generos():
     """Ejecuta el listado de géneros y muestra los resultados"""
     libros = listar_libros()
     generos = obtener_generos_unicos(libros)
 
-    print("\n---📚 Listado de géneros 📚---")
+    print("\n---📖 Listado de géneros 📖---")
     for g in sorted(generos):
         print(f" - {g}")
 
@@ -113,6 +124,6 @@ def ejecutar_listar_autores():
     libros = listar_libros()
     autores = obtener_autores_unicos(libros)
 
-    print("\n---📚 Listado de autores 📚---")
+    print("\n---👤 Listado de autores 👤---")
     for a in sorted(autores):
         print(f" - {a}")
